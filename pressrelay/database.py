@@ -1,44 +1,73 @@
-import asyncio
-import datetime
-import yaml
+import enum
+from datetime import datetime
+from typing import Any, Dict, Optional, List
 
-from sqlalchemy import Column, Integer, String, DateTime
-from sqlalchemy.orm import declarative_base
-from sqlalchemy.ext.asyncio import create_async_engine, async_sessionmaker
+from sqlalchemy import Column, String, Integer, DateTime, JSON, Enum, ForeignKey, Index
+from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession, async_sessionmaker
+from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 
-# Load configuration
-def load_config():
-    with open("config.yml", "r") as f:
-        return yaml.safe_load(f)
+# 1. New Enums and Statuses
+class ArticleStatus(enum.Enum):
+    PENDING = "pending"
+    SUCCESS = "success"
+    FAILED = "failed"
 
-config = load_config()
-DATABASE_URL = config["database"]["url"]
 
-engine = create_async_engine(DATABASE_URL)
-AsyncSessionLocal = async_sessionmaker(autocommit=False, autoflush=False, bind=engine)
-Base = declarative_base()
+class Base(DeclarativeBase):
+    pass
 
-# Define the Article model
+
+# 2. Schema Models
+class Feed(Base):
+    __tablename__ = "feeds"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    url: Mapped[str] = mapped_column(String, unique=True, index=True)
+    name: Mapped[Optional[str]] = mapped_column(String)
+    last_fetch_at: Mapped[Optional[datetime]] = mapped_column(DateTime)
+    error_count: Mapped[int] = mapped_column(Integer, default=0)
+    
+    # Relationship to articles
+    articles: Mapped[List["Article"]] = relationship(back_populates="feed", cascade="all, delete-orphan")
+
+
 class Article(Base):
     __tablename__ = "articles"
 
-    id = Column(Integer, primary_key=True, index=True)
-    title = Column(String)
-    url = Column(String, unique=True, index=True)
-    source_feed = Column(String)
-    published_date = Column(DateTime)
-    processed_date = Column(DateTime, default=datetime.datetime.utcnow)
-    markdown_path = Column(String)
+    id: Mapped[int] = mapped_column(primary_key=True)
+    url: Mapped[str] = mapped_column(String, unique=True, index=True)
+    title: Mapped[str] = mapped_column(String)
+    source_feed: Mapped[str] = mapped_column(String)  # For backward compatibility/legacy
+    
+    # New Fields
+    status: Mapped[ArticleStatus] = mapped_column(Enum(ArticleStatus), default=ArticleStatus.PENDING)
+    content_hash: Mapped[Optional[str]] = mapped_column(String, index=True)
+    published_at: Mapped[Optional[datetime]] = mapped_column(DateTime)
+    processed_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+    
+    # Rich Storage
+    markdown_path: Mapped[Optional[str]] = mapped_column(String)
+    metadata_json: Mapped[Dict[str, Any]] = mapped_column(JSON, default=dict)
+    
+    # Link to Feed table
+    feed_id: Mapped[Optional[int]] = mapped_column(ForeignKey("feeds.id"))
+    feed: Mapped[Optional[Feed]] = relationship(back_populates="articles")
 
-    def __repr__(self):
-        return f"<Article(title='{self.title[:30]}...', url='{self.url}')>"
+    # Composite Index for faster lookups
+    __table_args__ = (
+        Index("ix_article_url_status", "url", "status"),
+    )
 
-# Function to create the database tables
-async def create_db_and_tables():
+
+# 3. Database Connection Utility
+async def get_db_engine(db_url: str):
+    return create_async_engine(db_url, echo=False)
+
+
+def get_session_factory(engine):
+    return async_sessionmaker(engine, expire_on_commit=False, class_=AsyncSession)
+
+
+async def create_db_and_tables(engine):
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
-
-if __name__ == "__main__":
-    print("Creating database and tables...")
-    asyncio.run(create_db_and_tables())
-    print("Done.")
