@@ -131,6 +131,30 @@ async def process_and_save_article(
         else:
             logger.success(f"Successfully saved article: {entry.get('title')}")
 
+async def update_feed_health(
+    feed_cfg: FeedConfig, 
+    session_factory: Callable[[], AsyncSession],
+    error: bool = False
+):
+    """Updates the feeds table with the latest fetch status."""
+    async with session_factory() as session:
+        # Check if feed exists, if not create it
+        stmt = select(Feed).where(Feed.url == feed_cfg.url)
+        result = await session.execute(stmt)
+        feed = result.scalars().first()
+        
+        if not feed:
+            feed = Feed(url=feed_cfg.url, name=feed_cfg.name)
+            session.add(feed)
+        
+        feed.last_fetch_at = datetime.utcnow()
+        if error:
+            feed.error_count += 1
+        else:
+            feed.error_count = 0 # Reset on success
+            
+        await session.commit()
+
 async def feed_processing_loop(
     feed_cfg: FeedConfig, 
     app_config: AppConfig,
@@ -151,6 +175,7 @@ async def feed_processing_loop(
     
     while True:
         logger.info(f"Fetching feed: {feed_cfg.name or feed_cfg.url}")
+        fetch_error = False
         try:
             # feedparser is synchronous, run in executor
             loop = asyncio.get_running_loop()
@@ -164,6 +189,10 @@ async def feed_processing_loop(
 
         except Exception as e:
             logger.error(f"Error processing feed {feed_cfg.url}: {e}")
+            fetch_error = True
+
+        # Update health status
+        await update_feed_health(feed_cfg, session_factory, error=fetch_error)
 
         logger.info(f"Feed '{feed_cfg.name or feed_cfg.url}' cycle complete. Sleeping {feed_cfg.interval_seconds}s")
         await asyncio.sleep(feed_cfg.interval_seconds)
