@@ -27,6 +27,10 @@ class Feed(Base):
     last_fetch_at: Mapped[Optional[datetime]] = mapped_column(DateTime)
     error_count: Mapped[int] = mapped_column(Integer, default=0)
     
+    # HTTP Efficiency Headers
+    etag: Mapped[Optional[str]] = mapped_column(String)
+    last_modified: Mapped[Optional[str]] = mapped_column(String)
+    
     # Relationship to articles
     articles: Mapped[List["Article"]] = relationship(back_populates="feed", cascade="all, delete-orphan")
 

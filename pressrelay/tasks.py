@@ -134,9 +134,11 @@ async def process_and_save_article(
 async def update_feed_health(
     feed_cfg: FeedConfig, 
     session_factory: Callable[[], AsyncSession],
-    error: bool = False
+    error: bool = False,
+    etag: Optional[str] = None,
+    last_modified: Optional[str] = None
 ):
-    """Updates the feeds table with the latest fetch status."""
+    """Updates the feeds table with the latest fetch status and efficiency headers."""
     async with session_factory() as session:
         # Check if feed exists, if not create it
         stmt = select(Feed).where(Feed.url == feed_cfg.url)
@@ -152,6 +154,11 @@ async def update_feed_health(
             feed.error_count += 1
         else:
             feed.error_count = 0 # Reset on success
+            
+        if etag:
+            feed.etag = etag
+        if last_modified:
+            feed.last_modified = last_modified
             
         await session.commit()
 
@@ -176,23 +183,47 @@ async def feed_processing_loop(
     while True:
         logger.info(f"Fetching feed: {feed_cfg.name or feed_cfg.url}")
         fetch_error = False
+        etag = None
+        last_modified = None
+        
+        # Get existing headers from DB
+        async with session_factory() as session:
+            stmt = select(Feed).where(Feed.url == feed_cfg.url)
+            res = await session.execute(stmt)
+            db_feed = res.scalars().first()
+            if db_feed:
+                etag = db_feed.etag
+                last_modified = db_feed.last_modified
+
         try:
             # feedparser is synchronous, run in executor
             loop = asyncio.get_running_loop()
-            feed_data = await loop.run_in_executor(None, feedparser.parse, feed_cfg.url)
+            
+            # feedparser supports etag and modified parameters
+            feed_data = await loop.run_in_executor(
+                None, 
+                lambda: feedparser.parse(feed_cfg.url, etag=etag, modified=last_modified)
+            )
+            
+            logger.debug(f"Feed {feed_cfg.url} response status: {getattr(feed_data, 'status', 'N/A')}, etag: {getattr(feed_data, 'etag', 'N/A')}, modified: {getattr(feed_data, 'modified', 'N/A')}")
 
-            tasks = [
-                process_and_save_article(entry, feed_cfg, client, app_config, session_factory, keyword_processor)
-                for entry in feed_data.entries
-            ]
-            await asyncio.gather(*tasks)
+            if feed_data.status == 304:
+                logger.info(f"Feed '{feed_cfg.name or feed_cfg.url}' unchanged (304 Not Modified).")
+            else:
+                tasks = [
+                    process_and_save_article(entry, feed_cfg, client, app_config, session_factory, keyword_processor)
+                    for entry in feed_data.entries
+                ]
+                await asyncio.gather(*tasks)
+
+            # Update health status and headers
+            new_etag = getattr(feed_data, 'etag', None)
+            new_modified = getattr(feed_data, 'modified', None)
+            await update_feed_health(feed_cfg, session_factory, error=False, etag=new_etag, last_modified=new_modified)
 
         except Exception as e:
             logger.error(f"Error processing feed {feed_cfg.url}: {e}")
-            fetch_error = True
-
-        # Update health status
-        await update_feed_health(feed_cfg, session_factory, error=fetch_error)
+            await update_feed_health(feed_cfg, session_factory, error=True)
 
         logger.info(f"Feed '{feed_cfg.name or feed_cfg.url}' cycle complete. Sleeping {feed_cfg.interval_seconds}s")
         await asyncio.sleep(feed_cfg.interval_seconds)
