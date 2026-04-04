@@ -5,7 +5,7 @@ import hashlib
 import feedparser
 from datetime import datetime
 from time import mktime
-from typing import Optional, Callable, List
+from typing import Optional, Callable, List, Tuple, Dict, Any
 import httpx
 import aiofiles
 from flashtext import KeywordProcessor
@@ -34,12 +34,13 @@ async def process_and_save_article(
     client: httpx.AsyncClient, 
     app_config: AppConfig,
     session_factory: Callable[[], AsyncSession],
-    keyword_processor: Optional[KeywordProcessor] = None
-):
+    keyword_processor: Optional[KeywordProcessor] = None,
+    dry_run: bool = False
+) -> bool:
     """Processes a single article entry: fetches, converts, and saves with V2 logic."""
     article_url = entry.get('link')
     if not article_url:
-        return
+        return False
 
     async with session_factory() as session:
         # 1. Check if article already exists in the DB
@@ -48,25 +49,26 @@ async def process_and_save_article(
         existing_article = result.scalars().first()
         
         if existing_article and existing_article.status == ArticleStatus.SUCCESS:
-            return  # Already processed successfully
+            return True  # Already processed successfully
 
-        logger.info(f"New article found: '{entry.get('title', 'No Title')}'")
+        logger.info(f"{'[DRY RUN] ' if dry_run else ''}Processing article: '{entry.get('title', 'No Title')}'")
 
         # 2. Fetch and convert the article content
         markdown_content, metadata = await fetch_and_convert_to_markdown(article_url, client)
         
         if not markdown_content:
-            # Create a failed record if it doesn't exist
-            if not existing_article:
-                failed_article = Article(
-                    title=entry.get('title', 'Unknown'),
-                    url=article_url,
-                    source_feed=feed_cfg.url,
-                    status=ArticleStatus.FAILED
-                )
-                session.add(failed_article)
-                await session.commit()
-            return
+            if not dry_run:
+                # Create a failed record if it doesn't exist
+                if not existing_article:
+                    failed_article = Article(
+                        title=entry.get('title', 'Unknown'),
+                        url=article_url,
+                        source_feed=feed_cfg.url,
+                        status=ArticleStatus.FAILED
+                    )
+                    session.add(failed_article)
+                    await session.commit()
+            return False
 
         # 3. Determine metadata, hashes, and tickers
         content_hash = get_content_hash(markdown_content)
@@ -82,12 +84,15 @@ async def process_and_save_article(
             metadata = {}
         metadata['detected_tickers'] = detected_tickers
 
+        if dry_run:
+            logger.info(f"[DRY RUN] Would save article: {entry.get('title')} (Tickers: {', '.join(detected_tickers)})")
+            return True
+
         published_at = datetime.utcnow()
         if hasattr(entry, 'published_parsed') and entry.published_parsed:
             published_at = datetime.fromtimestamp(mktime(entry.published_parsed))
 
         # 4. Save markdown file (V2 hashed structure: ab/cd/hash-slug.md)
-        # Using first 4 chars of hash for a 2-level nest
         h = content_hash
         hash_dir = app_config.storage_path / h[0:2] / h[2:4]
         hash_dir.mkdir(parents=True, exist_ok=True)
@@ -101,7 +106,7 @@ async def process_and_save_article(
                 await f.write(markdown_content)
         except IOError as e:
             logger.error(f"Error saving markdown file {file_path}: {e}")
-            return
+            return False
 
         # 5. Update or Create Article record
         if existing_article:
@@ -130,6 +135,7 @@ async def process_and_save_article(
             logger.success(f"Successfully saved article: {entry.get('title')} (Tickers: {', '.join(detected_tickers)})")
         else:
             logger.success(f"Successfully saved article: {entry.get('title')}")
+        return True
 
 async def update_feed_health(
     feed_cfg: FeedConfig, 
@@ -166,7 +172,8 @@ async def feed_processing_loop(
     feed_cfg: FeedConfig, 
     app_config: AppConfig,
     session_factory: Callable[[], AsyncSession],
-    client: httpx.AsyncClient
+    client: httpx.AsyncClient,
+    dry_run: bool = False
 ):
     """Infinite loop for fetching and processing a single RSS feed."""
     
@@ -186,14 +193,15 @@ async def feed_processing_loop(
         etag = None
         last_modified = None
         
-        # Get existing headers from DB
-        async with session_factory() as session:
-            stmt = select(Feed).where(Feed.url == feed_cfg.url)
-            res = await session.execute(stmt)
-            db_feed = res.scalars().first()
-            if db_feed:
-                etag = db_feed.etag
-                last_modified = db_feed.last_modified
+        # Get existing headers from DB (skip if dry run)
+        if not dry_run:
+            async with session_factory() as session:
+                stmt = select(Feed).where(Feed.url == feed_cfg.url)
+                res = await session.execute(stmt)
+                db_feed = res.scalars().first()
+                if db_feed:
+                    etag = db_feed.etag
+                    last_modified = db_feed.last_modified
 
         try:
             # feedparser is synchronous, run in executor
@@ -211,19 +219,21 @@ async def feed_processing_loop(
                 logger.info(f"Feed '{feed_cfg.name or feed_cfg.url}' unchanged (304 Not Modified).")
             else:
                 tasks = [
-                    process_and_save_article(entry, feed_cfg, client, app_config, session_factory, keyword_processor)
+                    process_and_save_article(entry, feed_cfg, client, app_config, session_factory, keyword_processor, dry_run=dry_run)
                     for entry in feed_data.entries
                 ]
                 await asyncio.gather(*tasks)
 
             # Update health status and headers
-            new_etag = getattr(feed_data, 'etag', None)
-            new_modified = getattr(feed_data, 'modified', None)
-            await update_feed_health(feed_cfg, session_factory, error=False, etag=new_etag, last_modified=new_modified)
+            if not dry_run:
+                new_etag = getattr(feed_data, 'etag', None)
+                new_modified = getattr(feed_data, 'modified', None)
+                await update_feed_health(feed_cfg, session_factory, error=False, etag=new_etag, last_modified=new_modified)
 
         except Exception as e:
             logger.error(f"Error processing feed {feed_cfg.url}: {e}")
-            await update_feed_health(feed_cfg, session_factory, error=True)
+            if not dry_run:
+                await update_feed_health(feed_cfg, session_factory, error=True)
 
         logger.info(f"Feed '{feed_cfg.name or feed_cfg.url}' cycle complete. Sleeping {feed_cfg.interval_seconds}s")
         await asyncio.sleep(feed_cfg.interval_seconds)

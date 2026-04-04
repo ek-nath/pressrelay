@@ -20,10 +20,11 @@ async def backfill_ticker(
     app_config,
     session_factory,
     client,
-    keyword_processor
+    keyword_processor,
+    dry_run: bool = False
 ):
     """Backfills news for a specific ticker from Yahoo Finance."""
-    logger.info(f"Backfilling ticker: {ticker_symbol}")
+    logger.info(f"{'[DRY RUN] ' if dry_run else ''}Backfilling ticker: {ticker_symbol}")
     
     try:
         # yfinance is synchronous, but we only call it once per ticker
@@ -71,18 +72,20 @@ async def backfill_ticker(
             from pressrelay.config import FeedConfig
             mock_feed_cfg = FeedConfig(url=f"backfill://{provider}", name=provider)
 
-            await process_and_save_article(
+            success = await process_and_save_article(
                 mock_entry,
                 mock_feed_cfg,
                 client,
                 app_config,
                 session_factory,
-                keyword_processor
+                keyword_processor,
+                dry_run=dry_run
             )
-            processed_count += 1
+            if success:
+                processed_count += 1
             
         if processed_count > 0:
-            logger.success(f"Backfilled {processed_count} articles for {ticker_symbol}")
+            logger.success(f"{'[DRY RUN] Would have backfilled' if dry_run else 'Backfilled'} {processed_count} articles for {ticker_symbol}")
 
     except Exception as e:
         logger.error(f"Error backfilling ticker {ticker_symbol}: {e}")
@@ -91,6 +94,7 @@ async def main():
     parser = argparse.ArgumentParser(description="Backfill historical news articles.")
     parser.add_argument("--start-date", type=str, default="2026-01-01", help="ISO date YYYY-MM-DD")
     parser.add_argument("--ticker", type=str, help="Specific ticker to backfill (optional)")
+    parser.add_argument("--dry-run", action="store_true", help="Run without saving changes")
     args = parser.parse_args()
 
     start_date = datetime.fromisoformat(args.start_date)
@@ -113,7 +117,7 @@ async def main():
         else:
             tickers_to_process = all_tickers
 
-    logger.info(f"Starting backfill from {args.start_date} for {len(tickers_to_process)} tickers.")
+    logger.info(f"Starting {'[DRY RUN] ' if args.dry_run else ''}backfill from {args.start_date} for {len(tickers_to_process)} tickers.")
     
     client = AsyncClientManager.get_client()
     
@@ -122,7 +126,7 @@ async def main():
     for i in range(0, len(tickers_to_process), chunk_size):
         chunk = tickers_to_process[i:i+chunk_size]
         tasks = [
-            backfill_ticker(t, start_date, config, session_factory, client, keyword_processor)
+            backfill_ticker(t, start_date, config, session_factory, client, keyword_processor, dry_run=args.dry_run)
             for t in chunk
         ]
         await asyncio.gather(*tasks)
