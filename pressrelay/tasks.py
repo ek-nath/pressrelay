@@ -5,15 +5,16 @@ import hashlib
 import feedparser
 from datetime import datetime
 from time import mktime
-from typing import Optional, Callable
+from typing import Optional, Callable, List
 import httpx
 import aiofiles
+from flashtext import KeywordProcessor
 
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select
 
 from pressrelay.logger import logger
-from pressrelay.database import Article, ArticleStatus, Feed
+from pressrelay.database import Article, ArticleStatus, Feed, Watchlist
 from pressrelay.processing import fetch_and_convert_to_markdown
 from pressrelay.config import AppConfig, FeedConfig
 
@@ -32,7 +33,8 @@ async def process_and_save_article(
     feed_cfg: FeedConfig, 
     client: httpx.AsyncClient, 
     app_config: AppConfig,
-    session_factory: Callable[[], AsyncSession]
+    session_factory: Callable[[], AsyncSession],
+    keyword_processor: Optional[KeywordProcessor] = None
 ):
     """Processes a single article entry: fetches, converts, and saves with V2 logic."""
     article_url = entry.get('link')
@@ -66,8 +68,20 @@ async def process_and_save_article(
                 await session.commit()
             return
 
-        # 3. Determine metadata and hashes
+        # 3. Determine metadata, hashes, and tickers
         content_hash = get_content_hash(markdown_content)
+        
+        # Detect tickers
+        detected_tickers = []
+        if keyword_processor and markdown_content:
+            detected_tickers = keyword_processor.extract_keywords(markdown_content)
+            # Dedup
+            detected_tickers = list(set(detected_tickers))
+            
+        if metadata is None:
+            metadata = {}
+        metadata['detected_tickers'] = detected_tickers
+
         published_at = datetime.utcnow()
         if hasattr(entry, 'published_parsed') and entry.published_parsed:
             published_at = datetime.fromtimestamp(mktime(entry.published_parsed))
@@ -96,7 +110,7 @@ async def process_and_save_article(
             existing_article.published_at = published_at
             existing_article.markdown_path = str(file_path)
             existing_article.processed_at = datetime.utcnow()
-            existing_article.metadata_json = metadata or {}
+            existing_article.metadata_json = metadata
         else:
             new_article = Article(
                 title=entry.get('title', 'Unknown'),
@@ -107,12 +121,15 @@ async def process_and_save_article(
                 published_at=published_at,
                 markdown_path=str(file_path),
                 processed_at=datetime.utcnow(),
-                metadata_json=metadata or {}
+                metadata_json=metadata
             )
             session.add(new_article)
             
         await session.commit()
-        logger.success(f"Successfully saved article: {entry.get('title')}")
+        if detected_tickers:
+            logger.success(f"Successfully saved article: {entry.get('title')} (Tickers: {', '.join(detected_tickers)})")
+        else:
+            logger.success(f"Successfully saved article: {entry.get('title')}")
 
 async def feed_processing_loop(
     feed_cfg: FeedConfig, 
@@ -122,6 +139,16 @@ async def feed_processing_loop(
 ):
     """Infinite loop for fetching and processing a single RSS feed."""
     
+    # Initialize KeywordProcessor for ticker detection
+    keyword_processor = KeywordProcessor()
+    async with session_factory() as session:
+        result = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
+        active_tickers = result.scalars().all()
+        for ticker in active_tickers:
+            keyword_processor.add_keyword(ticker)
+    
+    logger.info(f"Ticker detection initialized with {len(active_tickers)} tickers for {feed_cfg.url}")
+    
     while True:
         logger.info(f"Fetching feed: {feed_cfg.name or feed_cfg.url}")
         try:
@@ -130,7 +157,7 @@ async def feed_processing_loop(
             feed_data = await loop.run_in_executor(None, feedparser.parse, feed_cfg.url)
 
             tasks = [
-                process_and_save_article(entry, feed_cfg, client, app_config, session_factory)
+                process_and_save_article(entry, feed_cfg, client, app_config, session_factory, keyword_processor)
                 for entry in feed_data.entries
             ]
             await asyncio.gather(*tasks)

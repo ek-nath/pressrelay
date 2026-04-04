@@ -31,6 +31,15 @@ class Feed(Base):
     articles: Mapped[List["Article"]] = relationship(back_populates="feed", cascade="all, delete-orphan")
 
 
+class Watchlist(Base):
+    __tablename__ = "watchlist"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    ticker: Mapped[str] = mapped_column(String, unique=True, index=True)
+    name: Mapped[Optional[str]] = mapped_column(String)
+    is_active: Mapped[bool] = mapped_column(Integer, default=1) # 1 for True, 0 for False
+
+
 class Article(Base):
     __tablename__ = "articles"
 

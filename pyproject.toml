@@ -8,6 +8,7 @@ dependencies = [
     "aiofiles>=25.1.0",
     "aiosqlite>=0.22.1",
     "feedparser>=6.0.12",
+    "flashtext>=2.7",
     "greenlet>=3.2.5",
     "html-to-markdown>=3.1.0",
     "httpx>=0.28.1",
