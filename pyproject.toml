@@ -1,0 +1,19 @@
+[project]
+name = "pressrelay"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "aiofiles>=25.1.0",
+    "aiosqlite>=0.22.1",
+    "feedparser>=6.0.12",
+    "greenlet>=3.2.5",
+    "html-to-markdown>=3.1.0",
+    "httpx>=0.28.1",
+    "loguru>=0.7.3",
+    "lxml-html-clean>=0.4.4",
+    "pyyaml>=6.0.3",
+    "sqlalchemy>=2.0.49",
+    "trafilatura>=2.0.0",
+]
