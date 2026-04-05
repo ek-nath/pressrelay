@@ -1,75 +1,54 @@
 # Development Guide
 
-This document provides technical details and instructions for developers looking to contribute to or extend `pressrelay`.
+This document provides technical details for developers looking to maintain or extend the `pressrelay` service.
 
-## Quick Start
+## Core Architectural Patterns
 
-The project uses `uv` for lightning-fast dependency management and Python environment handling.
+### 1. Asynchronous Pipeline
+The service is built on `asyncio`. All I/O operations (HTTP requests via `httpx`, Database queries via `aiosqlite`, and File I/O via `aiofiles`) are non-blocking. This allows the service to process multiple RSS feeds and articles concurrently.
 
-1.  **Install `uv`** (if not already installed):
-    ```bash
-    curl -LsSf https://astral.sh/uv/install.sh | sh
-    ```
+### 2. Ticker Detection (High Performance)
+Instead of using slow regular expressions for 1,100+ tickers, we use **FlashText**. 
+- Tickers are loaded from the `watchlist` table into a `KeywordProcessor` singleton within each feed loop.
+- Detection is $O(N)$ relative to the length of the article, regardless of the number of tickers in the watchlist.
 
-2.  **Sync Environment:**
-    ```bash
-    uv sync
-    ```
-    This will automatically create a `.venv` with Python 3.14 and install all dependencies.
+### 3. Content-Addressed Hashed Storage
+To prevent filesystem performance degradation and filename collisions:
+- We generate a SHA256 hash of the cleaned Markdown content.
+- Files are stored at `data/storage/{hash[0:2]}/{hash[2:4]}/{hash[0:10]}-{slug}.md`.
+- This ensures a balanced directory tree and easy deduplication.
 
-3.  **Run the Service:**
-    ```bash
-    uv run -m pressrelay.main
-    ```
+### 4. HTTP Efficiency
+The `feeds` table tracks `etag` and `last_modified` headers.
+- `feedparser` sends these headers in subsequent requests.
+- If the server returns a `304 Not Modified`, we skip the entire parsing and processing cycle for that feed.
 
-## Architecture Deep-Dive
+## Database Schema (V2)
 
-`pressrelay` is designed as an asynchronous service to handle multiple RSS feeds and network requests concurrently.
+- **`feeds`**: Tracks RSS sources, health (error counts), and efficiency headers.
+- **`watchlist`**: Stores the stock symbols to be detected in articles.
+- **`articles`**: Stores metadata, content hashes, detected tickers (in `metadata_json`), and the local storage path.
 
-### 1. Entry Point (`pressrelay/main.py`)
-Initializes the database using `SQLAlchemy` (with `aiosqlite` for async support) and kicks off the main processing loop.
+## Key Modules
 
-### 2. Task Orchestration (`pressrelay/tasks.py`)
-Contains the logic for:
--   Fetching RSS feeds using `feedparser`.
--   Filtering out already processed articles by checking the database.
--   Managing the async concurrency for processing multiple articles.
+- **`pressrelay/main.py`**: Service entry point and loop orchestrator.
+- **`pressrelay/tasks.py`**: The "workhorse" containing ingestion, extraction, and saving logic.
+- **`pressrelay/backfill.py`**: logic for historical ingestion via Yahoo Finance.
+- **`pressrelay/retry.py`**: Targeted re-processing of failed articles.
+- **`pressrelay/importer.py`**: Utility to seed the watchlist.
+- **`pressrelay/client.py`**: Singleton `httpx.AsyncClient` manager.
 
-### 3. Content Processing (`pressrelay/processing.py`)
-The pipeline for a single URL:
-1.  **Download:** Uses `httpx` to fetch the raw HTML.
-2.  **Extraction:** Uses `trafilatura` to identify and extract the "boiler-plate free" main content.
-3.  **Conversion:** Uses `html-to-markdown` to transform the cleaned HTML into structured Markdown.
+## Adding New Features
 
-### 4. Database (`pressrelay/database.py`)
-Uses `SQLAlchemy`'s async extension. The schema is defined in the `Article` class. Metadata includes:
--   Original URL (Unique constraint to prevent duplicates).
--   Local Markdown path.
--   Source feed and publication dates.
+### Custom Metadata Extraction
+If you need to extract more fields (e.g., social media counts or specific PR contact info), modify `pressrelay/processing.py`. The `metadata_json` column in the database is a flexible JSON field designed to store these extras without schema changes.
 
-## How to Extend
-
-### Adding a New Feed
-Modify `config.yml` in the project root:
-```yaml
-feeds:
-  - url: "https://example.com/rss"
-    interval_seconds: 600
-```
-
-### Changing the Markdown Logic
-If you want to customize how Markdown is generated (e.g., stripping certain tags or changing header styles), modify the `convert()` call in `pressrelay/processing.py`.
-
-### Database Migrations
-Currently, the project uses `create_db_and_tables()` which creates tables if they don't exist. For production-grade schema changes, consider adding `alembic`.
+### New Storage Backends
+The storage logic is currently in `tasks.py`. If moving to S3, you should abstract the `aiofiles` logic into a dedicated storage provider module.
 
 ## Testing
-The project uses `pytest`. Run tests using:
+Run the test suite (requires pytest):
 ```bash
 uv run pytest
 ```
-
-## Project Standards
--   **Logging:** Use `loguru`. Avoid `print()` statements in the core logic.
--   **Async:** All I/O bound operations (HTTP, DB, File System) MUST be `async`.
--   **Types:** Use Python type hints for all function signatures.
+*Note: Ensure you run with `--dry-run` when testing the main service to avoid polluting the local database.*
