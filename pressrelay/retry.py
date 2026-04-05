@@ -13,7 +13,7 @@ async def retry_failed_articles(dry_run: bool = False):
     session_factory = get_session_factory(engine)
     
     # 1. Initialize KeywordProcessor
-    keyword_processor = KeywordProcessor()
+    keyword_processor = KeywordProcessor(case_sensitive=True)
     async with session_factory() as session:
         res = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
         active_tickers = res.scalars().all()

@@ -178,7 +178,8 @@ async def feed_processing_loop(
     """Infinite loop for fetching and processing a single RSS feed."""
     
     # Initialize KeywordProcessor for ticker detection
-    keyword_processor = KeywordProcessor()
+    # Set case_sensitive=True to avoid matching common words like 'a', 'way', 'move'
+    keyword_processor = KeywordProcessor(case_sensitive=True)
     async with session_factory() as session:
         result = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
         active_tickers = result.scalars().all()

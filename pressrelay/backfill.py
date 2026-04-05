@@ -103,7 +103,7 @@ async def main():
     session_factory = get_session_factory(engine)
     
     # Initialize Ticker Detection
-    keyword_processor = KeywordProcessor()
+    keyword_processor = KeywordProcessor(case_sensitive=True)
     async with session_factory() as session:
         # Load all tickers for detection
         res = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
