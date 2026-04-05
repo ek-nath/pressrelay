@@ -5,20 +5,17 @@ from pressrelay.database import get_db_engine, get_session_factory, Article, Art
 from pressrelay.config import settings, FeedConfig
 from pressrelay.logger import logger
 from pressrelay.client import AsyncClientManager
-from pressrelay.tasks import process_and_save_article, KeywordProcessor
+from pressrelay.tasks import process_and_save_article
 
 async def retry_failed_articles(dry_run: bool = False):
     config = settings.load_config()
     engine = await get_db_engine(config.database_url)
     session_factory = get_session_factory(engine)
     
-    # 1. Initialize KeywordProcessor
-    keyword_processor = KeywordProcessor(case_sensitive=True)
+    # 1. Initialize Watchlist
     async with session_factory() as session:
         res = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
-        active_tickers = res.scalars().all()
-        for t in active_tickers:
-            keyword_processor.add_keyword(t)
+        active_tickers = set(res.scalars().all())
 
     # 2. Get Failed Articles
     async with session_factory() as session:
@@ -36,7 +33,6 @@ async def retry_failed_articles(dry_run: bool = False):
         success_count = 0
         
         for art in failed_articles:
-            # Mock the entry/feed_cfg
             mock_entry = {
                 "link": art.url,
                 "title": art.title,
@@ -50,8 +46,9 @@ async def retry_failed_articles(dry_run: bool = False):
                 client,
                 config,
                 session_factory,
-                keyword_processor,
-                dry_run=dry_run
+                None,
+                dry_run=dry_run,
+                watchlist_set=active_tickers
             )
             if success:
                 success_count += 1

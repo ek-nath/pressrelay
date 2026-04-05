@@ -1,7 +1,7 @@
 import asyncio
 import argparse
 from datetime import datetime
-from typing import List
+from typing import List, Set
 
 import yfinance as yf
 from sqlalchemy import select
@@ -10,7 +10,7 @@ from pressrelay.logger import logger
 from pressrelay.config import settings
 from pressrelay.database import get_db_engine, get_session_factory, Watchlist, Article, ArticleStatus
 from pressrelay.client import AsyncClientManager
-from pressrelay.tasks import process_and_save_article, KeywordProcessor
+from pressrelay.tasks import process_and_save_article
 
 TRUSTED_PROVIDERS = {"GlobeNewswire", "BusinessWire", "PR Newswire", "PRNewswire"}
 
@@ -20,8 +20,8 @@ async def backfill_ticker(
     app_config,
     session_factory,
     client,
-    keyword_processor,
-    dry_run: bool = False
+    dry_run: bool = False,
+    watchlist_set: Set[str] = None
 ):
     """Backfills news for a specific ticker from Yahoo Finance."""
     logger.info(f"{'[DRY RUN] ' if dry_run else ''}Backfilling ticker: {ticker_symbol}")
@@ -49,7 +49,6 @@ async def backfill_ticker(
             if not pub_date_str:
                 continue
                 
-            # pub_date_str example: 2026-03-24T20:25:00Z
             pub_date = datetime.fromisoformat(pub_date_str.replace("Z", "+00:00"))
             
             if pub_date.replace(tzinfo=None) < start_date:
@@ -60,15 +59,12 @@ async def backfill_ticker(
             if not article_url:
                 continue
 
-            # Transform into a format compatible with process_and_save_article (which expects feedparser entry)
-            # We mock the entry dict
             mock_entry = {
                 "link": article_url,
                 "title": content.get("title", "No Title"),
                 "published_parsed": pub_date.timetuple()
             }
             
-            # Mock FeedConfig
             from pressrelay.config import FeedConfig
             mock_feed_cfg = FeedConfig(url=f"backfill://{provider}", name=provider)
 
@@ -78,9 +74,10 @@ async def backfill_ticker(
                 client,
                 app_config,
                 session_factory,
-                keyword_processor,
+                None,
                 dry_run=dry_run,
-                primary_ticker=ticker_symbol
+                primary_ticker=ticker_symbol,
+                watchlist_set=watchlist_set
             )
             if success:
                 processed_count += 1
@@ -103,35 +100,28 @@ async def main():
     engine = await get_db_engine(config.database_url)
     session_factory = get_session_factory(engine)
     
-    # Initialize Ticker Detection
-    keyword_processor = KeywordProcessor(case_sensitive=True)
+    # Initialize Watchlist for detection
     async with session_factory() as session:
-        # Load all tickers for detection
         res = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
-        all_tickers = res.scalars().all()
-        for t in all_tickers:
-            keyword_processor.add_keyword(t)
+        active_tickers = set(res.scalars().all())
             
-        # Determine which tickers to process
         if args.ticker:
             tickers_to_process = [args.ticker.upper()]
         else:
-            tickers_to_process = all_tickers
+            tickers_to_process = list(active_tickers)
 
     logger.info(f"Starting {'[DRY RUN] ' if args.dry_run else ''}backfill from {args.start_date} for {len(tickers_to_process)} tickers.")
     
     client = AsyncClientManager.get_client()
     
-    # Process in chunks to avoid overwhelming system/network
     chunk_size = 5
     for i in range(0, len(tickers_to_process), chunk_size):
         chunk = tickers_to_process[i:i+chunk_size]
         tasks = [
-            backfill_ticker(t, start_date, config, session_factory, client, keyword_processor, dry_run=args.dry_run)
+            backfill_ticker(t, start_date, config, session_factory, client, dry_run=args.dry_run, watchlist_set=active_tickers)
             for t in chunk
         ]
         await asyncio.gather(*tasks)
-        # Small sleep between chunks
         await asyncio.sleep(1)
 
     await AsyncClientManager.close_client()
