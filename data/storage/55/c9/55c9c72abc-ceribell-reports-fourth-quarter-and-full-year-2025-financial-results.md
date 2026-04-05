@@ -1,0 +1,45 @@
+SUNNYVALE, Calif., Feb. 24, 2026 (GLOBE NEWSWIRE) -- CeriBell, Inc. (Nasdaq: CBLL) (“Ceribell”), a medical technology company focused on transforming the diagnosis and management of patients with serious neurological conditions, today reported financial results for the fourth quarter and full year ended December 31, 2025.
+
+Fourth Quarter 2025 & Recent Highlights
+
+Reported total revenue of $24.8 million in the fourth quarter of 2025, a 34% increase compared to the same period in 2024
+
+Delivered total revenue of $89.1 million for the full year of 2025, a 36% increase over the prior year
+
+Ended the year with 647 total active accounts
+
+Achieved gross margin of 87% in the fourth quarter of 2025 and 88% for the full year of 2025
+
+Received FDA 510(k) clearance for first-of-its-kind continuous monitoring solution for delirium
+
+Received FDA 510(k) clearance for use of Clarity algorithm for neonates, becoming the first and only FDA-cleared seizure detection algorithm for pre-term neonates through adults
+
+Received FDA Breakthrough Device Designation for first-in-class large vessel occlusion (LVO) stroke detection and monitoring solution
+
+“2025 was a milestone year for Ceribell,” said co-founder and CEO Jane Chao, Ph.D. “We accelerated adoption across new and existing accounts, broadened the age range of our seizure detection algorithm to include pediatric and neonatal populations, and achieved critical regulatory milestones, unlocking incremental market opportunities that we believe exceed $1.5 billion. As we enter the new year, we believe these accomplishments position us well to drive continued growth and advance our long-term vision of making EEG a new vital sign.”
+
+Fourth Quarter 2025 Financial Results Total revenue in the fourth quarter of 2025 was $24.8 million, a 34% increase from $18.5 million in the fourth quarter of 2024. The increase was primarily driven by expansion into new accounts and continued growth in adoption within the company’s active account base. Product revenue for the fourth quarter of 2025 was $18.8 million, representing an increase of 33% from $14.1 million in the fourth quarter of 2024. Subscription revenue for the fourth quarter of 2025 was $6.0 million, representing an increase of 37% from $4.4 million in the fourth quarter of 2024.
+
+Gross profit in the fourth quarter of 2025 was $21.6 million, compared to $16.2 million for the fourth quarter of 2024. Gross margin for the fourth quarter of 2025 was 87%, compared to 88% for the same period in 2024.
+
+Operating expenses in the fourth quarter of 2025 were $36.2 million, compared to $29.1 million for the fourth quarter of 2024, representing an increase of 24%. The increase in operating expenses was primarily attributable to investments in the company’s commercial organization, increased headcount to support the growth of the business, legal expenses, and expenses related to operating as a public company.
+
+Net loss in the fourth quarter of 2025 was $13.5 million, or $0.36 net loss per share, compared to a net loss of $12.6 million, or $0.40 net loss per share, for the same period in 2024.
+
+Full Year 2025 Financial Results Total revenue in the full year of 2025 was $89.1 million, a 36% increase from $65.4 million in the full year of 2024. The increase was primarily driven by expansion into new accounts and continued growth in adoption within the company’s active account base. Product revenue for the full year of 2025 was $67.3 million, representing an increase of 34% from $50.1 million in the full year of 2024. Subscription revenue for the full year of 2025 was $21.7 million, representing an increase of 41% from $15.4 million in the full year of 2024.
+
+Gross profit in the full year of 2025 was $78.3 million, compared to $56.8 million for the full year of 2024. Gross margin for the full year of 2025 was 88% compared to 87% for the same period in 2024.
+
+Operating expenses in the full year of 2025 were $136.7 million, compared to $96.5 million for the full year of 2024, representing an increase of 42%. The increase in operating expenses was primarily attributable to investments in the company’s commercial organization, increased headcount to support the growth of the business, legal expenses, and expenses related to operating as a public company.
+
+Net loss in the full year of 2025 was $53.4 million, or $1.46 net loss per share, compared to a net loss of $40.5 million, or $3.39 net loss per share, for the same period in 2024.
+
+Cash, cash equivalents, and marketable securities totaled $159.3 million as of December 31, 2025.
+
+2026 Financial Outlook Ceribell expects revenue for the full year 2026 to be in the range of $111 million to $115 million, representing growth of approximately 25% to 29% over the company’s prior year revenue.
+
+Webcast and Conference Call Details Ceribell will host a conference call today, February 24, 2026, at 1:30 p.m. PT / 4:30 p.m. ET to discuss its fourth quarter and full year 2025 financial results. Investors interested in listening to the conference call may do so by dialing (800) 715-9871 for domestic callers or (646) 307-1963 for international callers and providing access code 9394689. A live and archived webcast of the event will be available on the “Investor Relations” section of the Ceribell website at https://investors.ceribell.com/.
+
+Forward-Looking Statements Except where otherwise noted, the information contained in this earnings release and the related attachments is as of February 24, 2026. We assume no obligation to update any forward-looking statements contained in this earnings release and the related attachments as a result of new information or future events or developments. This earnings release and the related attachments contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including statements about, among other topics, our anticipated operating and financial performance, including financial guidance and projections; business plans, strategy, goals and prospects; and expectations for our products. Given their forward-looking nature, these statements involve substantial risks, uncertainties and potentially inaccurate assumptions, and we cannot ensure that any outcome expressed in these forward-looking statements will be realized in whole or in part. You can identify these statements by the fact that they use future dates or use words such as “will,” “may,” “could,” “likely,” “ongoing,” “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “believe,” “assume,” “target,” “forecast,” “guidance,” “goal,” “objective,” “aim,” “seek,” “potential,” “hope” and other words and terms of similar meaning. Ceribell’s financial guidance is based on estimates and assumptions that are subject to significant uncertainties. Among the factors that could cause actual results to differ materially from past results and future plans and projected future results are the following: risks related to our limited operating history and history of net losses; our ability to successfully achieve substantial market acceptance and adoption of our products; competitive pressures; our ability to adapt our manufacturing and production capacities to evolving patterns of demand, governmental actions and customer trends; the manufacturing of a substantial number of our product components and their assembly in China and Vietnam; product defects or complaints and related liability; the complexity, timing, expense, and outcomes of clinical studies, legal matters and regulatory compliance; our ability to obtain and maintain adequate coverage and reimbursement levels for our products; our ability to comply with changing laws and regulatory requirements and resulting costs; our dependence on a limited number of suppliers; and other risks and uncertainties, including those described under the heading “Risk Factors” in our Registration Statement on Form S-1, Annual Report on Form 10-K, and other reports filed with the U.S. Securities and Exchange Commission (“SEC”). These filings, when made, are available on the Investor Relations section of our website at https://investors.ceribell.com/ and on the SEC’s website at https://sec.gov/.
+
+About CeriBell, Inc. Ceribell is a medical technology company focused on transforming the diagnosis and management of patients with serious neurological conditions. Ceribell has developed the Ceribell System, a novel, point-of-care electroencephalography (“EEG”) platform specifically designed to address the unmet needs of patients in the acute-care setting. By combining proprietary, highly portable, and rapidly deployable hardware with sophisticated artificial intelligence (“AI”)-powered algorithms, the Ceribell System enables rapid diagnosis and continuous monitoring of patients with neurological conditions. The Ceribell System is FDA-cleared for use in detecting seizure and delirium in intensive care units and emergency rooms across the U.S. Ceribell is headquartered in Sunnyvale, California. For more information, please visit www.ceribell.com or follow the company on LinkedIn.

@@ -1,0 +1,19 @@
+Companies Resolve Lawsuit in Delaware
+
+BOSTON, March 16, 2026 (GLOBE NEWSWIRE) -- Zevra Therapeutics, Inc. (NasdaqGS: ZVRA) (Zevra, or the Company), a commercial-stage company focused on providing therapies for people living with rare disease, today announced an agreement under which Commave Therapeutics SA (Commave) will purchase Zevra’s serdexmethylphenidate (SDX) portfolio, including AZSTARYS® and KP1077, for $50 million.
+
+"We are pleased to have reached a mutually beneficial agreement with Commave regarding the sale of our entire SDX portfolio," said Neil F. McFarlane, Zevra's President and Chief Executive Officer. "Over the years, we have enjoyed a productive partnership with Commave, and we are confident these programs are in capable hands. We are excited to turn the page to Zevra’s next chapter and remain focused on our mission of redefining what’s possible for patients living with rare diseases."
+
+Zevra and Commave had previously entered into a 2019 license agreement under which Zevra granted Commave an exclusive license to certain SDX products. In 2024, Commave initiated litigation in Delaware Chancery Court against Zevra, and as part of today’s purchase agreement between the companies, the parties mutually agreed to settle the dispute.
+
+Prior to entering into the agreement, the Company repaid the principal balance on its $63 million term loan in full, resulting in a strong, debt-free balance sheet and enhanced financial and strategic flexibility.
+
+About Zevra Therapeutics, Inc.
+
+Zevra Therapeutics, Inc. is a commercial-stage company with a late-stage pipeline committed to redefining what is possible in bringing life-changing therapies to people living with rare diseases. The Company is focused on broadening access through geographic expansion opportunities, progressing its pipeline toward key milestones, and delivering meaningful therapeutics. The commercialization of its lead product, marketed in the U.S. for Niemann-Pick disease type C (NPC), a rare, progressive neurodegenerative disease, provides a strong corporate foundation and validates its ability to advance therapies from development to market. Zevra's vision is realized through disciplined execution of its strategic plan and core values — patient centricity, integrity, accountability, innovation, and courage — which guide its efforts to deliver long-term value.
+
+For more information, please visit www.zevra.com or follow us on X and LinkedIn.
+
+Cautionary Note Concerning Forward-Looking Statements
+
+This press release may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include all statements that do not relate solely to historical or current facts and are based on information currently available to Zevra and its current plans or expectations. They are subject to several known and unknown uncertainties, risks, and other important factors that may cause our actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by the forward-looking statements. These and other important factors are described in detail in the “Risk Factors” section of Zevra’s Annual Report on Form 10-K for the year ended December 31, 2025, as filed with the Securities and Exchange Commission on March 9, 2026, and Zevra's other filings with the Securities and Exchange Commission. While we may elect to update such forward-looking statements at some point in the future, except as required by law, we disclaim any obligation to do so, even if subsequent events cause our views to change. Although we believe the expectations reflected in such forward-looking statements are reasonable, we cannot assure that such expectations will prove correct. These forward-looking statements should not be relied upon as representing our views as of any date after the date of this press release.

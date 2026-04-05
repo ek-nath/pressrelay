@@ -1,0 +1,13 @@
+# Earendil Labs Announces $787 Million in Financing to Scale AI-Driven Biologics Discovery and Development
+
+WILMINGTON, Del., March 20, 2026 /PRNewswire/ -- Earendil Labs, an AI-driven biotechnology company advancing next-generation biologics, today announced that it has raised $787 million in financing rounds. The investment included participation by a group of leading global investors, including Dimension Capital, DST Global, INCE Capital, Luminous Ventures, Miracle Capital, Sanofi, and Biotech Development Fund (created by Hillhouse and Pfizer), alongside other existing and new technology and healthcare-focused investors.
+
+The funding will accelerate Earendil Labs' AI-driven R&D platform, expand its interdisciplinary teams, and advance a growing pipeline of antibody and biologics programs, with the goal of delivering first-in-class and best-in-class therapies for patients with serious diseases.
+
+"AI is at the core of everything we do — not as a research tool, but as a production engine for real therapeutic programs," said Jian Peng, PhD, Founder and CEO of Earendil Labs. "This financing allows us to operate at a fundamentally different scale, advancing multiple programs toward the clinic while building an R&D organization designed for long-term impact."
+
+Earendil Labs integrates artificial intelligence across the full life cycle of biologics R&D, enabling the systematic generation and progression of differentiated therapeutic programs. The company's AI-native platform has produced more than 40 programs, including HXN-1001, a half-life extended anti-TL1A antibody which is ready for Phase 2 clinical development, together with multiple IND submissions planned in 2026 and 2027.
+
+"Our focus is ultimately on patients suffering from diseases that still lack effective treatment options," said Zhenping Zhu, MD, PhD, Co-Founder, President and Co-CEO of Earendil Labs. "This funding greatly strengthens our ability to translate AI-enabled innovation into potentially transformative medicines and provides opportunities to partner with global leaders to accelerate our research and development programs worldwide. "
+
+The platform's productivity and R&D execution are further validated through strategic collaborations with Sanofi. In 2025, Earendil Labs announced a worldwide exclusive license agreement with Sanofi for next-generation bispecific antibodies for autoimmune and inflammatory bowel diseases, covering HXN-1002 and HXN-1003. More recently, Earendil Labs and Sanofi entered a broader strategic collaboration to apply its AI-driven discovery platform to multiple autoimmune and inflammatory disease programs.

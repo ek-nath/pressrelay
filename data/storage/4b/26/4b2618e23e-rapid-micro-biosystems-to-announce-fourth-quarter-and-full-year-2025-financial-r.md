@@ -1,0 +1,11 @@
+# Rapid Micro Biosystems to Announce Fourth Quarter and Full Year 2025 Financial Results on March 12, 2026
+
+LEXINGTON, Mass., Feb. 24, 2026 (GLOBE NEWSWIRE) -- Rapid Micro Biosystems, Inc. (Nasdaq: RPID) (the “Company”), an innovative life sciences technology company providing mission-critical automation solutions to facilitate the efficient manufacturing and fast, safe release of healthcare products, will release fourth quarter and full year 2025 financial results prior to the market open on Thursday, March 12, 2026.
+
+In conjunction with the release, the Company’s management team will host a webcast conference call at 8:30 a.m. ET on Thursday, March 12, 2026. The live audio webcast will be accessible on the Company’s website and can be accessed with this link. The webcast will be archived and available for replay after the event.
+
+About Rapid Micro Biosystems
+
+Rapid Micro Biosystems is an innovative life sciences technology company providing mission critical automation solutions to facilitate the efficient manufacturing and fast, safe release of healthcare products such as biologics, vaccines, cell and gene therapies, and sterile injectables. The Company’s flagship Growth Direct system automates and modernizes the antiquated, manual microbial quality control (“MQC”) testing workflows used in the largest and most complex pharmaceutical manufacturing operations across the globe. The Growth Direct system brings the quality control lab to the manufacturing floor, unlocking the power of MQC automation to deliver the faster results, greater accuracy, increased operational efficiency, better compliance with data integrity regulations, and quicker decision making that customers rely on to ensure safe and consistent supply of important healthcare products. The Company is headquartered Lexington, Massachusetts and has U.S. manufacturing in Lowell, Massachusetts, with global locations in Switzerland, Germany, and the Netherlands. For more information, please visit www.rapidmicrobio.com or follow the Company on X (formerly known as Twitter) at @rapidmicrobio or on LinkedIn.
+
+CONTACT: Investor Contact: Michael Beaulieu, CFA Vice President, Investor Relations and Corporate Communications investors@rapidmicrobio.com Media Contact: media@rapidmicrobio.com

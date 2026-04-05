@@ -1,0 +1,14 @@
+# BioLife Solutions Signs Multi-Year Supply Agreement with Qkine Limited to Expand its Product Portfolio into the Rapidly Growing Cytokines Market
+
+BOTHELL, Wash., Feb. 12, 2026 /PRNewswire/ -- BioLife Solutions, Inc. (NASDAQ: BLFS), a leading developer and supplier of bioproduction tools and services for the cell and gene therapy (CGT) market, announces it has entered into a multi-year supply agreement with Qkine Limited under which BioLife will distribute certain cytokine and growth factor products manufactured by Qkine for use in cell and gene therapy manufacturing.
+
+The agreement provides BioLife with exclusive worldwide distribution rights to specific Qkine products for the CGT market and non-exclusive rights to Qkine products in the CGT market. In addition, the companies intend to collaborate on a process development and validation program to enable Qkine to package certain of its products using BioLife's proprietary CellSeal® Connect vial system, which is designed to be incorporated into closed system and/or automated CGT workflows.
+
+Roderick de Greef, BioLife's Chairman and CEO, commented, "We are pleased to establish this strategic distribution and CellSeal® Connect product development relationship with Qkine, a recognized leader in the fast-growing cytokines market. Qkine's cytokine products are highly complementary to our cell culture supplement offerings and expand the portfolio of solutions we offer our CGT customers. We have specifically identified cytokines along with other biologically active cell culture media components as attractive, fast-growing and profitable adjacent product categories that align with our long-term growth strategy."
+
+Dr. Robert Scoffin, Qkine's CEO, added "We are excited to partner with BioLife, a well-respected leader in the bioprocessing tools market. This collaboration brings together our expertise in cytokine innovation with BioLife's extensive reach and customer relationships in the CGT market. Together, we aim to deliver greater value to customers and help advance the development and manufacture of next‑generation cell and gene therapies."
+
+Cytokines and growth factors play a vital role in the manufacturing of cell and gene therapies by regulating and stimulating cell growth, activation and performance. According to third-party market research, the current global cytokines market is estimated at $500 million annually and is projected to grow at a mid-teens compound annual rate, reaching $1 billion by 2030, driven by expanding CGT development pipelines.
+
+About Qkine Limited  
+With headquarters in Cambridge, England, Qkine Limited is dedicated to advancing stem cell and regenerative medicine research by developing high-purity, bioactive growth factors and cytokines. With a focus on scientific rigour and product excellence, Qkine supports cutting-edge biological research and clinical translation worldwide. For more information, please visit www.qkine.com.

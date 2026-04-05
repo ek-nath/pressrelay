@@ -1,0 +1,39 @@
+- Participants with Atopic Dermatitis Receiving ATI-2138 Experienced Improvements in Key Clinical Measures including Disease Severity, Itch, and Quality of Life -
+
+WAYNE, Pa., March 27, 2026 (GLOBE NEWSWIRE) -- Aclaris Therapeutics, Inc. (NASDAQ: ACRS), a clinical-stage biopharmaceutical company focused on developing novel product candidates for immuno-inflammatory diseases, today provided additional results from its Phase 2a trial of ATI-2138, a potent and selective investigational oral covalent inhibitor of ITK and Janus kinase 3 (JAK3), presented in an electronic poster at the 2026 American Academy of Dermatology (AAD) Annual Meeting in Denver, CO.
+
+“We have continued to achieve important milestones for our potential best-in-class ITK inhibitor franchise, including the presentation of additional positive results from our open-label Phase 2a trial of ATI-2138 at this year’s AAD meeting,” said Dr. Jesse Hall, Chief Medical Officer of Aclaris. “Beyond the previously disclosed efficacy measures, patients receiving ATI-2138 experienced substantial improvements in disease severity, itch, affected percentage of body surface area, and disease-related quality of life measures. In total, these results further validate the strong mechanistic rationale for the use of ATI-2138 in a wide variety of immuno-inflammatory diseases.”
+
+2026 American Academy of Dermatology (AAD) Annual Meeting
+
+In an ePoster (74636) entitled, “Results from an Open-Label Phase 2 Trial of ATI-2138, an Investigational Oral Covalent Inhibitor of Interleukin-2-Inducible T Cell Kinase (ITK) And Janus Kinase 3 (JAK3), in Patients with Moderate-To-Severe Atopic Dermatitis (AD),” the Company provided results showing that ATI-2138 was well tolerated and exposure to the compound led to rapid and sustained improvements in clinical signs and symptoms of AD. The ePoster can be accessed here.
+
+At end of treatment (week 12), patients receiving a low dose (10 mg BID) of ATI-2138 experienced a 77% improvement in extent and severity of atopic dermatitis (AD) as measured by the Eczema Area and Severity Index (EASI). Additional week 12 results presented at AAD included that patients receiving ATI-2138 experienced:
+
+A 70% improvement in the affected percentage of Body Surface Area (BSA) score.
+
+A 50% improvement in improvement in Peak Pruritus Numerical Rating Scale (PP-NRS), a validated scale for evaluating worst itch intensity in adults with moderate-to-severe AD.
+
+A 55% improvement in patient-oriented eczema measure (POEM), a validated self-assessed measurement tool for tracking severity of AD based on symptoms over the prior week.
+
+A 65% improvement in Dermatology Life Quality Index (DLQI), a questionnaire that assesses the impact of skin disease on symptoms and feelings, daily activities, leisure, work and school, personal relationships and the impact of treatment.
+
+As previously disclosed, near complete and sustained ITK target occupancy was observed across the dosing interval. The high potency and near complete target occupancy at a very low dose of ATI-2138 potentially enables low drug burden, dosing flexibility, and improved tolerability compared to the JAK class. Results of Tape-Strip analyses show that ATI-2138 modulated Th1, Th2, Th17, fibrotic, and T cell activation/immune signaling pathway markers, supporting the broad therapeutic potential for the compound.
+
+About the Phase 2a Trial
+
+The Phase 2a trial was an open-label, single-arm study designed to investigate the safety, tolerability, pharmacokinetics, efficacy, and pharmacodynamics of 10mg of ATI-2138 administered twice daily (BID) for 12 weeks in patients with moderate-to-severe AD. The primary endpoints were safety-related parameters. Secondary endpoints included pharmacodynamic assessments and efficacy as measured by scoring tools including the Eczema Area and Severity Index (EASI), Peak Pruritus Numerical Rating Scale (PP-NRS), and other pertinent efficacy related measures.
+
+About ATI-2138
+
+ATI-2138 is a highly potent and selective novel investigational pharmacologic agent that acts as a dual inhibitor of interleukin-2-inducible T cell kinase (ITK) and Janus kinase 3 (JAK3). ITK regulates T cell receptor signal transduction and inhibition of this kinase can affect T cell differentiation and activation. JAK3 is a key signal transduction kinase that forms a heterodimer with JAK1, modulates JAK1 phosphorylation of signal transducer and activator of transcription 5 (STAT5), and regulates cytokines that signal through the IL-2Rγc to affect lymphocyte proliferation and activation. The efficacy results exhibited in preclinical animal models of inflammation and autoimmune diseases, coupled with the favorable safety, PK, and PD profile in healthy human SAD and MAD studies and the top-line results of the Phase 2a trial in AD, support the potential for ATI-2138 to affect several human inflammatory diseases and further investigation of this molecule in patients with atopic and autoimmune diseases that are dependent on T cell function and/or IL-2Rγc signaling.
+
+About Aclaris Therapeutics, Inc.
+
+Aclaris Therapeutics, Inc. is a clinical-stage biopharmaceutical company developing a pipeline of novel product candidates to address the needs of patients with immuno-inflammatory diseases who lack satisfactory treatment options. The company has a multi-stage portfolio of product candidates powered by a robust R&D engine. For additional information, please visit www.aclaristx.com and follow Aclaris on LinkedIn.
+
+Any statements contained in this press release that do not describe historical facts may constitute forward-looking statements as that term is defined in the Private Securities Litigation Reform Act of 1995. These statements may be identified by words such as “anticipate,” “believe,” “expect,” “intend,” “may,” “plan,” “potential,” “will,” and similar expressions, and are based on Aclaris’ current beliefs and expectations. These forward-looking statements include expectations regarding its development plans for ATI-2138, including plans for its next phase of development, the potential for Aclaris’ ITK franchise to be best-in-class; the mechanistic rationale of ATI-2138 in a variety of immuno-inflammatory diseases; and the potential for ATI-2138 to enable low drug burden, dosing flexibility, and improved tolerability compared to the JAK class. These statements involve risks and uncertainties that could cause actual results to differ materially from those reflected in such statements. Risks and uncertainties that may cause actual results to differ materially include uncertainties inherent in the conduct of clinical trials, potential changes to interim, topline and preliminary data as more subject data become available, Aclaris’ reliance on third parties over which it may not always have full control, Aclaris’ ability to enter into strategic partnerships on commercially reasonable terms, the uncertainty regarding the macroeconomic environment and other risks and uncertainties that are described in the Risk Factors section of Aclaris’ Annual Report on Form 10-K for the year ended December 31, 2025, and other filings Aclaris makes with the U.S. Securities and Exchange Commission from time to time. These documents are available under the “SEC Filings” page of the “Investors” section of Aclaris’ website at www.aclaristx.com. Any forward-looking statements speak only as of the date of this press release and are based on information available to Aclaris as of the date of this release, and Aclaris assumes no obligation to, and does not intend to, update any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Aclaris Therapeutics Contact:
+
+Will Roberts Senior Vice President Corporate Communications and Investor Relations (484) 329-2125 wroberts@aclaristx.com

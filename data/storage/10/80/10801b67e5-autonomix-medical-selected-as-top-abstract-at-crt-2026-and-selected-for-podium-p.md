@@ -1,0 +1,13 @@
+# Autonomix Medical Selected as Top Abstract at CRT 2026 and Selected for Podium Presentation of Clinical Feasibility and Outcomes of Novel Technique for Transvascular Peripheral RF Nerve Neurolysis
+
+THE WOODLANDS, TX, March 04, 2026 (GLOBE NEWSWIRE) -- Autonomix Medical, Inc. (NASDAQ: AMIX) (“Autonomix” or the “Company”), a medical device company dedicated to advancing precision nerve-targeted treatments, today announced that Nikola Cesarovic, PhD, will present clinical feasibility and outcome data at the Cardiovascular Research Technologies (CRT) 2026 Meeting, happening March 7-10, 2026, in Washington, DC.
+
+The abstract titled, “Novel Technique For Transvascular Peripheral Nerve Neurolysis Using Radiofrequency (RF) Ablation: Clinical Feasibility And Outcomes,” will be presented during the Top Abstract Session (S194) on Saturday, March 7 from 2:18 - 2:24p ET for Hypertension Therapies and Renal Denervation session. Dr. Cesarovic will deliver a six-minute presentation, highlighting clinical feasibility and early outcomes associated with a novel RF-based approach designed to selectively disrupt peripheral nerve activity via a transvascular approach. Autonomix’s technology is engineered to identify and target specific nerve signals, potentially enabling differentiated therapeutic precision compared to conventional ablation techniques.
+
+“This Top Abstract selection underscores the growing clinical interest in precision nerve-targeted therapies and highlights the potential of Autonomix’s platform to enable controlled, transvascular peripheral nerve modulation,” said Dr. Robert Schwartz, Co-Founder and Chief Medical Officer of Autonomix. “We believe these early feasibility findings support the broader applicability of our technology across multiple indications where peripheral nerve signaling plays a critical role.”
+
+CRT is one of the world’s leading educational forums for interventional cardiovascular medicine, with Top Abstract podium selections representing the highest-scoring submissions based on scientific merit, innovation and clinical relevance. For more information, please visit the conference website here.
+
+About Autonomix Medical, Inc.
+
+Autonomix is a medical device company focused on advancing innovative technologies to revolutionize how diseases involving the nervous system are diagnosed and treated. The Company’s first-in-class platform system technology includes a catheter-based microchip sensing array that may have the ability to detect and differentiate neural signals with greater sensitivity than currently available technologies. We believe this will enable, for the first time ever, transvascular diagnosis and treatment of diseases involving the peripheral nervous system virtually anywhere in the body.

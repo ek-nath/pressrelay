@@ -1,0 +1,19 @@
+# Candel Therapeutics Announces $100M Royalty Funding Agreement with RTW to Support the Potential Launch of Aglatimagene Besadenovec (CAN-2409) in Localized Prostate Cancer
+
+-      RTW committed $100M in U.S. launch funding, subject to U.S. Food and Drug Administration (FDA) approval of aglatimagene besadenovec (aglatimagene or CAN-2409) for intermediate- to high-risk localized prostate cancer
+
+-      Royalties based on annual net sales of aglatimagene in the U.S.
+
+-      Funds will strengthen the Company’s balance sheet for potential U.S. commercial launch of aglatimagene in intermediate- to high-risk localized prostate cancer
+
+NEEDHAM, Mass., Feb. 19, 2026 (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical-stage biopharmaceutical company focused on developing multimodal biological immunotherapies to help patients fight cancer, today announced a $100 million royalty funding agreement with funds managed by RTW Investments, LP (RTW), subject to FDA approval of aglatimagene in intermediate- to high-risk, localized prostate cancer.
+
+“This non-dilutive strategic financing will support the U.S. launch of aglatimagene besadenovec, assuming FDA approval, and will allow us to further invest in what we believe will be a world class commercial program,” said Paul Peter Tak, M.D., Ph.D., FMedSci, President and CEO of Candel. “We remain on track to submit the BLA for aglatimagene in Q4 of this year, and we look forward to collaborating with the FDA to pursue an expeditious approval of aglatimagene. We are thrilled with our RTW partnership, as we seek to provide a new treatment option for patients in the early stages of prostate cancer who are treated with curative intent, a disease that has seen minimal innovation over the past two decades.”
+
+“The pivotal phase 3 clinical trial demonstrated the potential of aglatimagene besadenovec in early, localized prostate cancer, and today’s commitment reflects our confidence in Candel and the strong commercial potential of this therapy,” said Roderick Wong, M.D., Managing Partner and Chief Investment Officer, RTW Investments, LP. “We are proud to partner with the Candel management team and look forward to supporting their efforts to bring this meaningful treatment to patients with localized prostate cancer.”
+
+The commercial launch royalty financing will become available upon FDA’s approval of aglatimagene, and satisfaction of certain other customary conditions. Under the terms of the agreement, RTW will receive a tiered single digit percentage of annual net sales of aglatimagene in the U.S., subject to a cap.
+
+About Candel Therapeutics
+
+Candel is a clinical-stage biopharmaceutical company focused on developing off-the-shelf multimodal biological immunotherapies that elicit an individualized, systemic anti-tumor immune response to help patients fight cancer. Candel has established two clinical-stage multimodal biological immunotherapy platforms based on novel, genetically modified adenovirus and herpes simplex virus (HSV) gene constructs, respectively. Aglatimagene besadenovec (CAN-2409 or aglatimagene) is the lead product candidate from the adenovirus platform. The Company recently completed successful phase 2a clinical trials of aglatimagene in non-small cell lung cancer (NSCLC) and pancreatic ductal adenocarcinoma (PDAC), and a pivotal, placebo-controlled, phase 3 clinical trial of aglatimagene in localized prostate cancer, conducted under a Special Protocol Assessment agreed with the U.S. Food and Drug Administration (FDA). The FDA also granted Fast Track Designation and Regenerative Medicine Advanced Therapy Designation to aglatimagene for the treatment of newly diagnosed localized prostate cancer in patients with intermediate-to-high-risk disease, Fast Track Designation in NSCLC, and both Fast Track Designation and Orphan Drug Designation to aglatimagene for the treatment of PDAC.

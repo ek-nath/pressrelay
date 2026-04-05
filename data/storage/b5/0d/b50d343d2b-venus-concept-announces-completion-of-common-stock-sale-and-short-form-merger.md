@@ -1,0 +1,15 @@
+TORONTO, April 01, 2026 (GLOBE NEWSWIRE) -- Venus Concept Inc. (“Venus Concept” or the “Company”), a global medical aesthetic technology leader, today announced the successful completion by affiliates of Madryn Asset Management, LP (“Madryn”) of a short-form merger transaction, pursuant to which 100% ownership of the Company’s common stock is now consolidated under funds managed by Madryn (the “Short-form Merger”). The Short-form Merger was consummated on March 30, 2026, and the Company is now privately held by Madryn. All common shares outstanding prior to the Short-form Merger (other than shares held directly or indirectly by Madryn) have been converted, subject to appraisal rights, into the right to receive $0.04 in cash, without interest and subject to applicable withholding.
+
+The completion of the transaction positions the Company to pursue its strategic growth initiatives, enhance product innovation, and further strengthen its commercial presence.
+
+Prior to the transaction, Venus Concept raised gross proceeds of $1.5 million in a common stock issuance to Madryn at a price of $0.04 per common share (the “Common Stock Issuance”), to support the ongoing operational and working capital needs of the business. The Common Stock Issuance closed on March 26, 2026.
+
+“This transaction represents an exciting new chapter for the organization,” said Rajiv De Silva, Chief Executive Officer of Venus Concept. “With Madryn as our sole owner, we can take a long-term view of the business, focus on innovation and commercialization, and continue delivering best-in-class solutions to our customers worldwide. We look forward to accelerating growth with the benefit of a streamlined ownership structure.”
+
+The transaction reflects a shared conviction between Venus Concept and Madryn regarding the Company’s growth potential and strategic opportunities across its core medical aesthetic platforms and global footprint.
+
+“Madryn has supported Venus as an investor since 2016. Since that period, Venus has built a compelling portfolio of differentiated technologies and a strong global presence,” said Avinash Amin, M.D., Madryn’s Managing Partner. “We look forward to Venus pursuing its next phase of growth.”
+
+About Venus Concept
+
+Venus Concept is an innovative global medical aesthetic technology leader with a broad product portfolio of minimally invasive and non-invasive medical aesthetic and hair restoration technologies and reaches over 60 countries and 9 direct markets. Venus Concept's product portfolio consists of aesthetic device platforms, including Venus NOVA, Venus Versa, Venus Versa PRO, Venus Bliss, Venus Bliss MAX, Venus Viva, Venus Viva MD, Venus Legacy, Venus Velocity, Venus Epileve and AI.ME. Venus Concept's hair restoration systems include NeoGraft® and the ARTAS iX® Robotic Hair Restoration system. Venus Concept has been backed by leading healthcare industry growth equity investors including EW Healthcare Partners (formerly Essex Woodlands), HealthQuest Capital, Longitude Capital Management, Aperture Venture Partners, Masters Special Situations, and Madryn Asset Management, L.P.

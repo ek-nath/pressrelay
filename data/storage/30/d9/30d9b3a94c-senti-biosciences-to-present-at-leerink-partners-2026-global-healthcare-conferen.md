@@ -1,0 +1,12 @@
+SOUTH SAN FRANCISCO, Calif., March 03, 2026 (GLOBE NEWSWIRE) -- Senti Biosciences, Inc. (Nasdaq: SNTI) (“Senti Bio”), a clinical-stage biotechnology company developing next-generation cell and gene therapies using its proprietary Gene Circuit platform, today announced that Timothy Lu, M.D., Ph.D., Co-Founder and Chief Executive Officer of Senti, will present at the Leerink Partners 2026 Global Healthcare Conference in Miami, FL on Monday, March 9, 2026, at 2:20 PM ET.
+
+A webcast replay will be available on the Events page of the Investors section of the Company’s website (sentibio.com).
+
+Interested parties may access the live video webcast here.
+
+About Senti Bio
+
+Senti Bio is a biotechnology company developing a new generation of cell and gene therapies for patients living with incurable diseases. To achieve this, Senti Bio is leveraging its synthetic biology platform to engineer Gene Circuits into new medicines with enhanced precision and control. These Gene Circuits are designed to precisely kill cancer cells, to spare healthy cells, to increase specificity to target tissues, and/or to be controllable even after administration. The Company’s wholly-owned pipeline comprises cell therapies engineered with Gene Circuits to target challenging liquid and solid tumor indications. Senti’s Gene Circuits have been shown preclinically to work in both NK and T cells. Senti Bio has also preclinically demonstrated the potential breadth of Gene Circuits in other modalities and diseases outside of oncology, and continues to advance these capabilities through partnerships.
+
+Availability of Other Information About Senti Biosciences, Inc.  
+For more information, please visit the Senti Bio website at www.sentibio.com or follow Senti Bio on X (@SentiBio) and LinkedIn (Senti Biosciences). Investors and others should note that we communicate with our investors and the public using our company website (www.sentibio.com), including, but not limited to, company disclosures, investor presentations and FAQs, Securities and Exchange Commission filings, press releases, public conference call transcripts and webcast transcripts, as well as on X and LinkedIn. The information that we post on our website or on X or LinkedIn could be deemed to be material information. As a result, we encourage investors, the media and others interested to review the information that we post there on a regular basis. The contents of our website or social media shall not be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended.

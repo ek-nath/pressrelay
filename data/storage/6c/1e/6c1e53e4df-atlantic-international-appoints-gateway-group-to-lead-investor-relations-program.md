@@ -1,0 +1,15 @@
+ENGLEWOOD CLIFFS, N.J., Feb. 17, 2026 (GLOBE NEWSWIRE) -- Atlantic International Corp. (Nasdaq: ATLN), a global provider of outsourced services and workforce solutions, has appointed Gateway Group, a leading strategic corporate and financial communications advisory firm, to lead its investor relations program.
+
+Gateway will partner with Atlantic’s leadership to strengthen its investor communications strategy and expand engagement within the financial community. The initiative will focus on sharpening the company’s messaging and market positioning and expanding outreach to institutional investors and analysts through targeted engagement and conference participation.
+
+“Atlantic is entering an important period marked by global expansion, strategic acquisitions, and continued innovation across our outsourced services and workforce solutions platform,” said CEO Jeffrey Jagid. “With the integration of Circle8, our most recent acquisition, the expansion of key client relationships, and the launch of our AI-driven workforce intelligence capabilities, we have meaningfully strengthened our scale and competitive position. Our focus now is on disciplined execution and seamless integration as we build a more resilient, scalable organization that drives sustained growth.
+
+“As we advance into this next phase, clear and consistent communication with the investment community is a priority. We have partnered with Gateway because of its proven track record, deep industry expertise, and strong institutional relationships. Their experience supporting high-growth companies will help us execute a comprehensive IR strategy designed to strengthen communication, broaden investor engagement, and support long-term value creation.”
+
+To learn more about Atlantic International, please contact Gateway at ATLN@gateway-grp.com.
+
+About Atlantic International Corp.  
+Atlantic International Corp. (Nasdaq: ATLN) is a leading provider of outsourced services and workforce solutions. Through its subsidiary Lyneer Staffing Solutions, the company delivers comprehensive staffing services across food production, manufacturing, and logistics sectors nationwide. With the addition of Circle8 Group, Atlantic International extends its capabilities into specialized IT and technology staffing across Europe. For more information, visit www.atlantic-international.com and www.circle8group.com.
+
+About Gateway Group  
+Gateway is a leading financial communications and digital media advisory firm specializing in assisting emerging growth companies for over 25 years. We work with businesses at various stages of corporate development, from private startups to public enterprises. Our team of experts offers decades of experience across all facets of corporate communications, including investor relations (IR) and public relations (PR), as well as cutting-edge digital media services, including branding & creative, web development, and social media. Gateway clients are industry leaders in technology, consumer, industrials, finance, business services, and more. To learn more about Gateway Group, visit Gateway-Grp.com or connect with us on LinkedIn.

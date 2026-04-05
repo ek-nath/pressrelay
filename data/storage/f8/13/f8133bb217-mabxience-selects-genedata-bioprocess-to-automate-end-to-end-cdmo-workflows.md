@@ -1,0 +1,14 @@
+Purpose-built enterprise SaaS solution streamlines bioprocess workflows and accelerates digital transformation for global biopharmaceutical development
+
+BASEL, Switzerland, March 10, 2026 /PRNewswire/ -- Genedata, a Danaher company and the leading provider of enterprise software solutions for biopharmaceutical R&D, today announced that mAbxience has selected the Genedata Bioprocess® enterprise platform to structure and harmonize all bioprocess development data across its operations. mAbxience, majority-owned by the Fresenius Kabi group, is a global Contract Development and Manufacturing Organization (CDMO) specializing in the manufacture of biosimilars.
+
+"With our growing biosimilars portfolio and increasing complexity in bioprocess development, we needed a single, integrated platform that connects and analyzes all data across upstream, downstream, cell line, formulation, and analytical development," said Ivan Sánchez de Melo, Ph.D., R&D Director. "Genedata Bioprocess, operated in the Genedata Cloud, automates our processes and ensures full data integrity and traceability across all groups. This foundational system allows us to scale efficiently and prepare for the next step — process modeling — while meeting global demand for high-quality biologics."
+
+By implementing Genedata Bioprocess as a SaaS solution, mAbxience gains a unified digital backbone for tracking and automating its end-to-end bioprocess workflows, enabling faster decision-making, streamlined collaboration, improved reproducibility, and documentation. The platform consolidates all experimental and process data into a single source of truth for all CDMO operations. This strategic move positions mAbxience to increase operational efficiency and advance toward AI-driven process optimization.
+
+"We are delighted to welcome mAbxience to the Genedata community, and to further expand our footprint in the CDMO industry," said Othmar Pfannes, Ph.D., President of Genedata. "By centralizing all data in one platform, mAbxience is taking a major step toward automation and data integrity, increasing its AI maturity and readiness. This investment ensures scalability, compliance, and innovation for biosimilar manufacturing. We will continue to invest in the Genedata platform to address the needs of a rapidly growing CDMO industry."
+
+About Genedata  
+Genedata, a Danaher company, transforms data into intelligence with innovative software solutions that incorporate extensive biopharma R&D domain knowledge. Multinational biopharmaceutical organizations and cutting-edge biotechs around the globe rely on Genedata to digitalize and automate data-rich and complex R&D processes. From early discovery all the way to the clinic, Genedata solutions help maximize the ROI in R&D expenditure. Founded in 1997, Genedata is headquartered in Basel, Switzerland with additional offices in Boston, London, Munich, San Francisco, Singapore, and Tokyo.  
+www.genedata.com  
+LinkedIn | YouTube

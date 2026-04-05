@@ -1,0 +1,13 @@
+FRIENDSWOOD, Texas, March 03, 2026 (GLOBE NEWSWIRE) -- Castle Biosciences, Inc. (Nasdaq: CSTL), a company improving health through innovative tests that guide patient care, today announced that it will host a grand opening celebration for its new corporate headquarters on Tuesday, March 24, 2026, at 3:00 p.m. Central time. The event will take place at the Company’s new campus located at 1500 West Parkwood Avenue in Friendswood, Texas, and will bring together employees, community partners and other invited guests to commemorate the completion of the purpose-built facility.
+
+Local, state and national elected officials are expected to join the event, underscoring the significance of Castle’s investment in the region.
+
+“Opening our new headquarters marks an important milestone for Castle Biosciences,” said Derek Maetzold, president and chief executive officer of Castle Biosciences. “The facility was built to empower our people, foster collaboration and support the innovations that will drive our future. It reflects our long-term focus on creating an environment where our teams can thrive and continue to make a meaningful difference for patients, as well as our enduring commitment to the Friendswood community that we are proud to call home.”
+
+The new building features modern, flexible workspaces and advanced technology infrastructure designed to meet the Company’s evolving needs. The facility incorporates energy-efficient systems and storm-rated design elements to enhance sustainability and resilience. Employee-focused amenities include a private fitness center, a fourth-floor terrace designed for outdoor collaboration and overflow gatherings adjacent to a 48-seat training center, and a ground-level outdoor patio with a pergola and dedicated food truck pad. The 23-acre wooded campus features two walking trails, providing natural spaces that encourage movement and connection throughout the workday.
+
+Castle, one of the largest publicly traded companies in Galveston County by revenue ($344 million in 2025), has long been an active supporter of the Friendswood community, contributing to local initiatives and partnerships that reflect its commitment to improving lives for patients and the community it calls home.
+
+In addition to its Friendswood headquarters, Castle operates clinical laboratories in Phoenix and Pittsburgh. The new headquarters will support Castle’s continued growth as the Company advances its portfolio of innovative molecular tests in areas of high clinical need.
+
+While this event is not open to the public, members of the media are welcome to attend and are encouraged to confirm attendance in advance by contacting Allison Marshall at amarshall@castlebiosciences.com.

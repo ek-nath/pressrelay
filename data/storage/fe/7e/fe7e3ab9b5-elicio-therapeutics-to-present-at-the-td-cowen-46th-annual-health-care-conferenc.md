@@ -1,0 +1,14 @@
+BOSTON, Feb. 25, 2026 (GLOBE NEWSWIRE) -- Elicio Therapeutics, Inc. (Nasdaq: ELTX, “Elicio” or the “Company”), a clinical-stage biotechnology company developing a pipeline of novel immunotherapies for the treatment of cancer, today announced that Robert Connelly, Chief Executive Officer, and Pete DeMuth, PhD, Chief Scientific Officer, will participate in the upcoming TD Cowen 46th Annual Health Care Conference, taking place March 2-4, 2026, in Boston, MA.
+
+TD Cowen 46th Annual Health Care Conference  
+Format: Company presentation  
+Date: Wednesday, March 4, 2026  
+Time: 1:10 PM ET
+
+The live webcast and replay of the presentation will be available HERE and on Elicio’s Events page for 90 days following the event.
+
+If you are interested in arranging a 1×1 meeting with management at the conference, please contact your TD Cowen representative.
+
+About Elicio Therapeutics
+
+Elicio Therapeutics, Inc. (Nasdaq: ELTX) is a clinical-stage biotechnology company advancing novel immunotherapies for the treatment of high-prevalence cancers, including mKRAS-positive pancreatic and colorectal cancers. Elicio intends to build on recent clinical successes in the personalized cancer immunotherapy space to develop effective, off-the-shelf immunotherapies. Elicio’s Amphiphile (“AMP”) technology aims to enhance the education, activation and amplification of cancer-specific T cells relative to conventional immunotherapy strategies, with the goal of promoting durable cancer immunosurveillance in patients. Elicio’s ELI-002 7P lead program is an off-the-shelf immunotherapy candidate targeting the most common KRAS mutations, which drives approximately 25% of all solid tumors. Elicio intends to expand ELI-002 7P clinical development not only for treatment in adjuvant pancreatic ductal adenocarcinoma (“PDAC”), but also in neoadjuvant and metastatic PDAC settings, and for other mKRAS-positive cancers. Off-the-shelf immunotherapy approaches have the potential benefits of low cost, rapid commercial scale manufacturing, and rapid availability of drug to patients especially in neo-adjuvant settings and for prophylaxis in high-risk patients, contrary to personalized immunotherapy approaches. ELI-002 is being studied in an ongoing, randomized clinical trial in patients with mKRAS-positive PDAC who completed standard therapy but remain at high risk of relapse. ELI-002 also has been studied in patients with mKRAS-positive colorectal cancer (“CRC”) in Phase 1 studies. The updated AMPLIFY-201 Phase 1 data for PDAC and CRC was presented at the ESMO Immuno-Oncology Congress 2024 and included a 16.3-month median recurrence-free survival and 28.9-month median overall survival for the full study population. Elicio’s pipeline includes additional off-the-shelf therapeutic cancer immunotherapy candidates, including ELI-007 and ELI-008, that target BRAF-driven cancers and p53 hotspot mutations, respectively. For more information, please visit www.elicio.com.

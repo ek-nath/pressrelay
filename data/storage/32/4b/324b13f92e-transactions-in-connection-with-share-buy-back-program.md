@@ -1,0 +1,13 @@
+Company Announcement
+
+COPENHAGEN, Denmark; March 9, 2026 – Genmab A/S (Nasdaq: GMAB). On February 17, 2026, Genmab announced the initiation of a share buy-back program to repurchase up to 342,130 shares with a maximum aggregate total value of DKK 725 million to honor our commitments under the Restricted Stock Unit program.
+
+The share buy-back program is expected to be completed no later than March 31, 2026.
+
+The following transactions were executed under the program from March 2 to March 6, 2026:
+
+- No. of Average price (DKK) Total value (DKK) Accumulated through last announcement* 148,000 271,855,470 March 2, 2026 15,000 1,864.75 27,971,250 March 3, 2026 23,000 1,793.10 41,241,300 March 4, 2026 20,000 1,787.46 35,749,200 March 5, 2026 20,000 1,788.49 35,769,800 March 6, 2026 23,000 1,739.20 40,001,600 Total 101,000 180,733,150 Accumulated under the program 249,000 452,588,620 * The “Accumulated through last announcement” figure previously communicated on March 2, 2026, was incorrectly stated as 1,431,958. The correct figure was 63,000 shares. Combined with subsequent purchases, this results in the corrected accumulated figure of 148,000 shares as stated above.Following these transactions, Genmab holds 2,766,533 shares as treasury shares, corresponding to 4.31% of the total share capital and voting rights.The share buy-back program will be undertaken on the terms set out below and in accordance with Regulation (EU) No. 596/2014 (‘MAR’) and the Commission Delegated Regulation (EU) 2016/1052, also referred to as the “Safe Harbour Regulation.” Further details on the terms of the share buy-back program can be found in our company announcement no. 05 dated February 17, 2026.About Genmab
+Genmab is an international biotechnology company dedicated to improving the lives of people with cancer and other serious diseases through innovative antibody medicines. For over 25 years, its passionate, innovative and collaborative team has advanced a broad range of antibody-based therapeutic formats, including bispecific antibodies, antibody–drug conjugates (ADCs), immune-modulating antibodies and other next-generation modalities. Genmab’s science powers eight approved antibody medicines, and the company is advancing a strong late-stage clinical pipeline, including wholly owned programs, with the goal of delivering transformative medicines to patients.Established in 1999, Genmab is headquartered in Copenhagen, Denmark, with international presence across North America, Europe and Asia Pacific. For more information, please visit Genmab.com and follow us on LinkedIn and X.
+Contact:
+Marisol Peron, Senior Vice President, Global Communications & Corporate Affairs
+T: +1 609 524 0065; E: mmp@genmab.com

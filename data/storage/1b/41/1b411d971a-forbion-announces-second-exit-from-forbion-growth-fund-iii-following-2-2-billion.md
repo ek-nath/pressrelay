@@ -1,0 +1,16 @@
+# Forbion Announces Second Exit from Forbion Growth Fund III Following $2.2 Billion Acquisition of RAPT Therapeutics by GSK
+
+NAARDEN, The Netherlands, Jan. 20, 2026 (GLOBE NEWSWIRE) -- Forbion, a leading life sciences venture capital firm with deep roots in Europe, today announces that GSK (NYSE: GSK) has entered into a definitive agreement to acquire Forbion Growth Fund III portfolio company RAPT Therapeutics, Inc. (NASDAQ: RAPT) in a transaction valued at $2.2 billion.
+
+RAPT Therapeutics was a recent, undisclosed investment within Forbion Growth Fund III’s public value opportunities strategy and represents the fund’s second exit. The transaction follows the acquisition of Astria Therapeutics by BioCryst for $920 million in October 2025, further underscoring the fund’s strong momentum and execution capabilities.
+
+The acquisition highlights significant strategic interest in RAPT’s lead therapeutic candidate, ozureprubart, a long-acting monoclonal antibody designed to neutralize IgE, a key driver of severe allergic disease. Ozureprubart has the potential to meaningfully transform the treatment landscape for allergies and other immunologic conditions, including chronic spontaneous urticaria (CSU). The program is currently in late-stage clinical development, with a Phase 2b trial ongoing in food allergy and a Phase 3 trial in CSU expected to commence in 2026.
+
+“Forbion Growth Fund III was established to back differentiated, late-stage assets with clear clinical value and strong strategic relevance,” said Mathias Vinther, PhD, Partner at Forbion. “Our investment in RAPT Therapeutics reflects this approach, combining deep scientific conviction with disciplined capital deployment in the public markets. The outcome announced today demonstrates the value of early engagement, active ownership and a long-term perspective in building positions in high-quality companies.”
+
+This transaction reinforces Forbion’s growth strategy of backing differentiated, late-stage clinical assets in areas of high unmet medical need with clear strategic relevance to global pharmaceutical companies. It also serves as a strong example of the fund’s public markets sub-strategy, which focuses on identifying and capitalizing on attractive public value opportunities.
+
+The closing of the transaction is expected to occur in the first quarter of 2026, subject to customary conditions. The official press release issued by GSK and RAPT Therapeutics can be found here.
+
+About Forbion  
+Forbion is a leading global venture capital firm with deep roots in Europe and offices in Naarden, the Netherlands, Munich, Germany, and Boston, USA. Forbion invests in innovative biotech companies, managing approximately €5 billion across multiple fund strategies covering all stages of (bio)pharmaceutical drug development. In addition to its human health focus, Forbion also invests in planetary health solutions through its BioEconomy strategy. The firm’s team of over 30 investment professionals has a strong track record, with more than 130 investments across 11 funds, resulting in numerous approved therapies and successful exits. Forbion is a signatory to the UN Principles for Responsible Investment and operates a joint venture with BGV for seed and early-stage investments in the Benelux and Germany regions.

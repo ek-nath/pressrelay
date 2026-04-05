@@ -1,0 +1,35 @@
+LEXINGTON, Mass., March 09, 2026 (GLOBE NEWSWIRE) -- Keros Therapeutics, Inc. (“Keros” or the “Company”) (Nasdaq: KROS), a clinical-stage biopharmaceutical company focused on developing and commercializing novel therapeutics to treat a wide range of patients with disorders that are linked to dysfunctional signaling of the transforming growth factor-beta (“TGF-ß”) family of proteins, today announced that it presented additional data from its Phase 1 clinical trial of rinvatercept (KER-065) in healthy volunteers at the 2026 Muscular Dystrophy Association Clinical & Scientific Conference.
+
+“We are pleased to present additional data that further underscore the wide-ranging therapeutic potential of rinvatercept,” said Jasbir S. Seehra, President and Chief Executive Officer of Keros. “These data continue to reinforce the potential of rinvatercept to treat neuromuscular diseases, and our focus remains on advancing the rinvatercept program into two Phase 2 clinical trials, one in Duchenne muscular dystrophy (“DMD”) and one in amyotrophic lateral sclerosis (“ALS”).”
+
+Clinical Presentation
+
+Proteome Analysis in a Phase 1 Trial of KER-065, a Modified Activin Receptor Ligand Trap, Confirmed Target Engagement and Guides Clinical Development in Neuromuscular Diseases
+
+This Phase 1 clinical trial was a randomized, double-blind, placebo-controlled, two-part dose escalation (single and multiple ascending dose) trial in healthy adult male volunteers. The primary objectives of this trial were to assess safety, tolerability and pharmacokinetics of rinvatercept. Exploratory proteomic analysis was performed on serum samples.​ Differential expression analysis was used to compare protein levels in serum samples from volunteers who received rinvatercept or placebo over 71 days.​ Initial topline data from this trial was reported in March 2025.
+
+As previously reported, treatment with rinvatercept was generally well-tolerated at all dose levels evaluated. No dose-limiting toxicities or serious adverse events were reported.
+
+Administration of rinvatercept led to changes in body composition consistent with activin and myostatin inhibition. An increase in muscle mass, decrease in fat mass and an increase in bone mineral density were observed.
+
+Proteomic data further demonstrated the mechanism of action of rinvatercept, including its observed effects on mitigating fibrosis and inflammation by inhibiting activins, consistent with the anti-fibrotic and anti-inflammatory effects observed preclinically. Changes in serum markers of energy metabolism indicated a shift in macronutrient requirements for muscle growth, which aligned with the observed increases in muscle mass. These data provide multiple lines of evidence that rinvatercept may potentially achieve sufficient activin inhibition across tissues of interest, at drug exposures that we anticipate targeting in DMD and ALS.
+
+Preclinical Presentations
+
+Additionally, the Company presented the following preclinical presentations from its rinvatercept program that continue to support the further development of rinvatercept in DMD and ALS:
+
+RKER-065 Improved Muscle and Bone Mass and Strength in the D2.mdx Mouse Model of Duchenne Muscular Dystrophy
+
+RKER-065 Exhibited Beneficial Effects in an Amyotrophic Lateral Sclerosis Mouse Model
+
+About Rinvatercept
+
+Rinvatercept is a novel ligand trap comprised of a modified ligand-binding domain derived from activin receptor type IIA and activin receptor type IIB that is fused to the portion of the human antibody known as the Fc domain. Rinvatercept is designed to act as a ligand trap and inhibit the biological effects of myostatin and activin A, which are negative regulators of muscle and bone mass and strength, to improve skeletal muscle regeneration, increase muscle size and strength, inhibit and reduce fibrosis, inhibit inflammation, reduce fat accumulation and improve bone health through bone anabolic mechanisms. We are developing rinvatercept for the treatment of DMD and for the treatment of ALS.
+
+About Keros Therapeutics, Inc.
+
+Keros is a clinical-stage biopharmaceutical company focused on developing and commercializing novel therapeutics to treat a wide range of patients with disorders that are linked to dysfunctional signaling of the TGF-ß family of proteins. Keros is a leader in understanding the role of the TGF-ß family of proteins, which are master regulators of the growth, repair and maintenance of a number of tissues, including skeletal muscle, bone, adipose, heart tissue and blood. By leveraging this understanding, Keros has discovered and is developing protein therapeutics that have the potential to provide meaningful and potentially disease-modifying benefit to patients. Keros’ lead product candidate, rinvatercept, is being developed for the treatment of DMD and for the treatment of ALS. Keros’ most advanced product candidate, elritercept, is being developed for the treatment of cytopenias, including anemia and thrombocytopenia, in patients with myelodysplastic syndrome and in patients with myelofibrosis.
+
+Statements contained in this press release regarding matters that are not historical facts are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, as amended. Words such as “potential” or similar expressions are intended to identify forward-looking statements. Examples of these forward-looking statements include statements concerning: Keros’ expectations regarding its strategy and timing of its two Phase 2 clinical trials for rinvatercept; and the potential of rinvatercept to treat neuromuscular diseases, including DMD and ALS. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. These risks and uncertainties include, among others: Keros’ limited operating history and historical losses; Keros’ ability to raise additional funding to complete the development and any commercialization of its product candidates; Keros’ dependence on the success of its product candidates, rinvatercept and elritercept; that Keros may be delayed in initiating, enrolling or completing any clinical trials; competition from third parties that are developing products for similar uses; Keros’ ability to obtain, maintain and protect its intellectual property; and Keros’ dependence on third parties in connection with manufacturing, clinical trials and preclinical studies.
+
+These and other risks are described more fully in Keros’ filings with the Securities and Exchange Commission (“SEC”), including the “Risk Factors” section of the Company’s Annual Report on Form 10-K, filed with the SEC on March 4, 2026, and its other documents subsequently filed with or furnished to the SEC. All forward-looking statements contained in this press release speak only as of the date on which they were made. Except to the extent required by law, Keros undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made.

@@ -1,0 +1,31 @@
+Trial to resolve all claims in the Anaptys and Tesaro/GSK dispute is scheduled for July 14-17, 2026
+
+SAN DIEGO, Jan. 08, 2026 (GLOBE NEWSWIRE) -- AnaptysBio, Inc. (Nasdaq: ANAB), a clinical-stage biotechnology company focused on delivering innovative immunology therapeutics, filed a partial motion to dismiss Tesaro’s anticipatory breach of contract claim in Delaware Chancery Court related to pending litigation between Anaptys, GSK, and TESARO, Inc. (“Tesaro”) regarding their Collaboration and Exclusive License Agreement (“Collaboration Agreement”), which entitles Anaptys to receive royalties upon sales of Jemperli.
+
+As previously disclosed, Anaptys approached Tesaro to engage in good faith discussions to potentially resolve Anaptys’ claims that Tesaro and GSK had breached the Collaboration Agreement. On Nov. 20, 2025, Tesaro, without notice to Anaptys and with discussions ongoing, initiated a lawsuit against Anaptys, claiming that Anaptys had repudiated the Collaboration Agreement and seeking a declaration that Tesaro had not breached.
+
+In response, Anaptys filed its own Complaint in Delaware Chancery Court, requesting a court declaration that Tesaro has materially breached the parties’ Collaboration Agreement and that GSK, Tesaro’s corporate parent, has tortiously interfered with the Collaboration Agreement.
+
+Further, on Dec. 30, 2025, Anaptys filed a Motion to Dismiss Tesaro’s anticipatory breach of contract claim in the same court. The motion, unsealed on Jan. 8, 2026, explains why, as a matter of law, Anaptys has never repudiated the Collaboration Agreement and how Anaptys has only sought to vindicate its contract rights (which cannot be a repudiation). Anaptys’ motion also explains why Delaware’s anti-SLAPP law applies, as the law exists to prevent strategic lawsuits aimed at deterring good‑faith efforts to assert legal rights, such as Tesaro’s lawsuit.
+
+Tesaro and GSK contend that Anaptys’ Motion to Dismiss stays all discovery, a contention that Anaptys strongly opposes as the two companies work toward the scheduled July 14-17 trial date. The court is expected to hear Anaptys’ Motion to Dismiss by early March pursuant to Delaware’s anti-SLAPP law.
+
+About Anaptys’ Collaboration and Exclusive License Agreement with Tesaro (an affiliate of GSK)
+
+In March 2014, Anaptys entered into the Collaboration Agreement with Tesaro, an oncology-focused biopharmaceutical company now a part of GSK. Currently, under the Collaboration Agreement, Tesaro is developing Jemperli (dostarlimab) as a monotherapy, and in combination with additional therapies, for various solid tumor indications.
+
+Anaptys is eligible to receive royalties upon sales of Jemperli, equal to 8% of net sales below $1.0 billion, 12% of net sales between $1.0 billion and $1.5 billion, 20% of net sales between $1.5 billion and $2.5 billion and 25% of net sales above $2.5 billion.
+
+The royalty term under this collaboration extends at least through expiration of composition of matter coverage on the molecule which expires in 2035 in the U.S. and in 2036 in the EU.
+
+About Anaptys
+
+Anaptys is a clinical-stage biotechnology company focused on delivering innovative immunology therapeutics for autoimmune and inflammatory diseases. The company’s pipeline includes rosnilimab, a pathogenic T cell depleter, which has completed a Phase 2b trial for rheumatoid arthritis; ANB033, a CD122 antagonist, in a Phase 1b trial for celiac disease with plans to expand development into an additional indication; and ANB101, a BDCA2 modulator, in a Phase 1a trial. Anaptys has also discovered and out-licensed in financial collaborations multiple therapeutic antibodies, including a PD-1 antagonist (Jemperli (dostarlimab-gxly)) to GSK and an IL-36R antagonist (imsidolimab) to Vanda Pharmaceuticals. To learn more, visit www.AnaptysBio.com or follow us on LinkedIn.
+
+Anaptys recently announced the intent to separate its biopharma operations from its substantial royalty assets by year-end 2026, enabling investors to align their investment philosophies and portfolio allocation with the strategic opportunities and financial objectives of each company. Learn more here.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, including, but not limited to: the timing and potential outcome of proceedings in Delaware Chancery Court between Anaptys, Tesaro, and GSK, including the Court’s decision on the filed motion to dismiss, the nature of the remedies either party may seek or obtain in such proceedings, and the timing or amount of royalties from the sales of Jemperli. Statements including words such as “plan,” “continue,” “expect,” or “ongoing” and statements in the future tense are forward-looking statements. These forward-looking statements involve risks and uncertainties, as well as assumptions, which, if they do not fully materialize or prove incorrect, could cause its results to differ materially from those expressed or implied by such forward-looking statements. Forward-looking statements are subject to risks and uncertainties that may cause the company’s actual activities or results to differ significantly from those expressed in any forward-looking statement, including risks and uncertainties related to the company’s ability to advance its product candidates, obtain regulatory approval of and ultimately commercialize its product candidates, the timing and results of preclinical and clinical trials, the company’s ability to fund development activities and achieve development goals, the company’s ability to protect intellectual property and other risks and uncertainties described under the heading “Risk Factors” in documents the company files from time to time with the Securities and Exchange Commission. These forward-looking statements speak only as of the date of this press release, and the company undertakes no obligation to revise or update any forward-looking statements to reflect events or circumstances after the date hereof.
+
+Contact: Nick Montemarano Executive Director, Investor Relations 858.732.0178 investors@anaptysbio.com

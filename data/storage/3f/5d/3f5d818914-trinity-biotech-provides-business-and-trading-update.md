@@ -1,0 +1,47 @@
+DUBLIN, March 10, 2026 (GLOBE NEWSWIRE) -- Trinity Biotech plc (Nasdaq: TRIB), a commercial-stage biotechnology company focused on human diagnostics and diabetes management solutions, including wearable biosensors, today announced an update on its trading activities for Quarter 4, 2025 and some key business updates.
+
+Trading Update
+
+The Company expects Quarter 4, 2025 revenue within the range of approximately $11.5 million to $12.5 million.
+
+This compares to Quarter 4, 2024 revenue of $15.9 million, which was driven by a substantial increase in TrinScreen™ HIV sales from $0.4 million in Quarter 4, 2023 to $3.2 million in Quarter 4, 2024.
+
+The reduction in revenue between Quarter 4, 2024 and Quarter 4, 2025 was primarily driven by:
+
+The residual impact of the disruption to the global health market for HIV testing in 2025 due to changes affecting international aid funding structures, and
+
+The fine-tuning of manufacturing and supply-chain processes to accommodate the rise in demand for TrinScreen™ HIV in late 2025 as the Company transitioned to outsourced manufacturing under the Company’s Comprehensive Transformation Plan.
+
+Business Update
+
+The Company’s key strategic objectives are to grow the existing business profitably and to advance its exciting innovation agenda, including the flagship development CGM+. As such, the Company continues to focus on, and make substantial progress in, its Comprehensive Transformation Plan, which is designed to substantially improve the long-term profitability of the Company’s existing business lines.
+
+The Company has recently secured several key regulatory approvals, including in February 2026, local regulatory approval for outsourcing and offshoring the production of its Uni-Gold™ HIV rapid test. The receipt of this regulatory approval allows the Company to proceed with the final transition of Uni-Gold manufacturing and, as previously announced, this key aspect of its Comprehensive Transformation Plan is being prioritised during the first quarter of 2026.
+
+In addition to pursuing profitability focused operational transformation, such as the finalisation of outsourced manufacturing, the Company continues to focus on commercialisation of its rapid HIV test franchise and this is underpinned by renewed strength in global HIV testing demand. In particular, the Company is seeing strong demand for Uni-Gold™ HIV. As the Company gains continued commercial traction with TrinScreen™ and sees improved Uni-Gold™ HIV demand, it is expected that Rapid HIV will be a larger proportion of the Company’s revenue base in 2026.
+
+Given the nature of global health HIV test procurement, where order timing and size can vary significantly, and in particular the typical scale of TrinScreen™ orders, the Company expects a higher degree of quarter-on-quarter revenue variability. The move to outsourced manufacturing for its Uni-Gold™ HIV and TrinScreen™ products is intended to mitigate the profitability impact of this increased revenue variability by transitioning a significant portion of the continuing cost base from fixed cost to variable costs, though the transition to outsourcing itself will also temporarily introduce a further degree of quarter-on-quarter revenue variability in the first half of 2026. As a result of these factors, the Company now anticipates that some HIV revenue will shift from Quarter 1 into Quarter 2 and also from Quarter 2 into Quarter 3, shifting the cadence of quarterly profitability and cashflows as the Company stays firmly focused on full‑year and long‑term performance, in line with its strategic objectives.
+
+The Company also continues to focus on the execution of its multi-facetted business improvement plan for its diabetes care Premier Hb9210 HbA1c laboratory blood glucose monitoring solution. Having secured the prestigious Gold Classification from the International Federation of Clinical Chemistry and Laboratory Medicine (IFCC) for 2026, and obtained regulatory clearances in multiple countries for the expanded rollout of its next-generation high-capacity HbA1c column system, the Company is now focusing on increasing commercial efforts for this upgraded HbA1c column system.
+
+These commercial efforts are focused on building new sales relationships in the US and Brazil where the Company has a direct sales presence. The Company is also now building new and expanded relationships with third party distributors in other territories, as this product line is positioned for renewed long-term growth. The upgraded column system builds upon broader improvement initiatives in the Company’s haemoglobin business, including the transition of certain manufacturing processes to other group manufacturing sites to increase manufacturing capacity and to reduce costs as part of its profitability focused Comprehensive Transformation Plan.
+
+The Company is confident that these product development, commercial and operational developments, coupled with rising global diabetes prevalence, position this business for long-term profitable growth, again consistent with the Company’s overall strategic objectives.
+
+Pipeline Developments
+
+The Company continues to advance its key strategic growth projects currently in development, including:
+
+Its next-generation continuous glucose monitor, CGM+;
+
+EpiCapture, the company’s PCR-based epigenetic liquid biopsy test for monitoring the risk of prostate cancer progressing to more aggressive forms of the disease; and
+
+PrePsia™, an innovative early pregnancy screening test designed to assess the risk of preeclampsia—a potentially life-threatening condition for both mother and baby.
+
+Forward-Looking Statements
+
+This release includes statements that constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 (the “Reform Act”), including but not limited to statements related to Trinity Biotech’s cash position, financial resources and potential for future growth, market acceptance and penetration of new or planned product offerings, and future recurring revenues and results of operations. Trinity Biotech claims the protection of the safe harbor for forward-looking statements contained in the Reform Act. These forward-looking statements are often characterized by the terms “may,” “believes,” “projects,” “expects,” “anticipates,” or words of similar import, and do not reflect historical facts. Specific forward-looking statements contained in this release may be affected by risks and uncertainties, including, but not limited to, our ability to capitalize on the Waveform transaction and of our recent acquisitions, our continued listing on the Nasdaq Stock Market, our ability to achieve profitable operations in the future, our ability to reduce our debt and improve our capitalization, the impact of the spread of COVID-19 and its variants, the possible pause and/or disruption in U.S. Government funding for HIV tests produced by Trinity Biotech, potential excess inventory levels and inventory imbalances at the company’s distributors, losses or system failures with respect to Trinity Biotech’s facilities or manufacturing operations, the effect of exchange rate fluctuations on international operations, fluctuations in quarterly operating results, dependence on suppliers, the market acceptance of Trinity Biotech’s products and services, the continuing development of its products, required government approvals, risks associated with manufacturing and distributing its products on a commercial scale free of defects, risks related to the introduction of new instruments manufactured by third parties, risks associated with competing in the human diagnostic market, risks related to the protection of Trinity Biotech’s intellectual property or claims of infringement of intellectual property asserted by third parties and risks related to condition of the United States economy and other risks detailed under “Risk Factors” in Trinity Biotech’s annual report on Form 20-F for the fiscal year ended December 31, 2024 and Trinity Biotech’s other periodic reports filed from time to time with the United States Securities and Exchange Commission. Forward-looking statements speak only as of the date the statements were made. Trinity Biotech does not undertake and specifically disclaims any obligation to update any forward-looking statements.
+
+About Trinity Biotech
+
+Trinity Biotech is a commercial stage biotechnology company focused on diabetes management solutions and human diagnostics, including wearable biosensors. The Company develops, acquires, manufactures and markets diagnostic systems, including both reagents and instrumentation, for the point-of-care and clinical laboratory segments of the diagnostic market and has recently entered the wearable biosensor industry, with the acquisition of the biosensor assets of Waveform Technologies Inc. and intends to develop a range of biosensor devices and related services, starting with a continuous glucose monitoring product. Our products are used to detect infectious diseases and to quantify the level of Haemoglobin A1c and other chemistry parameters in serum, plasma and whole blood. Trinity Biotech sells direct in the United States and through a network of international distributors and strategic partners in over 75 countries worldwide. For further information, please see the Company's website: www.trinitybiotech.com.

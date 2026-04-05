@@ -1,0 +1,35 @@
+We are experiencing some temporary issues. The market data on this page is currently delayed.
+
+This is a paid press release. Contact the press release distributor directly with any inquiries.
+
+Calidi Biotherapeutics to Present New Data on Its Differentiated Approach to In Situ T-Cell Engagers Including a New Candidate Targeting TROP-2 at the AACR Annual Meeting in April 2026
+
+SAN DIEGO, April 01, 2026 (GLOBE NEWSWIRE) -- Calidi Biotherapeutics, Inc. (NYSE American: CLDI) (“Calidi” or the “Company”), a biotechnology company pioneering the development of targeted genetic medicines, will present new data at the American Association of Cancer Research (AACR) annual meeting in San Diego, California from April 17-22, 2026. The Company will demonstrate new data on its approach of simultaneously activating T-cells while inducing the expression of T-cell engagers specifically in situ in the tumor microenvironment (TME).
+
+RedTail is Calidi’s systemically delivered virotherapy platform designed to selectively target tumors, remodel the TME, and enable high-level expression of therapeutic genetic payloads directly at the tumor site while limiting peripheral exposure. CLD-401, the lead candidate derived from the RedTail platform, is engineered to express high levels of IL-15 SA, a known T and NK-cell activator, in the TME. The Company expects to file an IND for CLD-401 by the end of 2026.
+
+Data presented at the AACR meeting will showcase RedTail viruses that can express both a functional T-cell engager, capable of binding targeted solid tumor cells, and IL-15 SA at high concentrations, allowing for simultaneous T-cell activation and high expression in situ of a T-cell engager. T-cell engagers have shown exceptional efficacy in hematological malignancies but have failed to show clinical benefit in solid tumors where the TME inhibits immune cell infiltration and T-cell activity. By remodeling the TME and driving T-cell activation in concert with expression of a T-cell engager, RedTail may overcome these historical limitations.
+
+The Company is developing a lead candidate targeting TROP2, a cell-surface glycoprotein. TROP2 expression in normal tissue and the high potential for off-tumor / on-target toxicity has made it a difficult target for T-cell engagers. The RedTail approach confines expression of the T-cell engager to the TME, limiting the possibility of off-tumor interactions. The Company is pursuing additional T-cell engager targets like EGFR, EpCAM, and Nectin-4.
+
+“We continue to advance the RedTail platform through our lead asset, CLD-401, and now through our work with T-cell engagers,” said Eric Poma, PhD, Chief Executive Officer of Calidi. “We believe RedTail represents a major breakthrough in the ability to deliver genetic payloads in a targeted fashion to distal sites of disease through systemic administration.”
+
+“The data we will present at AACR highlight the ability of the RedTail platform to functionally overexpress complex biologics likes cytokines and T-cell engagers and profoundly alter the tumor microenvironment” said Antonio F. Santidrian, PhD, Chief Scientific Officer and Head of Technical Operations at Calidi. “The ability of the RedTail platform to induce high levels of expression of its genetic payloads only at the tumor can potentially overcome many of the limitations currently seen with cytokine and T-cell engager therapies.”
+
+The Company continues to expand the functionality of the RedTail platform and is also actively pursuing strategic partnerships to accelerate clinical development and broaden the impact of its RedTail platform.
+
+About Calidi
+
+Calidi Biotherapeutics (NYSE American: CLDI) is a biotechnology company pioneering the development of targeted therapies with the potential to deliver genetic medicines to distal sites of disease. The company’s proprietary Redtail platform features an engineered enveloped oncolytic virus designed for systemic delivery and targeting of metastatic sites. This advanced enveloped technology is intended to shield the virus from immune clearance, allowing virotherapy to effectively reach tumor sites, induce tumor lysis, and deliver potent genetic medicine(s) to metastatic locations.
+
+CLD-401, the lead candidate from the Redtail platform, currently in IND-enabling studies, targets non-small cell lung cancer, head and neck cancer, and other tumor types with high unmet medical need. Calidi continues to advance its pipeline utilizing the Redtail platform including its novel approach to incorporate in situ T-cell engagers in solid tumors.
+
+Calidi Biotherapeutics is headquartered in San Diego, California. For more information, please visit www.calidibio.com or view Calidi’s Corporate Presentation here.
+
+Forward-Looking Statements
+
+This press release may contain forward-looking statements for purposes of the “safe harbor” provisions under the United States Private Securities Litigation Reform Act of 1995. Terms such as “anticipates,” “believe,” “continue,” “could,” “estimate,” “expect,” “intends,” “may,” “might,” “plan,” “possible,” “potential,” “predicts,” “project,” “should,” “towards,” “would” as well as similar terms, are forward-looking in nature, but the absence of these words does not mean that a statement is not forward-looking. These forward-looking statements include, but are not limited to, statements concerning key milestones, including certain pre-clinical data, planned clinical trials, and statements relating to the safety and efficacy of Calidi’s therapeutic candidates in development. Any forward-looking statements contained in this discussion are based on Calidi’s current expectations and beliefs concerning future developments and their potential effects and are subject to multiple risks and uncertainties that could cause actual results to differ materially and adversely from those set forth or implied in such forward-looking statements. These risks and uncertainties include, but are not limited to, the risk that Calidi is not able to raise sufficient capital to support its current and anticipated clinical trials, the risk that early results of clinical trials do not necessarily predict final results and that one or more of the clinical outcomes may materially change following more comprehensive review of the data, and as more patient data becomes available, the risk that Calidi may not receive FDA approval for some or all of its therapeutic candidates. Other risks and uncertainties are set forth in the section entitled “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements” in the Company’s annual report filed with the SEC on Form 10-K on March 27, 2026, as may be amended or supplemented by other reports we file with the SEC from time to time. We disclaim any obligation to update any forward-looking statement to reflect events or circumstances after the date of this press release or to reflect the occurrence of unanticipated events.
+
+For Investors:
+
+Dave Gentry, CEO RedChip Companies, Inc. 1-407-644-4256 CLDI@redchip.com

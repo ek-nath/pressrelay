@@ -1,0 +1,14 @@
+ST. LOUIS, Feb. 09, 2026 (GLOBE NEWSWIRE) -- Stereotaxis (NYSE: STXS), a pioneer and global leader in surgical robotics for minimally invasive endovascular intervention, today announced the launch of a new robotic electrophysiology program at Klinikum Fürth in Fürth, Germany.
+
+Klinikum Fürth is the first hospital in Germany to establish a leading heart rhythm program that incorporates the Genesis Robotic Magnetic Navigation System, advanced robotic technology that establishes a new standard of care for patients with arrhythmias. Physicians at Klinikum Fürth have successfully treated their first patients, with a wide range of arrhythmias, leveraging the advanced technology.
+
+“We are proud to be the first in our region to offer this cutting-edge robotic technology and look forward to continuing to use the system to treat patients suffering from heart rhythm disorders,” said Dr. Laura Vitali-Serdoz, Head of the Rhythmology & Invasive Electrophysiology at Klinikum Fürth.
+
+“The precision and stability offered by Robotic Magnetic Navigation allows us to successfully treat even the most complex arrhythmias with confidence, which is a major benefit for our team and more importantly for our patients,” said Dr. Dirk Bastian, Deputy Head of the Rhythmology & Invasive Electrophysiology. “The technology is also minimizing the need for fluoroscopic confirmation and thereby reducing radiation exposure.”
+
+Robotic Magnetic Navigation introduces the benefits of precision and safety to cardiac ablation, a common minimally invasive procedure to treat arrhythmias. Tens of millions of individuals worldwide suffer from arrhythmias – abnormal heart rhythms that result when the heart beats too quickly, too slowly, or with an irregular pattern. When left untreated, arrhythmias may significantly increase the risk of stroke, heart failure, and sudden cardiac arrest.
+
+“We are proud to partner with Klinikum Fürth to expand access to minimally invasive arrhythmia care in Germany,” said David Fischel, Chairman and CEO of Stereotaxis. “We look forward to supporting their successful and impactful robotic heart rhythm practice.”
+
+About Stereotaxis  
+Stereotaxis (NYSE: STXS) is a pioneer and global leader in innovative surgical robotics for minimally invasive endovascular intervention. Its mission is the discovery, development and delivery of robotic systems, instruments, and information solutions for the interventional laboratory. These innovations help physicians provide unsurpassed patient care with robotic precision and safety, expand access to minimally invasive therapy, and enhance the productivity, connectivity, and intelligence in the operating room. Stereotaxis technology has been used to treat over 150,000 patients across the United States, Europe, Asia, and elsewhere. For more information, please visit www.stereotaxis.com.

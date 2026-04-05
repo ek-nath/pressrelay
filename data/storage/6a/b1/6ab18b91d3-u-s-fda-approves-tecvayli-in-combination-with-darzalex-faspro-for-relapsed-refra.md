@@ -1,0 +1,35 @@
+FDA approval based on Phase 3 data demonstrating statistically significant improvements in progression‑free survival and overall survival versus standard of care regimens
+
+SAN DIEGO, March 6, 2026 /PRNewswire/ -- Halozyme Therapeutics, Inc. (NASDAQ: HALO) (Halozyme) today announced that Johnson & Johnson has received approval from the U.S. Food and Drug Administration (FDA) for TECVAYLI® (teclistamab-cqyv) in combination with DARZALEX FASPRO® (daratumumab and hyaluronidase-fihj) for the treatment of adults with relapsed or refractory multiple myeloma (RRMM) who have received at least one prior line of therapy.1
+
+"The newly approved TECVAYLI plus DARZALEX FASPRO treatment regimen, in which both drugs are administered subcutaneously, offers patients with relapsed or refractory multiple myeloma a new, effective treatment option that can be administered across all treatment settings. DARZALEX FASPRO, incorporating the ENHANZE technology, continues to set new standards in multiple myeloma treatment and outcomes," said Dr. Helen Torley, President and Chief Executive Officer of Halozyme
+
+The approval is based on data from the Phase 3 MajesTEC-3 study, an ongoing, Phase 3 randomized study evaluating the safety and efficacy of teclistamab plus daratumumab versus investigator's choice of daratumumab and dexamethasone with either pomalidomide or bortezomib in patients with RRMM who have received at least one prior line of therapy. TECVAYLI® in combination with DARZALEX FASPRO® demonstrated statistically significant improvements in PFS and OS in patients with RRMM compared to standard treatment after a median follow-up of three years in patients with RRMM. Results show an 83% reduction in the risk of disease progression or death compared to standard regimens (hazard ratio [HR], 0.17; 95 percent confidence interval [CI], 0.12-0.23; P<0.0001).2 The three-year PFS rate was 83%,2 underscoring a durable benefit.
+
+For more information on this approval, please view Johnson & Johnson's press release issued on March 5, 2026.
+
+References
+
+1. TECVAYLI® U.S. Prescribing Information
+
+2. Maria-Victoria Mateos, et. al., Phase 3 Randomized Study of Teclistamab Plus Daratumumab Versus Investigator's Choice of Daratumumab and Dexamethasone With Either Pomalidomide or Bortezomib (DPd/DVd) in Patients With Relapsed Refractory Multiple Myeloma (RRMM): Results of MajesTEC-3, 2025 American Society of Hematology Annual Meeting. Accessed December 2025.
+
+About Halozyme
+
+Halozyme is a biopharmaceutical company advancing disruptive solutions to improve patient experiences and outcomes for emerging and established therapies. As the innovators of ENHANZE® drug delivery technology with the proprietary enzyme rHuPH20, Halozyme's commercially-validated solution facilitates the subcutaneous delivery of injected drugs and fluids, reducing treatment burden and improving convenience. ENHANZE® has touched more than one million patient lives through ten commercialized products across over 100 global markets and is licensed to leading pharmaceutical and biotechnology companies including Roche, Takeda, Pfizer, Janssen, AbbVie, Eli Lilly, Bristol-Myers Squibb, argenx, ViiV Healthcare, Chugai Pharmaceutical, Acumen Pharmaceuticals, Merus N.V. and Skye Bioscience.
+
+Halozyme expanded its drug delivery technology portfolio to develop partner products using Hypercon™ and Surf Bio's hyperconcentration technology. Hypercon™ is an innovative microparticle technology expected to set a new standard in hyperconcentration of drugs and biologics by reducing injection volume for the same dosage and enabling administration in at‑home and healthcare‑provider settings. The addition of Surf Bio's polymer‑based hyperconcentration technology further broadens the range of biologics that can be delivered subcutaneously, meaningfully expanding the scope of opportunities across therapeutic modalities. Together, Hypercon™ and Surf Bio's technology complement ENHANZE® by enabling creation and delivery of highly concentrated biologics. The Hypercon™ technology has been licensed to leading biopharmaceutical partners, including Janssen, Eli Lilly and argenx.
+
+Halozyme also develops, manufactures and commercializes drug-device combination products using advanced auto-injector technologies designed to improve convenience, reliability and tolerability, enhancing patient comfort and adherence. The Company has two proprietary commercial products, Hylenex® and XYOSTED®, partnered commercial products and ongoing development programs with Teva Pharmaceuticals and McDermott Laboratories Limited, an affiliate of Viatris Inc.
+
+Halozyme is headquartered in San Diego, CA, with offices in Ewing, NJ; Minnetonka, MN; and Boston, MA. Minnetonka is also the site of its operations facility.
+
+For more information, visit www.halozyme.com and connect with us on LinkedIn.
+
+Safe Harbor Statement
+
+In addition to historical information, the statements set forth above include forward-looking statements including, without limitation, statements concerning the possible activity, benefits and attributes of ENHANZE®, the possible method of action of ENHANZE®, its potential application to aid in the dispersion and absorption of other injected therapeutic drugs, and statements concerning certain other potential benefits of ENHANZE® including facilitating more rapid delivery of injectable medications through subcutaneous delivery and potentially lowering the treatment burden for patients, including a potential reduction in administration time and administration-related reactions and broadening the treatment options for the indication referred to in this press release. These forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those in the forward-looking statements. The forward-looking statements are typically, but not always, identified through use of the words "expect," "believe," "enable," "may," "will," "could," "intends," "estimate," "anticipate," "plan," "predict," "probable," "potential," "possible," "should," "continue," and other words of similar meaning. Actual results could differ materially from the expectations contained in forward-looking statements as a result of several factors, including unexpected results or delays in the launch or commercialization of our partner's product for the indication referred to in this press release, unexpected adverse events or patient experiences or outcomes from being treated with the ENHANZE® co-formulated treatment referred to in this press release, and competitive conditions. These and other factors that may result in differences are discussed in greater detail in Halozyme's most recent Annual and Quarterly Reports filed with the Securities and Exchange Commission. Except as required by law, Halozyme undertakes no duty to update forward-looking statements to reflect events after the date of this release.
+
+Contacts:
+
+Tram Bui VP, Investor Relations and Corporate Communications 609-333-7668 tbui@halozyme.com

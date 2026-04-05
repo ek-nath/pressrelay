@@ -1,0 +1,13 @@
+EAGLE, Idaho, April 01, 2026 (GLOBE NEWSWIRE) -- The Pennant Group, Inc. (NASDAQ: PNTG), the parent company of the Pennant group of affiliated home health, hospice, home care and senior living companies, today announced the acquisition of the real estate and operations of Arbor Rose Senior Living, an established senior living community located in Mesa, Arizona, which will now be known as Lavender Lane Senior Living.
+
+The Lavender Lane campus includes independent living, assisted living, and memory care services, with 74 licensed beds comprised of 44 assisted living beds and 30 memory care beds, in addition to 25 independent living units. The acquisition strengthens Pennant’s Arizona senior living portfolio, reinforcing its presence in the East Valley market.
+
+“The Lavender Lane acquisition reflects our commitment to disciplined growth and our confidence in the long-term fundamentals of the Arizona senior housing market,” said Brent Guerisoli, Chief Executive Officer of Pennant. “By investing in communities like Lavender Lane, we aim to deliver sustainable returns for shareholders while maintaining our commitment to operational excellence and quality outcomes.”
+
+Andrew Rider, President of Pinnacle Senior Living LLC, Pennant’s senior living subsidiary, added: “Lavender Lane represents an exciting opportunity to deepen our roots in Mesa and expand services for seniors in the East Valley. We look forward to building strong relationships with residents, families, and local partners as we enhance the community experience and create a vibrant environment for those we serve."
+
+Pennant looks forward to working closely with residents, families, and staff to ensure a smooth transition and a bright future for this community.
+
+About Pennant:
+
+The Pennant Group, Inc. is a holding company of independent operating subsidiaries that provide healthcare services through home health and hospice agencies and senior living communities located throughout Alabama, Arizona, California, Colorado, Connecticut, Georgia, Idaho, Montana, Nevada, Oklahoma, Oregon, Tennessee, Texas, Utah, Washington, Wisconsin and Wyoming. Each of these businesses is operated by a separate, independent operating subsidiary that has its own management, employees, and assets. References herein to the consolidated "company" and "its" assets and activities, as well as the use of the terms "we," "us," "its" and similar verbiage, are not meant to imply that The Pennant Group, Inc. has direct operating assets, employees or revenue, or that any of the home health and hospice businesses, senior living communities or the Service Center are operated by the same entity. More information about Pennant is available at www.pennantgroup.com.

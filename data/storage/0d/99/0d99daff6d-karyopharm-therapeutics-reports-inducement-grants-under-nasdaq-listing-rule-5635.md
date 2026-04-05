@@ -1,0 +1,11 @@
+NEWTON, Mass., March 2, 2026 /PRNewswire/ -- Karyopharm Therapeutics Inc. (Nasdaq: KPTI), a commercial-stage pharmaceutical company pioneering novel cancer therapies, today announced that the Company granted an aggregate of 1,450 restricted stock units (RSUs) to two newly-hired employees. These RSU awards were granted as of February 28, 2026 (the "Grant Date") pursuant to the Company's 2022 Inducement Stock Incentive Plan, as amended, as inducements material to the new employees entering into employment with Karyopharm in accordance with Nasdaq Listing Rule 5635(c)(4).
+
+Each RSU award will vest over three years, with 33 1/3% of the shares underlying the RSU award vesting on each of the three consecutive anniversaries of the Grant Date. The vesting of each RSU award is subject to the employee's continued service as an employee of, or other service provider to, Karyopharm through the applicable vesting dates.
+
+About Karyopharm Therapeutics
+
+Karyopharm Therapeutics Inc. (Nasdaq: KPTI) is a commercial-stage pharmaceutical company whose dedication to pioneering novel cancer therapies is fueled by a belief in the extraordinary strength and courage of patients with cancer. Since its founding, Karyopharm has been an industry leader in oral compounds that address nuclear export dysregulation, a fundamental mechanism of oncogenesis. Karyopharm's lead compound and first-in-class, oral exportin 1 (XPO1) inhibitor, XPOVIO® (selinexor), is approved in the U.S. and marketed by the Company in three oncology indications. It has also received regulatory approvals in various indications in 50 ex-U.S. territories and countries, including the European Union, the United Kingdom (as NEXPOVIO®) and China. Karyopharm has a focused pipeline targeting indications in multiple high unmet need cancers, including in multiple myeloma, endometrial cancer, myelofibrosis, and diffuse large B-cell lymphoma (DLBCL). For more information about our people, science and pipeline, please visit www.karyopharm.com, and follow us on LinkedIn and on X at @Karyopharm.
+
+XPOVIO® and NEXPOVIO® are registered trademarks of Karyopharm Therapeutics Inc.
+
+View original content to download multimedia:https://www.prnewswire.com/news-releases/karyopharm-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635c4-302696414.html

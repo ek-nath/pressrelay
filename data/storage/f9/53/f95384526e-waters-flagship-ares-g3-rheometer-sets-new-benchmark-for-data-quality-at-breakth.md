@@ -1,0 +1,15 @@
+News Summary:
+
+-      Reduces standard testing times by 80%.1
+
+-      Delivers an industry-leading 25,000 data points per second, detecting transient material behaviors previously invisible to measurement. 2
+
+-      Operates with fewer calibrations and superior atmosphere and temperature control. 3
+
+SAN ANTONIO, Texas and MILFORD, Mass., March 9, 2026 /PRNewswire/ -- Pittcon 2026 Conference + Exposition -- Waters Corporation (NYSE: WAT) today launched the ARES-G3™ Rheometer, part of the TA Instruments product line. This next-generation rheometer delivers industry-leading speed paired with best-in-class data to accelerate materials research and product development. Capturing up to 25,000 data points per second (10x more than its predecessor) and cutting standard test times by up to 80% through fully integrated Fast Frequency Chirps, the ARES-G3 Rheometer addresses pressing industry limitations. As scientists and materials innovators pursue a deeper understanding of complex material behavior, this product unlocks new capabilities and outcomes across polymer and composites development, liquid and semi-liquid coatings, and fundamental research.
+
+"Rheology labs are under enormous pressure to deliver better data, faster, to unlock breakthroughs and support business decisions," said Dan Rush, Senior Vice President, Waters Materials Sciences, Waters Corporation. "We're pleased to deliver a cutting-edge instrument that can provide unique data in record time, providing novel insights and empowering our customers to meet these increasing demands."
+
+The ARES-G3 Rheometer enables shortened experiment times, increased lab throughput, and previously unobtainable measurements of fast-changing samples in a single test. Because it fully integrates a Fast Frequency Chirps solution into its enhanced TRIOS™ Software, the ARES-G3 Rheometer eliminates the need for multiple software licenses and training in advanced programming packages to capture and process data through rapid frequency sweeps. Routine quality control tests and data generation can also be completed up to 80% faster than before with some tests reduced from six hours to one; this translates to accelerated workflows that save teams hundreds of workdays per year under typical conditions, without sacrificing data quality. The ARES-G3 Rheometer can also perform many tests without requiring user calibrations, reducing margin for human error and increasing confidence in measurements.
+
+"For years, rheologists have struggled to capture in-depth data on materials that are actively curing or degrading. The kinetics are so fast that conventional rheometers miss the critical information," said Chris Macosko, Ph.D., Professor Emeritus, Department of Chemical Engineering and Materials Science, University of Minnesota. "Integrating Fast Frequency Chirps and precise temperature control means we can now generate time-temperature-dependent data in one-fifth of the usual time. The new ARES-G3 Rheometer delivers the accurate and consistent data that we need to succeed."

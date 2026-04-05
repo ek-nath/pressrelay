@@ -1,0 +1,69 @@
+Aims to Build on Positive 2025 Interim TN-201 Results in First Half of 2026 with Longer-Term Follow-Up Data for Cohorts 1 and 2 from MyPEAK™-1 Trial of Adults with MYBPC3-Associated HCM
+
+Expects to Report One-Year Cohort 1 Data and Early Cohort 2 Data from RIDGE™-1 Study of TN-401 for PKP2-Associated ARVC in First Half of 2026
+
+Plans to Pursue Alignment on Regulatory Pathways for Lead Gene Therapy Programs in 2026
+
+Raised $60 Million in 4Q25 to Support Runway Through mid-2027
+
+SOUTH SAN FRANCISCO, Calif., Jan. 09, 2026 (GLOBE NEWSWIRE) -- Tenaya Therapeutics, Inc. (NASDAQ: TNYA), a clinical-stage biotechnology company with a mission to discover, develop and deliver potentially curative therapies that address the underlying causes of heart disease, today provided an update on its clinical development programs and outlined its strategic priorities for 2026.
+
+“2025 was a momentous year for Tenaya as we demonstrated early evidence of safety and potentially disease-modifying activity for our gene therapy programs for MYBPC3-associated hypertrophic cardiomyopathy and PKP2-associated arrhythmogenic cardiomyopathy—devastating inherited heart conditions with limited treatment options,” said Faraz Ali, Chief Executive Officer of Tenaya. “These encouraging results offer real hope to patients and families in need of transformative therapies. On the strength of these data, we successfully raised additional capital to advance both programs through key clinical milestones in 2026, including more mature data readouts from both programs. We remain steadfast in our mission to deliver potentially curative therapies for those living with serious genetic heart diseases.”
+
+Program Updates and Anticipated 2026 Milestones:
+
+TN-201 – Gene Therapy for MYBPC3-Associated Hypertrophic Cardiomyopathy (HCM)
+
+In the first half of 2026, Tenaya expects to share interim data for Cohort 2 patients dosed with 6E13 vg/kg of TN-201, as well as updates from Cohort 1 patients who received 3E13 vg/kg doses of TN-201 in the MyPEAK-1 Phase 1b/2 clinical trial for the potential treatment of HCM due to MYBPC3 mutations.
+
+In the second half of 2026, one-year Cohort 2 data and two-year Cohort 1 data from MyPEAK-1 are anticipated.
+
+Tenaya plans to pursue regulatory alignment on TN-201 pivotal studies over the course of 2026 with an update to be released in the second half of the year.
+
+In November 2025, Tenaya presented promising data from the MyPEAK-1 trial. The interim data reported included safety, biopsy and leading indicators of efficacy results for the three patients enrolled in Cohort 1 with follow-up ranging from Week 52-78, as well as initial safety data and biopsy and efficacy results for Cohort 2 patients as of the July 2025 data cut off. Key findings included:
+
+TN-201 was generally well tolerated at both dose levels. No dose-limiting toxicities were observed, and all patients have successfully tapered off immunosuppressive medicine.
+
+MyBP-C protein levels increased over time, with a substantial increase in protein levels observed commensurate with higher dose in Cohort 2.
+
+Multiple parameters associated with risk of complications and/or survival improved among a majority of patients with greater than 26 weeks of follow-up.
+
+To date, seven patients have been enrolled in the MyPEAK-1 trial. Following implementation of modest protocol amendments in alignment with U.S. Food and Drug Administration (FDA) input, Tenaya expects to resume enrollment in the 6E13 vg/kg dose expansion cohort to generate additional safety and efficacy data in 2026
+
+TN-401 – Gene Therapy for PKP2-Associated Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC)
+
+In the first quarter of 2026, the DSMB for the RIDGE-1 Phase 1b/2 clinical trial of TN-401 gene therapy for the potential treatment of adults with ARVC caused by mutations in the plakophilin-2 gene, (PKP2) is expected to convene. The DSMB will review all available safety data for the three patients dosed at 3E13 vg/kg (Cohort 1) and three patients dosed at 6E13 vg/kg (Cohort 2,) dose levels. Following DSMB review, Tenaya plans to continue to enroll patients in RIDGE-1 at one or both dose levels.
+
+Tenaya expects to present one-year data for Cohort 1 and initial Cohort 2 data in the first half of 2026. Additional Cohort 2 data is anticipated in the second half of 2026.
+
+Tenaya plans to pursue regulatory alignment on TN-401 pivotal studies in the second half of 2026 and to share an update by year-end, as available.
+
+In December 2025, Tenaya presented positive initial Cohort 1 data in the ongoing RIDGE-1 clinical trial. The data reported included safety, biopsy and arrhythmia results from Cohort 1 as of the October 2025 data cut off, with follow-up ranging from 20-40 weeks post-dose. Key findings included:
+
+TN-401 was well tolerated at the 3E13 vg/kg dose, and no dose-limiting toxicities were observed. Adverse events (AEs) were generally mild, asymptomatic and manageable and deemed unrelated to TN-401 treatment.
+
+Biopsies demonstrated robust transduction and expression in all patients within first eight weeks.
+
+Clinically meaningful improvements in electrical instability were observed in the first two patients with greater than six months follow-up after TN-401 dosing.
+
+Enrollment and dosing of Cohort 2 is complete with no new serious AEs related to TN-401 reported in the cohort to date.
+
+In July 2025, the RIDGE-1 trial DSMB reviewed all available data and endorsed dose escalation to the 6E13 vg/kg level and expanding enrollment of Cohort 1, per protocol.
+
+Cash Position and Updated Guidance
+
+Tenaya ended the third quarter of 2025 with $56.3 million in cash, cash equivalents and investments in marketable securities. With the additional proceeds of $60 million from the December 2025 public offering (prior to deducting underwriting discounts and commissions and offering expenses), the company expects that such resources will be sufficient to fund planned operations through mid-2027.
+
+About TN-201 Gene Therapy and the MyPEAK-1 Phase 1b/2 Clinical Trial TN-201 is an adeno-associated virus serotype 9 (AAV9)-based gene therapy designed address the underlying cause of myosin binding protein C3 (MYBPC3)-associated hypertrophic cardiomyopathy (HCM) by delivering a working MYBPC3 gene to heart muscle cells via a single intravenous infusion and thereby increasing insufficient MyBP-C protein levels with the aim of halting or even reversing disease after a single dose. The U.S. Food and Drug Administration has granted TN-201 Fast Track, Orphan Drug and Rare Pediatric Drug Designations. TN-201 has also received orphan medicinal product designation from the European Commission.
+
+The ongoing MyPEAK-1 Phase 1b/2 clinical trial (Clinicaltrials.gov ID: NCT05836259) is a multi-center, open-label, dose-escalating (3E13 vg/kg and 6E13 vg/kg) study of symptomatic adults (up to 24) who have been diagnosed with MYBPC3-associated HCM. MyPEAK-1 is designed to assess the safety, tolerability and clinical efficacy of a one-time intravenous infusion of TN-201 gene replacement therapy. MyPEAK-1 has tested doses of 3E13 vg/kg and 6E13 vg/kg in two cohorts of three patients each. In July 2025, Tenaya reported that the trial’s independent Data Safety Monitoring Board (DSMB) concluded that TN-201 had an acceptable safety profile to allow enrollment of expansion cohorts at either the 3E13 vg/kg (Cohort 1) or 6E13 vg/kg (Cohort 2) dose levels.
+
+To learn more about gene therapy for HCM and participation in the MyPEAK-1 study, please visit HCMStudies.com.
+
+About TN-401 Gene Therapy and the RIDGE-1 Phase 1b/2 Clinical Trial TN-401 is an investigational AAV9-based gene therapy being developed for the treatment of arrhythmogenic right ventricular cardiomyopathy (ARVC, also known as arrhythmogenic cardiomyopathy or ACM) due to mutations in the Plakophilin-2 (PKP2) gene. AAV9 was selected as the vector for delivery of Tenaya’s PKP2 gene therapy based on its extensive clinical and commercial safety record and demonstrated ability to target heart muscle cells. TN-401 has received Orphan Drug and Fast Track Designations from the U.S. Food and Drug Administration. Tenaya’s development of TN-401 is supported in part by a grant from the California Institute of Regenerative Medicines (CIRM).
+
+The RIDGE-1 Phase 1b/2 clinical trial of TN-401 in patients with PKP2-associated ARVC is a multi-center, open-label, dose escalation study being conducted in the U.S. and UK. RIDGE-1 is intended to assess the safety, tolerability and preliminary clinical efficacy of a one-time intravenous infusion of TN-401. RIDGE-1 will seek to enroll up to fifteen adults who have been diagnosed with PKP2-associated ARVC, have an ICD and are at increased risk for arrhythmias as determined by premature ventricular count (PVC) during screening. In July 2025, Tenaya announced that the RIDGE-1 trial’s independent Data Safety Monitoring Board (DSMB) endorsed dose escalation per protocol following a review of available data from three patients dosed at 3E13 vg/kg (Cohort 1). Enrollment in the 6E13 vg/kg dose cohort is complete and additional enrollment in the RIDGE-1 will be considered following a review of all available safety data by the trial’s DSMB.
+
+About Tenaya Therapeutics Tenaya Therapeutics is a clinical-stage biotechnology company committed to a bold mission: to discover, develop and deliver potentially curative therapies that address the underlying drivers of heart disease. Tenaya’s pipeline includes clinical-stage candidates TN-201, a gene therapy for MYBPC3-associated hypertrophic cardiomyopathy (HCM) and TN-401, a gene therapy for PKP2-associated arrhythmogenic right ventricular cardiomyopathy (ARVC). Tenaya has employed a suite of integrated internal capabilities, including modality agnostic target validation, capsid engineering and manufacturing, to generate a portfolio of novel medicines based on genetic insights, including TN-301, a clinical-stage small molecule HDAC6 inhibitor for the potential treatment of heart failure and related cardio/muscular disease, and multiple early-stage programs in preclinical development aimed at the treatment of both rare genetic disorders and more prevalent heart conditions. For more information, visit www.tenayatherapeutics.com.
+
+Forward Looking Statements This press release contains forward-looking statements as that term is defined in Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Statements in this press release that are not purely historical are forward-looking statements. Words such as “aims,” “expects,” “plans,” “potentially,” “anticipated,” “will,” and similar expressions are intended to identify forward-looking statements. Such forward-looking statements include, among other things, the planned timing to report additional data from MyPEAK-1 and RIDGE-1 and pursue regulatory alignment for the TN-201 and TN-401 programs; the sufficiency of Tenaya’s cash runway to support operations through mid-2027; the clinical, therapeutic and commercial potential of, and expectations regarding the safety and efficacy of TN-201 and TN-401; Tenaya’s expectations regarding enrollment in MyPEAK-1; expectations regarding the upcoming DSMB review of RIDGE-1 safety data and plans to continue to enroll patients in one or both dose cohorts; statements regarding the continued development of TN-201 and TN-201 and TN-401 clinical outcomes, which may materially change as more patient data become available; and statements made by Tenaya’s Chief Executive Officer. The forward-looking statements contained herein are based upon Tenaya’s current expectations and involve assumptions that may never materialize or may prove to be incorrect. These forward-looking statements are neither promises nor guarantees and are subject to a variety of risks and uncertainties, including but not limited to: availability of MyPEAK-1 and RIDGE-1 data at the referenced time; the timing and progress of MyPEAK-1 and RIDGE-1; the potential failure of TN-201 and/or TN-401 to demonstrate safety and/or efficacy in clinical testing; the potential for any MyPEAK-1 or RIDGE-1 clinical trial results to differ from preclinical, interim, preliminary or expected results; the potential for the U.S. Food and Drug Administration and/or other regulatory agencies to conclude at any time that TN-201 and/or TN-401 may not have an appropriate risk/benefit profile; Tenaya’s ability to enroll and maintain patients in clinical trials, including MyPEAK-1 and RIDGE-1; risks associated with the process of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics and operating as an early stage company; Tenaya’s continuing compliance with applicable legal and regulatory requirements; Tenaya’s ability to raise any additional funding it will need to continue to pursue its product development plans; Tenaya’s reliance on third parties; Tenaya’s manufacturing, commercialization and marketing capabilities and strategy; the loss of key scientific or management personnel; competition in the industry in which Tenaya operates; Tenaya’s ability to obtain and maintain intellectual property protection for its product candidates; general economic and market conditions; and other risks. Information regarding the foregoing and additional risks may be found in the section titled “Risk Factors” in Tenaya’s Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2025, and other documents that Tenaya files from time to time with the Securities and Exchange Commission. These forward-looking statements are made as of the date of this press release, and Tenaya assumes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.

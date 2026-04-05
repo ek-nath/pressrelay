@@ -1,0 +1,15 @@
+# MedicAlert Foundation, Sickle Cell Disease Association of America, Inc. (SCDAA), and Fulcrum Therapeutics Partner to Accelerate Emergency Department Access to Critical Care Information for People Living with Sickle Cell Disease
+
+Three-year collaboration is aimed at enhancing a key aspect of sickle cell management: expediting care during a pain crisis
+
+CAMBRIDGE, Mass., March 19, 2026 (GLOBE NEWSWIRE) -- MedicAlert Foundation, the leading nonprofit providing medical IDs and emergency medical information services, Sickle Cell Disease Association of America, Inc., (SCDAA), the national voice for people affected by sickle cell disease and their caregivers, and Fulcrum Therapeutics Inc. (Fulcrum) (Nasdaq: FULC), a leader in advancing therapies for underserved patient populations, today announced a new partnership designed to help streamline and expedite emergency department (ED) care for people living with sickle cell disease (SCD) through rapid access to patient-specific care plans.
+
+Individuals living with SCD, an inherited blood disorder, frequently seek care in EDs during acute pain crises. In these urgent care situations, immediate access to health information is a vital step in helping clinicians deliver the timely, targeted care that people with SCD need.
+
+“Too often, individuals living with SCD face barriers to receiving appropriate and compassionate care quickly during a pain crisis in the emergency department,” said Regina Hartfield, President and CEO, SCDAA. “This partnership represents an important step forward in this program, originally launched in 2023 between MedicAlert and SCDAA. Fulcrum’s commitment will enable us to broaden our reach into SCDAA’s membership and to the SCD community and will empower so many more individuals living with SCD with a trusted way to effectively share their care and/or pain plans and medical information with emergency clinicians, helping ensure their voices and needs are recognized when they seek care.”
+
+Through this program, participants receive a MedicAlert Smart Medical ID Card linked to a secure digital health profile. When the card’s QR code is scanned by ED personnel, clinicians can quickly access essential medical information including the patient’s physician-approved sickle cell pain plan, hematologist contact information, medications, allergies, and other vital health data.
+
+“When a person with SCD comes to the ED during a pain crisis, lack of access to patient-specific care plans can result in prolonged suffering,” said Karen Cassel, President and CEO, MedicAlert Foundation “That’s where our emergency response system comes in. It’s designed to help address this pain point by enabling faster clinical decision-making.”
+
+SCD is long overdue for improvements in care coordination to help ease the burden of this painful and devastating disease that affects 100,000 people in the U.S., many of whom have been left behind amid the shortcomings in the current landscape. The often unmet needs of patients necessitate urgency to adopt new and unique collaborations that help close the gap in their experiences.

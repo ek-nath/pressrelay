@@ -14,51 +14,8 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select
 
 from pressrelay.logger import logger
-from pressrelay.database import Article, ArticleStatus, Feed, Watchlist
-from pressrelay.processing import fetch_and_convert_to_markdown
-from pressrelay.config import AppConfig, FeedConfig
-
-def slugify(text: str) -> str:
-    """Convert a string to a URL-friendly slug."""
-    text = text.lower()
-    text = re.sub(r'[\s\W-]+', '-', text)
-    return text.strip('-')
-
-def get_content_hash(content: str) -> str:
-    """Generate a SHA256 hash of the content."""
-    return hashlib.sha256(content.encode('utf-8')).hexdigest()
-
-def detect_tickers_deterministic(
-    title: str, 
-    content: str, 
-    watchlist: Set[str]
-) -> List[str]:
-    """
-    Highly deterministic ticker detection using PR industry patterns.
-    """
-    detected = set()
-    
-    # 1. Pattern: (EXCHANGE: TICKER) or (TICKER) in first 1000 chars
-    # Matches: (Nasdaq: MDAI), (NASDAQ:MDAI), (NYSE: AEON), (SNDX)
-    combined_text = f"{title} {content[:1000]}"
-    paren_matches = re.findall(r'\((?:[A-Za-z\s]+: ?)?([A-Z]{1,5})\)', combined_text)
-    for m in paren_matches:
-        if m in watchlist:
-            detected.add(m)
-            
-    # 2. Pattern: $TICKER
-    dollar_matches = re.findall(r'\$([A-Z]{1,5})\b', content)
-    for m in dollar_matches:
-        if m in watchlist:
-            detected.add(m)
-            
-    # 3. Pattern: EXCHANGE:TICKER (without parens)
-    exchange_matches = re.findall(r'(?:NASDAQ|NYSE|OTC|TSX): ?([A-Z]{1,5})\b', combined_text, re.IGNORECASE)
-    for m in exchange_matches:
-        if m.upper() in watchlist:
-            detected.add(m.upper())
-
-    return list(detected)
+import time
+from pressrelay.metrics import ARTICLES_PROCESSED, FEED_FETCH_TOTAL, PROCESSING_LATENCY, ACTIVE_TICKERS, TICKERS_DETECTED, FEED_ERROR_COUNT
 
 async def process_and_save_article(
     entry: dict, 
@@ -72,6 +29,7 @@ async def process_and_save_article(
     watchlist_set: Optional[Set[str]] = None
 ) -> bool:
     """Processes a single article entry: fetches, converts, and saves with V2 logic."""
+    start_time = time.time()
     article_url = entry.get('link')
     if not article_url:
         return False
@@ -83,15 +41,7 @@ async def process_and_save_article(
         existing_article = result.scalars().first()
         
         if existing_article and existing_article.status == ArticleStatus.SUCCESS:
-            if primary_ticker:
-                meta = dict(existing_article.metadata_json)
-                tickers = meta.get('detected_tickers', [])
-                if primary_ticker not in tickers:
-                    tickers.append(primary_ticker)
-                    meta['detected_tickers'] = list(set(tickers))
-                    existing_article.metadata_json = meta
-                    await session.commit()
-            return True
+            return True  # Already processed successfully
 
         logger.info(f"{'[DRY RUN] ' if dry_run else ''}Processing article: '{entry.get('title', 'No Title')}'")
 
@@ -100,6 +50,8 @@ async def process_and_save_article(
         
         if not markdown_content:
             if not dry_run:
+                ARTICLES_PROCESSED.labels(status="failed", source=feed_cfg.name or "unknown").inc()
+                # Create a failed record if it doesn't exist
                 if not existing_article:
                     failed_article = Article(
                         title=entry.get('title', 'Unknown'),
@@ -137,10 +89,6 @@ async def process_and_save_article(
             logger.info(f"[DRY RUN] Would save article: {entry.get('title')} (Tickers: {', '.join(detected_tickers)})")
             return True
 
-        published_at = datetime.utcnow()
-        if hasattr(entry, 'published_parsed') and entry.published_parsed:
-            published_at = datetime.fromtimestamp(mktime(entry.published_parsed))
-
         # 4. Save markdown file
         h = content_hash
         hash_dir = app_config.storage_path / h[0:2] / h[2:4]
@@ -155,13 +103,14 @@ async def process_and_save_article(
                 await f.write(markdown_content)
         except IOError as e:
             logger.error(f"Error saving markdown file {file_path}: {e}")
+            ARTICLES_PROCESSED.labels(status="failed", source=feed_cfg.name or "unknown").inc()
             return False
 
         # 5. Update or Create Article record
         if existing_article:
             existing_article.status = ArticleStatus.SUCCESS
             existing_article.content_hash = content_hash
-            existing_article.published_at = published_at
+            existing_article.published_at = datetime.utcnow()
             existing_article.markdown_path = str(file_path)
             existing_article.processed_at = datetime.utcnow()
             existing_article.metadata_json = metadata
@@ -172,7 +121,7 @@ async def process_and_save_article(
                 source_feed=feed_cfg.url,
                 status=ArticleStatus.SUCCESS,
                 content_hash=content_hash,
-                published_at=published_at,
+                published_at=datetime.utcnow(),
                 markdown_path=str(file_path),
                 processed_at=datetime.utcnow(),
                 metadata_json=metadata
@@ -180,6 +129,13 @@ async def process_and_save_article(
             session.add(new_article)
             
         await session.commit()
+        
+        # Record Success Metrics
+        ARTICLES_PROCESSED.labels(status="success", source=feed_cfg.name or "unknown").inc()
+        PROCESSING_LATENCY.observe(time.time() - start_time)
+        for ticker in detected_tickers:
+            TICKERS_DETECTED.labels(ticker=ticker).inc()
+
         if detected_tickers:
             logger.success(f"Successfully saved article: {entry.get('title')} (Tickers: {', '.join(detected_tickers)})")
         else:
@@ -194,6 +150,8 @@ async def update_feed_health(
     last_modified: Optional[str] = None
 ):
     """Updates the feeds table with the latest fetch status and efficiency headers."""
+    FEED_FETCH_TOTAL.labels(feed_name=feed_cfg.name or feed_cfg.url, status="error" if error else "success").inc()
+    
     async with session_factory() as session:
         stmt = select(Feed).where(Feed.url == feed_cfg.url)
         result = await session.execute(stmt)
@@ -209,6 +167,8 @@ async def update_feed_health(
         else:
             feed.error_count = 0 
             
+        FEED_ERROR_COUNT.labels(feed_name=feed_cfg.name or feed_cfg.url).set(feed.error_count)
+
         if etag:
             feed.etag = etag
         if last_modified:
@@ -229,6 +189,7 @@ async def feed_processing_loop(
     async with session_factory() as session:
         result = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
         active_tickers = set(result.scalars().all())
+        ACTIVE_TICKERS.set(len(active_tickers))
     
     logger.info(f"Deterministic detection initialized with {len(active_tickers)} tickers for {feed_cfg.url}")
     

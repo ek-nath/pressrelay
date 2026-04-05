@@ -1,0 +1,141 @@
+– Generated Quarterly Net Revenues of $205.4 Million, Up 13% Year-over-Year, and Record Full-Year Net Revenues of $780.6 Million, Up 24% Year-over-Year –
+
+– Generated Record Quarterly and Full-Year Jornay PM® Net Revenue of $45.9 Million and $148.9 Million, Up 57% and 48%, Respectively, Year-over-Year –
+
+– Generated Quarterly Pain Portfolio Net Revenues of $159.6 Million, Up 5% Year-over-Year, and Record Full-Year Pain Portfolio Net Revenues $631.7 Million, Up 6% Year-over-Year –
+
+– Ended 2025 with Cash, Cash Equivalents, and Marketable Securities of $386.7 Million –
+
+– Reaffirmed Full-Year 2026 Guidance –
+
+– Conference Call Scheduled for Today at 8:00 a.m. ET –
+
+STOUGHTON, Mass., Feb. 26, 2026 (GLOBE NEWSWIRE) -- Collegium Pharmaceutical, Inc. (Nasdaq: COLL) today reported its financial results for the quarter and full year ended December 31, 2025, and provided a business update.
+
+“In 2025, we delivered on our strategic priorities by driving significant growth for Jornay PM, maximizing the durability of our pain portfolio, and strategically deploying capital,” said Vikram Karnani, President and Chief Executive Officer. “In our first full year of owning Jornay PM, we grew full-year net revenue by 48% and reached a record number of prescribers in support of our differentiated medicine for the treatment of ADHD. Our investments to expand the sales force and sharpen our marketing approach are already fueling additional momentum. Importantly, these results, including solid performance across our pain portfolio, reflect more than a strong year of execution. They underscore the foundation we are building to drive sustained growth and deliver value for patients and shareholders. With a strengthened financial profile and a strong start to 2026, we are well positioned to build on this momentum and continue creating long-term value.”
+
+“Net revenues and adjusted EBITDA reached record highs in 2025, growing 24% and 15%, respectively, driven by strong performance from both Jornay PM and our pain portfolio. We generated significant operating cash flows, improved our debt terms, and repurchased $25 million of shares,” said Colleen Tupper, Chief Financial Officer. “In 2026, we expect another year of significant growth for Jornay PM and durable performance from our pain portfolio. We remain committed to our capital deployment strategy, prioritizing business development opportunities, opportunistic share repurchases, and paying down debt, all of which are intended to create long-term value.”
+
+ADHD Business Highlights
+
+-      Generated record Jornay PM net revenue in the quarter ended December 31, 2025 (the 2025 Quarter) and the year ended December 31, 2025 (FY 2025). Jornay PM net revenue was $45.9 million in the 2025 Quarter, up 57% year-over-year. Jornay PM net revenue was $148.9 million for FY 2025, up 48% compared to pro forma net revenue in 2024.
+
+-      Jornay PM prescriptions reached an all-time high in the 2025 Quarter, with over 200,000 prescriptions written, up 16% year-over-year, and over 760,000 prescriptions written in FY 2025, up 20% year-over-year.
+
+-      Jornay PM prescribers reached an all-time high in the 2025 Quarter, with 29,000 healthcare providers writing Jornay PM prescriptions, up 21% year-over-year.
+
+-      In 2025, presented at four scientific congresses and completed four real-world evidence studies supporting Jornay PM.
+
+-      In January, presented four posters at the American Professional Society of ADHD and Related Disorders (APSARD) Annual Conference highlighting real-world Jornay PM data.
+
+Pain Portfolio Highlights
+
+-      Grew net revenues from the pain portfolio to $159.6 million in the 2025 Quarter, up 5% year-over-year. Pain portfolio net revenues were a record $631.7 million for FY 2025, up 6% year-over-year.
+
+-      Generated Belbuca® net revenue of $59.1 million in the 2025 Quarter, up 7% year-over-year. Belbuca net revenue was $221.7 million for FY 2025, up 5% year-over-year.
+
+-      Generated Xtampza® ER net revenue of $48.6 million in the 2025 Quarter, down 6% year-over-year. Xtampza ER net revenue was $199.3 million for FY 2025, up 4% year-over-year.
+
+-      Generated Nucynta Franchise net revenue of $47.9 million, up 15% year-over-year. Nucynta Franchise net revenue was $196.3 million for FY 2025, up 11% year-over-year.
+
+-      In January, announced supply and quality agreements with Hikma Pharmaceuticals USA Inc. (Hikma), in connection with the authorized generic (AG) agreement Collegium previously announced in April 2024. Hikma will have the exclusive right to sell the Collegium-supplied authorized generics of Nucynta and Nucynta ER in the United States. Hikma recently launched an AG of Nucynta and is expected to launch Nucynta ER in Q1 2026. Collegium will receive a significant share of net profits of the AG products which would decline based on the number of third-party generic equivalents sold for each product, if any.
+
+-      In 2025, presented at three scientific congresses and completed three real-world evidence studies supporting the pain portfolio.
+
+Corporate Updates
+
+-      In December, announced the successful closing of a $980 million syndicated credit facility, which was used in part to repay the remaining $581 million of principal representing the entire remaining balance of the Company’s previous $646 million term loan secured from funds managed by Pharmakon Advisors, LP. The new aggregate credit facility consists of a five-year $580 million senior secured term loan, $300 million delayed draw term loan, and $100 million revolving credit facility (collectively the Credit Facility). The reduced rate on the new Credit Facility is expected to result in meaningful annualized interest savings. The delayed draw term loan and revolving credit facility, both currently undrawn, are available to be used for general corporate purposes, including to partially fund potential future business development opportunities.
+
+Upcoming Events
+
+The Company will participate in the following upcoming investor conferences in the first half of 2026:
+
+-      Leerink Global Healthcare Conference – Miami, FL; March 9, 2026
+
+-      Jefferies Biotech on the Beach Summit – Miami, FL; March 10, 2026
+
+-      Citizens Life Sciences Conference – Miami, FL; March 10, 2026
+
+-      Barclays 28th Annual Global Healthcare Conference – Miami, FL; March 11, 2026
+
+-      25th Annual Needham Virtual Healthcare Conference – Virtual; April 15, 2026
+
+Financial Guidance for 2026
+
+The Company reaffirms its full-year 2026 guidance for Product Revenues, Net, Jornay PM Revenue, Net and Adjusted EBITDA:
+
+- Adjusted EBITDA $455 to $475 million
+Financial Results for Quarter Ended December 31, 2025
+
+- Product revenues, net were $205.4 million for the 2025 Quarter, compared to $181.9 million for the quarter ended December 31, 2024 (the 2024 Quarter), representing a 13% increase year-over-year.
+
+- GAAP operating expenses were $67.6 million for the 2025 Quarter, compared to $60.2 million for the 2024 Quarter, representing a 12% increase year-over-year. Adjusted operating expenses, which exclude stock-based compensation expense and other adjustments to reflect changes that occur in our business but do not represent ongoing operations, were $57.5 million for the 2025 Quarter, compared to $51.1 million for the 2024 Quarter, representing a 13% increase year-over-year.
+
+- GAAP net income for the 2025 Quarter was $17.0 million, with $0.54 GAAP earnings per share (basic) and $0.46 GAAP earnings per share (diluted), compared to GAAP net income for the 2024 Quarter of $12.5 million, with $0.39 GAAP earnings per share (basic) and $0.36 GAAP earnings per share (diluted). Non-GAAP adjusted net income for the 2025 Quarter was $80.3 million, with $2.04 adjusted earnings per share, compared to non-GAAP adjusted net income for the 2024 Quarter of $68.5 million, with $1.77 adjusted earnings per share.
+
+- Adjusted EBITDA for the 2025 Quarter was $127.3 million, compared to $107.7 million for the 2024 Quarter, representing an 18% increase year-over-year.
+
+- The Company generated $123.0 million in cash from operations in the 2025 Quarter.
+
+Financial Results for Year Ended December 31, 2025
+
+- Product revenues, net were $780.6 million for FY 2025, compared to $631.4 million for the year ended December 31, 2024 (FY 2024), representing a 24% increase year-over-year.
+
+- GAAP operating expenses were $283.6 million for FY 2025, compared to $207.4 million for FY 2024, representing a 37% increase year-over-year. Adjusted operating expenses, which exclude stock-based compensation expense and other adjustments to reflect changes that occur in our business but do not represent ongoing operations, were $237.3 million for FY 2025, compared to $150.6 million for FY 2024, representing a 58% increase year-over-year.
+
+- GAAP net income for FY 2025 was $62.9 million, with $1.98 GAAP earnings per share (basic) and $1.73 GAAP earnings per share (diluted), compared to GAAP net income for FY 2024 of $69.2 million, with $2.14 GAAP earnings per share (basic) and $1.86 GAAP earnings per share (diluted). Non-GAAP adjusted net income for FY 2025 was $289.3 million, with $7.42 adjusted earnings per share, compared to non-GAAP adjusted net income for FY 2024 of $254.8 million, with $6.45 adjusted earnings per share.
+
+- Adjusted EBITDA for FY 2025 was $460.5 million, compared to $401.2 million for FY 2024, representing a 15% increase year-over-year.
+
+- The Company generated $329.3 million in cash from operations in FY 2025, and exited the year with cash, cash equivalents and marketable securities of $386.7 million as of December 31, 2025.
+
+Conference Call InformationThe Company will host a conference call and live audio webcast on Thursday, February 26, 2026, at 8:00 a.m. ET. To access the conference call, please dial (877) 407-8037 (U.S.) or (201) 689-8037 (International) and reference the “Collegium Pharmaceutical Fourth Quarter and Full-Year 2025 Earnings Call.” An audio webcast will be accessible from the Investors section of the Company’s website: www.collegiumpharma.com. The webcast will be available for replay on the Company’s website approximately two hours after the event.About Collegium Pharmaceutical, Inc.Collegium is building a leading, diversified biopharmaceutical company committed to improving the lives of people living with serious medical conditions. The Company has a leading portfolio of responsible pain management medications and a rapidly growing neuropsychiatry business driven by Jornay PM®, a differentiated treatment for ADHD. Collegium’s strategy includes growing its commercial portfolio, with Jornay PM as the lead growth driver, and deploying capital in a disciplined manner. Collegium’s headquarters are located in Stoughton, Massachusetts. For more information, please visit the Company’s website at www.collegiumpharma.com.Non-GAAP Financial MeasuresTo supplement our financial results presented on a GAAP basis, we have included information about certain non-GAAP financial measures. We believe the presentation of these non-GAAP financial measures, when viewed with our results under GAAP and the accompanying reconciliations, provide analysts, investors, lenders, and other third parties with insights into how we evaluate normal operational activities, including our ability to generate cash from operations, on a comparable year-over-year basis and manage our budgeting and forecasting. In addition, certain non-GAAP financial measures, primarily adjusted EBITDA, are used to measure performance when determining components of annual compensation for substantially all non-sales force employees, including senior management.We may discuss the following financial measures that are not calculated in accordance with GAAP in our quarterly and annual reports, earnings press releases, and conference calls.Adjusted EBITDAAdjusted EBITDA is a non-GAAP financial measure that represents GAAP net income or loss adjusted to exclude interest expense, interest income, the benefit from or provision for income taxes, depreciation, amortization, stock-based compensation, and other adjustments to reflect changes that occur in our business but do not represent ongoing operations. Adjusted EBITDA, as used by us, may be calculated differently from, and therefore may not be comparable to, similarly titled measures used by other companies.There are several limitations related to the use of adjusted EBITDA rather than net income or loss, which is the nearest GAAP equivalent, such as:
+
+- adjusted EBITDA excludes depreciation and amortization, and, although these are non-cash expenses, the assets being depreciated or amortized may have to be replaced in the future, the cash requirements for which are not reflected in adjusted EBITDA;
+
+- adjusted EBITDA does not reflect changes in, or cash requirements for, working capital needs;
+
+- adjusted EBITDA does not reflect the benefit from or provision for income taxes or the cash requirements to pay taxes;
+
+- adjusted EBITDA does not reflect historical cash expenditures or future requirements for capital expenditures or contractual commitments;
+
+- we exclude stock-based compensation expense from adjusted EBITDA although: (i) it has been, and will continue to be for the foreseeable future, a significant recurring expense for our business and an important part of our compensation strategy; and (ii) if we did not pay out a portion of our compensation in the form of stock-based compensation, the cash salary expense included in operating expenses would be higher, which would affect our cash position;
+
+- we exclude impairment expenses from adjusted EBITDA and, although these are non-cash expenses, the asset(s) being impaired may have to be replaced in the future, the cash requirements for which are not reflected in adjusted EBITDA;
+
+- we exclude restructuring expenses from adjusted EBITDA. Restructuring expenses primarily include employee severance and contract termination costs that are not related to acquisitions. The amount and/or frequency of these restructuring expenses are not part of our underlying business;
+
+- we exclude litigation settlements and contingencies that are subject to recovery from adjusted EBITDA, as well as any applicable income items, credit adjustments, or recoveries due to subsequent changes in estimates. This does not include our legal fees to defend claims, which are expensed as incurred;
+
+- we exclude acquisition related expenses as the amount and/or frequency of these expenses are not part of our underlying business. Acquisition related expenses include transaction costs, which primarily consisted of financial advisory, banking, legal, and regulatory fees, and other consulting fees, incurred to complete the acquisition, employee-related expenses (severance cost and benefits) for terminated employees after the acquisition, legal defense expenses for specific acquired claims that relate to acts that occurred prior to our acquisition, and miscellaneous other acquisition related expenses incurred;
+
+- we exclude recognition of the step-up basis in inventory from acquisitions (i.e., the adjustment to record inventory from historic cost to fair value at acquisition) as the adjustment does not reflect the ongoing expense associated with sale of our products as part of our underlying business;
+
+- we exclude losses on extinguishments of debt as these expenses are episodic in nature and do not directly correlate to the cost of operating our business on an ongoing basis;
+
+- we exclude executive transition expenses from adjusted EBITDA as the amount and/or frequency of these expenses are episodic in nature and do not directly correlate to the cost of operating our business on an ongoing basis; and
+
+- we exclude other expenses, from time to time, that are episodic in nature and do not directly correlate to the cost of operating our business on an ongoing basis.
+
+Adjusted Operating ExpensesAdjusted operating expenses is a non-GAAP financial measure that represents GAAP operating expenses adjusted to exclude stock-based compensation expense, and other adjustments to reflect changes that occur in our business but do not represent ongoing operations.Adjusted Net Income and Adjusted Earnings Per ShareAdjusted net income is a non-GAAP financial measure that represents GAAP net income or loss adjusted to exclude significant income and expense items that are non-cash or not indicative of ongoing operations, including consideration of the tax effect of the adjustments. Adjusted earnings per share is a non-GAAP financial measure that represents adjusted net income per share. Adjusted weighted-average shares - diluted is calculated in accordance with the treasury stock, if-converted, or contingently issuable accounting methods, depending on the nature of the security.Reconciliations of adjusted EBITDA, adjusted operating expenses, adjusted net income, and adjusted earnings per share to the most directly comparable GAAP financial measures are included in this press release.The Company has not provided a reconciliation of its full-year 2025 guidance for adjusted EBITDA or adjusted operating expenses to the most directly comparable forward-looking GAAP measures, in reliance on the unreasonable efforts exception provided under Item 10(e)(1)(i)(B) of Regulation S-K, because the Company is unable to predict, without unreasonable efforts, the timing and amount of items that would be included in such a reconciliation, including, but not limited to, stock-based compensation expense, acquisition related expense and litigation settlements. These items are uncertain and depend on various factors that are outside of the Company’s control or cannot be reasonably predicted. While the Company is unable to address the probable significance of these items, they could have a material impact on GAAP net income and operating expenses for the guidance period. A reconciliation of adjusted EBITDA or adjusted operating expenses would imply a degree of precision and certainty as to these future items that does not exist and could be confusing to investors.Forward-Looking StatementsThis press release contains forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. We may, in some cases, use terms such as "predicts," "forecasts," "believes," "potential," "proposed," "continue," "estimates," "anticipates," "expects," "plans," "intends," "may," "could," "might," "should" or other words that convey uncertainty of future events or outcomes to identify these forward-looking statements. Examples of forward-looking statements contained in this press release include, among others, statements related to our 2026 financial guidance, including projected product revenues, adjusted operating expenses and adjusted EBITDA, statements related to the projected launch of the authorized generic versions of Nucynta and Nucynta ER and anticipated shared net profits following the launch of such authorized generic versions, statements related to current and future market opportunities for our products and our assumptions related thereto, expectations (financial or otherwise) and intentions, and other statements that are not historical facts. Such statements are subject to numerous important factors, risks and uncertainties that may cause actual events or results, performance, or achievements to differ materially from the company's current expectations, including risks relating to, among others: unknown liabilities; risks related to future opportunities and plans for our products, including uncertainty of the expected financial performance of such products; our ability to commercialize and grow sales of our products; our ability to manage our relationships with licensors; the success of competing products that are or become available; our ability to maintain regulatory approval of our products, and any related restrictions, limitations, and/or warnings in the label of our products; the size of the markets for our products, and our ability to service those markets; our ability to obtain reimbursement and third-party payor contracts for our products; the rate and degree of market acceptance of our products; the costs of commercialization activities, including marketing, sales and distribution; changing market conditions for our products; the outcome of any patent infringement or other litigation that may be brought by or against us; the outcome of any governmental investigation related to our business; our ability to secure adequate supplies of active pharmaceutical ingredient for each of our products and manufacture adequate supplies of commercially saleable inventory; our ability to obtain funding for our operations and business development; regulatory developments in the U.S.; our expectations regarding our ability to obtain and maintain sufficient intellectual property protection for our products; our ability to comply with stringent U.S. and foreign government regulation in the manufacture of pharmaceutical products, including U.S. Drug Enforcement Agency compliance; our customer concentration; and the accuracy of our estimates regarding expenses, revenues, capital requirements and need for additional financing. These and other risks are described under the heading "Risk Factors" in our Annual Reports on Form 10-K and Quarterly Reports on Form 10-Q and other filings with the SEC. Any forward-looking statements that we make in this press release speak only as of the date of this press release. We assume no obligation to update our forward-looking statements whether as a result of new information, future events or otherwise, after the date of this press release.Investor Contacts:
+Ian Karp
+Head of Investor Relations
+ir@collegiumpharma.comDanielle Jesse
+Director, Investor Relations
+ir@collegiumpharma.comMedia Contact:
+Jessica Cotrone
+Senior Vice President, Communications & Corporate Affairs
+communications@collegiumpharma.com
+
+- Collegium Pharmaceutical, Inc. December 31, December 31, 2025 2024 Cash and cash equivalents $ 231,252 $ 70,565 Marketable securities 155,427 92,198 Accounts receivable, net 211,328 228,540 Inventory 40,912 35,560 Prepaid expenses and other current assets 32,642 30,394 Property and equipment, net 12,013 14,329 Operating lease right-of-use assets 4,187 5,822 Intangible assets, net 669,510 891,402 Restricted cash 20,906 26,047 Deferred tax assets 112,539 98,033 Other noncurrent assets 20,193 8,368 Goodwill 145,925 162,333 Total assets $ 1,656,834 $ 1,663,591 Accounts payable and accrued liabilities 73,123 76,058 Accrued rebates, returns and discounts 318,266 338,642 Business combination consideration payable 17,565 28,956 Term notes payable 571,112 615,316 Convertible senior notes 238,213 237,172 Operating lease liabilities 5,539 6,810 Deferred royalty obligation 121,563 120,613 Deferred revenue 9,778 10,000 Contingent consideration — 1,182 Shareholders’ equity 301,675 228,842 Total liabilities and shareholders’ equity $ 1,656,834 $ 1,663,591
+
+- Collegium Pharmaceutical, Inc. Three Months Ended Years Ended 2025 2024 2025 2024 Product revenues, net $ 205,449 $ 181,949 $ 780,567 $ 631,449 Cost of product revenues Cost of product revenues (excluding intangible asset amortization) 21,598 28,190 95,418 88,801 Intangible asset amortization 55,473 55,471 221,892 165,304 Total cost of product revenues 77,071 83,661 317,310 254,105 Gross profit 128,378 98,288 463,257 377,344 Operating expenses Selling, general and administrative 67,640 63,091 284,803 210,363 Gain on fair value remeasurement of contingent consideration (19 ) (2,914 ) (1,182 ) (2,914 ) Total operating expenses 67,621 60,177 283,621 207,449 Income from operations 60,757 38,111 179,636 169,895 Interest expense (19,292 ) (22,654 ) (82,312 ) (73,974 ) Interest income 3,565 1,812 11,289 13,976 Loss on extinguishment of debt (15,994 ) — (15,994 ) (11,329 ) Income before income taxes 29,036 17,269 92,619 98,568 Provision for income taxes 12,073 4,733 29,749 29,378 Net income $ 16,963 $ 12,536 $ 62,870 $ 69,190 Earnings per share — basic $ 0.54 $ 0.39 $ 1.98 $ 2.14 Weighted-average shares — basic 31,652,987 32,078,621 31,706,429 32,273,850 Earnings per share — diluted $ 0.46 $ 0.36 $ 1.73 $ 1.86 Weighted-average shares — diluted 40,076,457 40,109,649 39,701,693 40,424,180
+
+- Collegium Pharmaceutical, Inc. Three Months Ended Years Ended 2025 2024 2025 2024 GAAP net income $ 16,963 $ 12,536 $ 62,870 $ 69,190 Adjustments: Interest expense 19,292 22,654 82,312 73,974 Interest income (3,565 ) (1,812 ) (11,289 ) (13,976 ) Loss on extinguishment of debt 15,994 — 15,994 11,329 Provision for income taxes 12,073 4,733 29,749 29,378 Depreciation 923 1,041 4,182 3,856 Amortization 55,473 55,471 221,892 165,304 Stock-based compensation 9,753 7,596 41,906 32,400 Litigation settlements and contingencies — — 3,058 — Recognition of step-up basis in inventory — 3,968 5,431 5,269 Executive transition expense — — 1,397 3,051 Acquisition related expenses 399 4,443 4,175 24,329 Gain on fair value remeasurement of contingent consideration (19 ) (2,914 ) (1,182 ) (2,914 ) Total adjustments $ 110,323 $ 95,180 $ 397,625 $ 332,000 Adjusted EBITDA $ 127,286 $ 107,716 $ 460,495 $ 401,190
+
+- Collegium Pharmaceutical, Inc. Three Months Ended Years Ended 2025 2024 2025 2024 GAAP operating expenses $ 67,621 $ 60,177 $ 283,621 $ 207,449 Adjustments: Stock-based compensation 9,753 7,596 41,906 32,400 Executive transition expense — — 1,397 3,051 Acquisition related expenses 399 4,443 4,175 24,329 Gain on fair value remeasurement of contingent consideration (19 ) (2,914 ) (1,182 ) (2,914 ) Total adjustments $ 10,133 $ 9,125 $ 46,296 $ 56,866 Adjusted operating expenses $ 57,488 $ 51,052 $ 237,325 $ 150,583
+
+- Collegium Pharmaceutical, Inc. Three Months Ended Years Ended 2025 2024 2025 2024 GAAP net income $ 16,963 $ 12,536 $ 62,870 $ 69,190 Adjustments: Non-cash interest expense 1,276 4,664 5,341 9,729 Loss on extinguishment of debt 15,994 — 15,994 11,329 Amortization 55,473 55,471 221,892 165,304 Stock-based compensation 9,753 7,596 41,906 32,400 Litigation settlements and contingencies — — 3,058 — Recognition of step-up basis in inventory — 3,968 5,431 5,269 Executive transition expense — — 1,397 3,051 Acquisition related expenses 399 4,443 4,175 24,329 Gain on fair value remeasurement of contingent consideration (19 ) (2,914 ) (1,182 ) (2,914 ) Income tax effect of above adjustments(1) (19,538 ) (17,245 ) (71,599 ) (62,880 ) Total adjustments $ 63,338 $ 55,983 $ 226,413 $ 185,617 Non-GAAP adjusted net income $ 80,301 $ 68,519 $ 289,283 $ 254,807 Adjusted weighted-average shares — diluted(2) 40,076,457 40,109,649 39,701,693 40,424,180 Adjusted earnings per share(2) $ 2.04 $ 1.77 $ 7.42 $ 6.45
+
+| <br>(1) | <br>The income tax effect of the adjustments was calculated by applying our blended federal and state statutory rate to the items that have a tax effect. The blended federal and state statutory rate for the three months ended December 31, 2025 and 2024 were 25.5% and 25.3%, respectively; and the blended federal and state statutory rate for the years ended December 31, 2025 and 2024 were 24.8% and 26.5%, respectively. As such, the non-GAAP effective tax rates for the three months ended December 31, 2025 and 2024 were 23.6% and 23.5%, respectively; and the non-GAAP effective tax rates for the years ended December 31, 2025 and 2024 were 24.0% and 25.3%, respectively.<br>(2)<br>Adjusted weighted-average shares - diluted were calculated using the “if-converted” method for our convertible notes in accordance with ASC 260, Earnings per Share. As such, adjusted weighted-average shares – diluted includes shares related to the assumed conversion of our convertible notes and the associated cash interest expense is added-back to non-GAAP adjusted net income. For the three and twelve months ended December 31, 2025 and 2024, adjusted weighted-average shares – diluted includes 6,606,305 shares attributable to our convertible notes. In addition, adjusted earnings per share includes other potentially dilutive securities to the extent that they are not antidilutive. |
+| --- | --- |

@@ -1,0 +1,51 @@
+Flavio Mantelli, MD, PhD, OKYO Pharma Chief Medical Officer
+
+Dr. Mantelli, former Chief Medical Officer at Dompé, spearheaded the successful clinical development program and FDA approval of Oxervate®, a blockbuster orphan therapy in corneal disease
+
+Dr. Mantelli will lead the clinical and regulatory strategy to advance the company’s development program in neuropathic corneal pain (NCP), leveraging urcosimod’s FDA Fast Track designation
+
+This appointment, following the recent CEO appointment, further strengthens OKYO's world-class ophthalmology leadership team
+
+LONDON and NEW YORK, Feb. 10, 2026 (GLOBE NEWSWIRE) -- OKYO Pharma Limited (Nasdaq: OKYO), a clinical-stage biopharmaceutical company developing investigational therapies for the treatment of neuropathic corneal pain (NCP) and for inflammatory eye diseases, today announced the appointment of Flavio Mantelli, MD, PhD as Chief Medical Officer. Dr. Mantelli brings unparalleled experience in ocular surface drug development, having led the clinical development, regulatory approval, and global medical strategy of Oxervate® (cenegermin-bkbj) at Dompé farmaceutici S.p.A. which achieved blockbuster status with sales topping $1 billion in 2024 and is widely considered one of the most successful orphan drug launches in ophthalmology.
+
+Dr. Mantelli is a highly regarded ophthalmologist with an extensive background in cornea and ocular surface diseases, neurotrophic keratopathy, and inflammatory eye conditions. He brings critical knowledge and experience to OKYO in developing therapeutics from first-in-human studies through to global regulatory approval. As the clinical leader behind the transformation of a novel biologic into a first-in-class, FDA approved topical ophthalmic therapy, he set a new benchmark for orphan drug clinical development for treatments of corneal disease. Dr. Mantelli graduated in Medicine and Surgery summa cum laude from Università Campus Bio-Medico of Rome, where he also completed his residency in ophthalmology and a PhD in regenerative medicine. He further pursued a postdoctoral fellowship in ocular surface glycobiology at the Schepens Eye Research Institute, Harvard Medical School.
+
+In his new role at OKYO Pharma, Dr. Mantelli will oversee the company's clinical development strategy, including the advancement of urcosimod in planned clinical trials for neuropathic corneal pain and additional orphan indications. He intends to build upon the recent FDA alignment with the proposed Phase 2b/3 design, to help ensure the upcoming trial is positioned as a potential pivotal study to bring this important therapy to patients with no FDA approved therapy.
+
+“Neuropathic corneal pain represents one of the most debilitating and underserved areas in ophthalmology. OKYO Pharma’s focus on differentiated, mechanism-based approaches to inflammatory eye diseases and neuropathic corneal pain resonates strongly with my career-long dedication to translating breakthrough science into approved innovative therapies. The fast-track designation and the recent authorization for compassionate use by FDA for urcosimod in NCP highlights the urgency and potential in this area of high unmet medical need,” said Flavio Mantelli, MD, PhD, Chief Medical Officer of OKYO Pharma. “I am excited to join OKYO and work alongside Robert Dempsey and the entire team to advance urcosimod and the broader portfolio, seeking to ensure our development strategy remains grounded in strong science, regulatory rigor, and a clear focus on improving outcomes for patients and eyecare providers.”
+
+“Subsequent to the release of our Phase 2 data in neuropathic corneal pain, OKYO Pharma has attracted two exceptional leaders in ophthalmology, commencing with the appointment of our CEO, Robert Dempsey, and followed by today’s appointment of Dr. Flavio Mantelli as our Chief Medical Officer,” said Gabriele Cerrone, Chairman and Founder of OKYO Pharma. “Dr. Mantelli’s clinical leadership role and experience in developing Oxervate® into a blockbuster drug with annual sales exceeding $1 billion for a rare eye disease, will be invaluable for OKYO’s development of urcosimod for patients with NCP.”
+
+“Bringing Dr. Mantelli into the executive team is tremendously important as we continue to build a world class organization focused on ocular surface disease,” said Robert Dempsey, CEO of OKYO Pharma. “Dr. Mantelli is an exceptional clinical developer whose leadership of a highly successful orphan drug development program in ophthalmology demonstrates his ability to advance complex corneal programs, capabilities that will be critical as we advance urcosimod forward for neuropathic corneal pain.”
+
+As previously announced, urcosimod was granted the first IND application for the treatment of patients with NCP and was awarded fast track designation by the Food and Drug Administration (FDA). The company expects to initiate a ~150 subject Phase 2b/3 multiple-dose study of urcosimod to treat NCP in the first half of this year.
+
+About Flavio Mantelli, MD, PhD
+
+Dr. Mantelli joins OKYO Pharma from Dompé where he served as the Chief Strategy & Innovation Officer, acting as the key link between the company and external partners, with the goal of promoting groundbreaking research initiatives and assessing new opportunities aligned with industry innovations. Previously he served as Chief Medical Officer and Head of R&D for the Ophthalmology and Neurotrophin platforms, leading all research and clinical development programs in ophthalmology.
+
+Prior to joining Dompé, Dr. Mantelli researched the application of neurotrophins in ophthalmic and neurodegenerative diseases and was an adjunct associate professor of biology at Temple University in Philadelphia, PA. His professional experience includes positions at the IRCCS G.B. Bietti Foundation in Rome as a clinical scientist and as a consultant ophthalmologist at the Campus Biomedico University of Rome and the Cornea and Ocular Surface Unit of the Vita-Salute San Raffaele University of Milan.
+
+Graduating in Medicine and Surgery summa cum laude, Dr. Mantelli completed his residency program in ophthalmology and a PhD at the Campus Bio-Medico University of Rome. He also completed a postdoctoral fellowship in ocular surface glycobiology at the Schepens Eye Research Institute of Massachusetts Eye and Ear at Harvard Medical School in Boston.
+
+About Neuropathic Corneal Pain (NCP)
+
+Neuropathic corneal pain (NCP) is a chronic, often debilitating condition characterized by severe pain and sensitivity of the eyes, and in some cases the face or head. It is thought to result from damage or dysfunction of corneal sensory nerves, often in combination with inflammatory processes, and may occur in patients with a range of underlying ophthalmic conditions. There are currently no FDA-approved therapies specifically for NCP, resulting in patients being treated with limited or no success using various topical and systemic medications in an off-label manner.
+
+About Urcosimod (formerly called OK-101)
+
+Urcosimod is a lipid conjugated chemerin peptide agonist of the ChemR23 G-protein coupled receptor which is typically found on immune cells of the eye responsible for the inflammatory response, as well as on neurons and glial cells in the dorsal root ganglion. Urcosimod has been shown to produce anti-inflammatory and pain-reducing activities in a mouse model of dry eye disease and in a neuropathic corneal pain mouse model, respectively. OKYO recently announced positive data on NCP pain reduction in a randomized, placebo-controlled, double-masked Phase 2a trial involving 18 neuropathic corneal pain patients. Urcosimod has shown significant pain reduction in an earlier 240-patient Phase 2, multi-center, double-masked, placebo-controlled trial in DED, which supports the development rationale in NCP.
+
+About OKYOPharma
+
+OKYO Pharma Limited (Nasdaq: OKYO) is a clinical-stage biopharmaceutical company developing innovative therapies for the treatment of neuropathic corneal pain (NCP) and inflammatory eye diseases, with ordinary shares listed for trading on the Nasdaq Capital Market. OKYO is focused on the discovery and development of novel molecules to treat neuropathic corneal pain and other ocular diseases. OKYO recently completed a successful phase 2 trial of its flagship drug urcosimod in patients with NCP and plans to initiate a ~150 subject Phase 2b/3 multiple-dose study of urcosimod to treat NCP in the first half of this year.
+
+For further information, please visit www.okyopharma.com.
+
+Forward-Looking Statements
+
+Certain statements made in this announcement are forward-looking statements. These forward-looking statements are not historical facts but rather are based on the Company’s current expectations, estimates, and projections about its industry, its beliefs, and assumptions. Words such as ‘anticipates,’ ‘expects,’ ‘intends,’ ‘plans,’ ‘believes,’ ‘seeks,’ ‘estimates,’ and similar expressions are intended to identify forward-looking statements. These statements are not guarantees of future performance and are subject to known and unknown risks, uncertainties, and other factors, some of which are beyond the Company’s control, are difficult to predict, and could cause actual results to differ materially from those expressed or forecasted in the forward-looking statements. These and additional risks and uncertainties are described more fully in the company’s filings with the SEC, including those factors identified as “Risk Factors” in our most recent Annual Report on Form 20-F, for the fiscal year ended March 31, 2025. The company cautions security holders and prospective security holders not to place undue reliance on these forward-looking statements, which reflect the view of the company only as of the date of this announcement. The forward-looking statements made in this announcement relate only to events as of the date on which the statements are made. The company will not undertake any obligation to release publicly any revisions or updates to these forward-looking statements, except as may be required by law.
+
+For further inquiries:
+
+OKYO Pharma Ltd Paul Spencer, Business Development, and Investor Relations +44 (0) 207 495 2379 Email: info@okyopharma.com

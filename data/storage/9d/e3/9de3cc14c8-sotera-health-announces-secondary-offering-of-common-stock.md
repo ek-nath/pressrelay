@@ -1,0 +1,13 @@
+CLEVELAND, March 04, 2026 (GLOBE NEWSWIRE) -- Sotera Health Company (Nasdaq: SHC) (the “Company”) today announced the launch of a secondary offering (the “Offering”) of 25 million shares of its common stock, par value $0.01 per share. All 25 million shares are being offered for sale by certain affiliates of Warburg Pincus LLC (“Warburg Pincus”) and GTCR LLC (“GTCR”) as selling stockholders. No other entities, and no individuals, are selling shares in the Offering. The Company is not offering any shares in the Offering and will not receive any of the proceeds from the Offering. The Company will pay the expenses of the Offering pursuant to its obligations under its Amended and Restated Registration Rights Agreement.
+
+Wells Fargo Securities is acting as the underwriter for the Offering. The underwriter will offer the shares from time to time in one or more transactions on Nasdaq, in the over-the-counter market or through negotiated transactions at market prices or at negotiated prices.
+
+The Offering is being made only by means of a prospectus. Copies of the preliminary prospectus relating to the Offering may be obtained, when available, from: Wells Fargo Securities, LLC, 90 South 7th Street, 5th Floor, Minneapolis, MN 55402, by telephone at (800)-645-3751 (option #5) or by email at WFScustomerservice@wellsfargo.com.
+
+A registration statement relating to these securities was filed with the Securities and Exchange Commission on February 27, 2024, and became effective automatically.
+
+This press release shall not constitute an offer to sell, or the solicitation of an offer to buy these securities, nor shall there be any sale of, these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.
+
+Forward-looking Statements:
+
+Statements in this press release regarding the Company that are not historical facts are “forward-looking statements” that involve risks and uncertainties. Certain of these risks and uncertainties are described in the Company’s registration statement on Form S-3 filed with the SEC, including under the headings “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements,” under the headings “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements” in the Company’s most recent Annual Report on Form 10-K. Forward-looking statements made in this release speak only as of the date of this release, and the Company undertakes no obligation to update the information contained in this press release to reflect subsequently occurring events or circumstances, except as required by law.

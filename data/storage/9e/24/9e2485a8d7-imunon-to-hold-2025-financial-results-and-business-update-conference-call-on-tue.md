@@ -1,0 +1,13 @@
+# IMUNON to Hold 2025 Financial Results and Business Update Conference Call on Tuesday, March 31, 2026
+
+LAWRENCEVILLE, N.J., March 24, 2026 (GLOBE NEWSWIRE) -- IMUNON, Inc. (Nasdaq: IMNN), a clinical-stage company in Phase 3 development with its DNA-mediated immunotherapy, today announced that the Company will host a conference call at 11:00 a.m. EDT on Tuesday, March 31, 2026 to discuss financial results for the year ended December 31, 2025, and provide an update on its clinical development program with IMNN-001, a DNA-based interleukin-12 (IL-12) immunotherapy.
+
+The Company is hosting a conference call to review 2025 financial results and provide a business update on March 31, 2026 at 11:00 a.m. EDT. To participate in the call, please dial 800-715-9871 (North America/Toll Free) or 646-307-1963 (U.S./Toll) and ask for the IMUNON Year End 2025 Financial Results Call (Conference ID 4157104). A live webcast of the call will also be available here.
+
+An audio replay of the call will be available for 90 days and can be accessed at 800-770-2030 (U.S. and Canada/Toll Free), 609-800-9909 (U.S./Toll) or 647-362-9199 (Canada/Toll) using replay access code 4157104#.
+
+About IMUNON
+
+IMUNON is a clinical-stage biotechnology company focused on advancing a portfolio of innovative treatments that harness the body’s natural mechanisms to generate safe, effective and durable responses across a broad array of human diseases, constituting a differentiating approach from conventional therapies. IMUNON is developing its non-viral DNA technology across its modalities. The first modality, TheraPlas®, is developed for the gene-based delivery of cytokines and other therapeutic proteins in the treatment of solid tumors where an immunological approach is deemed promising. The second modality, PlaCCine®, is developed for the gene delivery of viral antigens that can elicit a strong immunological response.
+
+The Company’s lead clinical program, IMNN-001, is a DNA-based immunotherapy for the localized treatment of advanced ovarian cancer that has completed multiple clinical trials including one Phase 2 clinical trial (OVATION 2) and is currently conducting a Phase 3 clinical trial (OVATION 3). IMNN-001 works by instructing the body to produce safe and durable levels of powerful cancer-fighting molecules, such as interleukin-12 and interferon gamma, at the tumor site. Additionally, the Company has completed dosing in a first-in-human study of its COVID-19 booster vaccine (IMNN-101). The Company will continue to leverage these modalities and to advance, either directly or through partnership, the technological frontier of plasmid DNA to better serve patients with difficult-to-treat conditions. For more information, please visit www.imunon.com.

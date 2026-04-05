@@ -1,0 +1,15 @@
+# Priovant Expands Brepocitinib Development Program with New Phase 2b/3 Trial in Lichen Planopilaris (LPP)
+
+-      Lichen planopilaris (LPP) is a highly morbid inflammatory scalp disorder that causes generally irreversible scarring hair loss, often accompanied by profound pain, itch, and burning sensations; no FDA-approved therapies exist for LPP, highlighting a critical unmet therapeutic need
+
+-      LPP marks the fourth indication in brepocitinib’s expanding late-stage development program
+
+-      Multiple lines of evidence, including strong mechanistic rationale and clinically meaningful results in an investigator-initiated placebo-controlled study of brepocitinib in LPP, support rapid development of brepocitinib in this indication
+
+-      A seamless Phase 2b/3 potentially registrational trial of brepocitinib in LPP enrolled its first subjects in March 2026
+
+DURHAM, N.C., April 02, 2026 (GLOBE NEWSWIRE) -- Priovant today announced a new Phase 2b/3 clinical program for brepocitinib in lichen planopilaris (LPP), a highly morbid inflammatory scalp disorder affecting approximately 100,000 adults in the United States. LPP inflammation targets the stem cell-rich bulge region of the hair follicle (the permanent portion responsible for hair growth), resulting in generally irreversible hair loss and permanent scarring. LPP is also associated with other burdensome symptoms, including pain, burning, itching and scaling, and an increased risk of comorbidities such as other autoimmune diseases and skin cancers. There are currently no FDA-approved therapies to treat LPP.
+
+“Lichen planopilaris (LPP) is what my colleagues and I refer to as a ‘trichologic emergency,’” said Dr. Kristen Lo Sicco, Chief of the Skin and Cancer Unit at NYU Langone Health, Board Member of the Scarring Alopecia Foundation, and Associate Professor of Dermatology at the Ronald O. Perelman Department of Dermatology at NYU Grossman School of Medicine. “Absent early diagnosis and aggressive intervention, patients experience rapid hair loss that is generally irreversible, leaves permanent scarring, and is often accompanied by erythema, scaling, pain, itching and burning sensations. Untreated LPP also leads to increased risk of skin cancers and other comorbidities. Efficacious FDA-approved treatments are urgently needed.”
+
+Priovant recently began enrolling subjects in a seamless Phase 2b/3 study of brepocitinib in LPP, with the first subjects enrolled in March 2026. This program marks Priovant’s fourth indication in late-stage clinical development, alongside dermatomyositis (DM), non-infectious uveitis (NIU) and cutaneous sarcoidosis (CS). The U.S. Food and Drug Administration (FDA) recently granted Priority Review to brepocitinib’s New Drug Application (NDA) for DM and assigned a Prescription Drug User Fee Act (PDUFA) target action date in the third quarter of calendar year 2026. Topline Phase 3 data in NIU and Phase 3 study initiation in CS are expected in the second half of calendar year 2026.

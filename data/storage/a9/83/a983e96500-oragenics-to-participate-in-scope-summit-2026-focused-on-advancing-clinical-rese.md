@@ -1,0 +1,15 @@
+# Oragenics to Participate in SCOPE Summit 2026 Focused on Advancing Clinical Research and Patient Care
+
+Management to Engage with Global Clinical Research Leaders Ahead of Phase 2a Trial of Concussion Treatment
+
+Sarasota, Fla., Feb. 02, 2026 (GLOBE NEWSWIRE) -- Oragenics, Inc. (NYSE American: OGEN) (“the “Company”), a clinical-stage biotechnology company focused on developing intranasal therapeutics for neurological disorders, today announced its participation at the SCOPE Summit 2026, the 17th annual conference organized by the Cambridge Healthtech Institute. SCOPE (Summit for Clinical Ops Executives) is a clinical research conference being held February 2–5, 2026, in Orlando, Florida.
+
+“Oragenics is excited to participate in one of the premier global conferences for clinical operations and optimal trial execution — a timely event as we approach the Phase 2a clinical trial of our first-of-its-kind concussion therapeutic in Australia,” said Janet Huffman, Chief Executive Officer. “We look forward to engaging with experts from biopharma, scientific research, and regulatory affairs at SCOPE, especially the technology innovators advancing medical progress and bolstering the body of scientific knowledge.”
+
+Oragenics is working towards advancing neurological care through its proprietary intranasal delivery platform designed to enable targeted, non-invasive delivery of therapeutics directly to the brain. Its lead candidate, ONP-002, is advancing toward Phase 2a clinical trials in Australia with the goal of developing it as a treatment for concussion and mild traumatic brain injury—conditions with significant unmet medical need and no FDA-approved therapies.
+
+The SCOPE Summit welcomes senior executives from pharma, biotech, CROs, sites, technology, investment, and patient advocacy organizations, representing over 1,200 companies across 30 countries. The 2026 program will cover in-demand topics like development planning, protocol optimization, patient-centric trial design, site engagement and recruitment, generative AI, small biopharma strategies, RBQM, supply and clintech investment—all focused on advancing solutions in trial planning, operations, innovation, and investment. Visit scopesummit.com for more information.
+
+About Oragenics, Inc.
+
+Oragenics, Inc. is a clinical-stage biotechnology company developing brain-targeted therapeutics through proprietary intranasal delivery technology. The Company is working on advancing its lead candidate, ONP-002, as a potential first-in-class treatment for concussion and mild traumatic brain injury. Oragenics is working on commencing clinical trials in Australia for ONP-002 , with U.S. Phase 2b trials planned to follow. The Company's intranasal delivery platform has potential applications across multiple neurological conditions, including Parkinson's disease, Alzheimer's disease, PTSD, and anxiety disorders. Oragenics is committed to developing innovative therapies that address significant unmet medical needs in neurological care. For more information, visit oragenics.com.

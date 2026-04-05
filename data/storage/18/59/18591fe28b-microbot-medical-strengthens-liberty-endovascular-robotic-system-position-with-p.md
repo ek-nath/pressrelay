@@ -1,0 +1,15 @@
+# Microbot Medical® Strengthens LIBERTY® Endovascular Robotic System Position with Publication of its ACCESS PVI Pivotal Study in Leading Peer-Reviewed Medical Journal
+
+Being Published in the Journal of Vascular and Interventional Radiology, a Premier Peer-Reviewed Journal, Speaks to the Quality and Impact of the Study
+
+Company Remains Focused on Expanding Evidence-Based Data to Support Broader Commercial Adoption of the LIBERTY System
+
+HINGHAM, Mass., March 24, 2026 (GLOBE NEWSWIRE) -- Microbot Medical Inc. (Nasdaq: MBOT), developer and distributor of the innovative LIBERTY® Endovascular Robotic System, which is already garnering medical and industry attention, today announced the publication of an article in the Journal of Vascular and Interventional Radiology (JVIR), titled “In Vivo Evaluation of a Disposable Endovascular Robotic System for Arterial Peripheral Vascular Interventions: A Multicenter Feasibility Study.” The article’s first author, Dr. Francois Cornelis, is a leading interventional radiologist specializing in neurointerventions and image-guided, minimally invasive therapies. He has a keen interest in robotics, AI, and advanced imaging, and served as the Lead Principal Investigator for the LIBERTY ACCESS PVI Pivotal Study.
+
+The Journal of Vascular and Interventional Radiology, published continuously since 1990, is the premier peer-reviewed journal serving the global interventional radiologist community. Publication in a peer-reviewed journal is a significant milestone, signifying that the study’s methodology and data have been rigorously vetted by independent experts, ensuring a fair and balanced evaluation of the results.
+
+This article provides a comprehensive, evidence-based analysis of the Company’s ACCESS-PVI study, which was completed in 2025 and presented at the Society of Interventional Radiology (SIR) annual meeting in April 2025. The study has now undergone rigorous independent peer review, which is considered the gold standard for clinical validation. The LIBERTY system received U.S. Food and Drug Administration (FDA) clearance in September 2025 for peripheral endovascular procedures.
+
+“We are very pleased by the publication of the ACCESS-PVI results in JVIR, a leading voice in the field. This is a recognition that speaks to the quality and impact of the study,” commented Juan Diaz-Cartelle, Chief Medical Officer. “We would like to thank all the co-authors and we are looking forward to generating more clinical evidence that would foster appreciation for the benefits of the LIBERTY system.”
+
+LIBERTY is the only FDA cleared, single-use, remotely operated robotic system for peripheral endovascular procedures, and it is designed for precise vascular navigation while aiming to reduce radiation exposure and physical strain. The Company commenced the limited market release of the LIBERTY system in late 2025 and plans for a full market release at the Society of Interventional Radiology (SIR) conference in April 2026, allowing the Company to showcase LIBERTY with the goal to deepen market adoption.

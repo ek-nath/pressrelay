@@ -1,0 +1,14 @@
+# PANTHERx® Rare Selected by Rhythm Pharmaceuticals Inc. as the Exclusive U.S. Specialty Pharmacy for the Expanded Indication for IMCIVREE® (setmelanotide)
+
+PITTSBURGH, March 20, 2026 /PRNewswire/ -- PANTHERx® Rare Pharmacy, the trusted leader and innovator in patient access and support services for personalized rare disease care, announced that it was selected by Rhythm Pharmaceuticals, Inc. (Nasdaq: RYTM), as the exclusive U.S. Pharmacy distribution partner for the expanded indication of IMCIVREE® (setmelanotide) for adults and children 4 years of age and older living with acquired hypothalamic obesity.1
+
+Acquired hypothalamic obesity is a rare disease characterized by accelerated and sustained weight gain caused by an injury to the hypothalamus. Acquired hypothalamic obesity most frequently follows the growth or treatment of craniopharyngioma, astrocytoma or other hypothalamic-pituitary tumors. Additional causes of injury may include traumatic brain injury, stroke or inflammation.2, 3
+
+PANTHERx will leverage its proprietary and industry-leading RxARECARE® model to support patients, caregivers, and prescribers with therapy-specific clinical expertise. Through individualized case management, proactive education, and comprehensive financial and insurance navigation, PANTHERx makes complex rare disease therapies more personal, less overwhelming, and easier to access.
+
+"This new indication for IMCIVREE marks an important scientific milestone for individuals and families affected by acquired hypothalamic obesity, a highly complex disease with historically limited therapeutic options," said Bansi Nagji, CEO of PANTHERx Rare. "We're honored to deepen our collaboration with Rhythm Pharmaceuticals, and to help patients receive the personalized, high-touch clinical support necessary to navigate treatment."
+
+PANTHERx has been the exclusive pharmacy distribution partner for IMCIVREE for chronic weight management in adult and pediatric patients 2 years of age and older with obesity due to Bardet-Biedl Syndrome and proopiomelanocortin (POMC), proprotein convertase subtilisin/kexin type 1 (PCSK1), or leptin receptor (LEPR) deficiency confirmed by genetic testing since 2020.1
+
+About PANTHERx Rare  
+PANTHERx Rare makes rare disease care more hyper-personalized and less overwhelming by focusing relentlessly on each patient and each therapy. PANTHERx experts develop deep personal relationships with patients, prescribers, and pharmaceutical partners, serving as trusted advocates to ensure seamless collaboration and exceptional care. Since its founding in a garage in Pittsburgh, PA in 2011, PANTHERx has grown into the largest independent rare pharmacy in the U.S., leveraging established-company resources while maintaining small-company responsiveness, innovation, and attention to detail.

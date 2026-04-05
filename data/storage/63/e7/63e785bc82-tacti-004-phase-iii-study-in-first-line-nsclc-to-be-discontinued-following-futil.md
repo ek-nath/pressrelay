@@ -1,0 +1,14 @@
+Independent Data Monitoring Committee Recommends Discontinuation of Phase III Trial Following Futility Analysis
+
+SYDNEY, AUSTRALIA, March 13, 2026 (GLOBE NEWSWIRE) -- Immutep Limited (ASX: IMM; NASDAQ: IMMP) (“Immutep” or “the Company”), today announced that the Independent Data Monitoring Committee (IDMC) for the TACTI-004 Phase III study evaluating eftilagimod alfa (“efti”) in patients in 1st line non-small cell lung cancer has recommended the discontinuation of the trial following a planned interim futility analysis in accordance with the study protocol.
+
+Based on its review of the available safety and efficacy data, the IDMC recommended that the trial be discontinued for futility.
+
+In response to the IDMC’s recommendation, enrolment in the study will be halted and the Company will implement an orderly wind down of the study, including appropriate patient follow up and site close out in accordance with regulatory and ethical obligations.
+
+“We are very disappointed and surprised with the outcome of the futility analysis, in light of efti’s performance in every other clinical trial” said Marc Voigt, Chief Executive Officer. “We would like to thank the patients, investigators, and clinical teams who contributed to this important study. We are currently conducting a comprehensive review of the available data to better understand the results and determine the appropriate next steps for the program.”
+
+Immutep remains focused on advancing its pipeline of innovative therapies including efti. Following the discontinuation of TACTI-004, Immutep now anticipates its cash runway will be extended well beyond the previously guided timeframe of Q2 CY2027, which was set prior to the trial's cessation. The Company will provide an updated outlook on its revised cash runway and will reassess capital allocation priorities once operational assessments and a full analysis of the study data have been finalised.
+
+About TACTI-004  
+TACTI-004 (Two ACTive Immunotherapies) is a randomised, double-blind, controlled Phase III study evaluating eftilagimod alfa (efti), a first-in-class MHC Class II agonist, in combination with MSD’s (Merck & Co., Inc., Rahway, NJ, USA) anti-PD-1 therapy, KEYTRUDA® (pembrolizumab), and chemotherapy as first line therapy for patients with advanced or metastatic non-small cell lung cancer with no EGFR, ALK or ROS1 genomic tumour aberrations. The global trial was to enrol approximately 756 patients regardless of PD-L1 expression and with non-squamous or squamous tumours at over 150 clinical sites in over 25 countries. Patients were being randomised 1:1 to receive either efti in combination with pembrolizumab and chemotherapy in the treatment arm or pembrolizumab in combination with chemotherapy and placebo in the control arm. The study’s dual primary endpoints were progression-free survival and overall survival.

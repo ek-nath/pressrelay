@@ -1,0 +1,12 @@
+WASHINGTON, March 20, 2026 /PRNewswire/ -- Danaher Corporation (NYSE: DHR) announced that it will webcast its quarterly earnings conference call for the first quarter 2026 on Tuesday, April 21, 2026 beginning at 8:00 a.m. ET and lasting approximately one hour. During the call, the company will discuss its financial performance, as well as future expectations.
+
+The call and an accompanying slide presentation will be webcast on the "Investors" section of Danaher's website, www.danaher.com, under the subheading "Events & Presentations." A replay of the webcast will be available shortly after the conclusion of the presentation and will remain available until the next quarterly earnings call.
+
+You can access the conference call by dialing 800-267-6316, within the U.S. or +1 203-518-9783 outside the U.S. a few minutes before 8:00 a.m. ET and notifying the operator that you are dialing in for Danaher's earnings conference call (Conference ID: DHRQ126). A replay of the conference call will be available shortly after the conclusion of the call until May 5, 2026. You can access the replay dial-in information on the "Investors" section of Danaher's website under the subheading "Events & Presentations."
+
+Danaher's earnings press release, the webcast slides and other related materials will be posted to the "Investors" section of Danaher's website under the subheading "Quarterly Earnings" beginning at 6:00 a.m. ET on the date of the earnings call and will remain available following the call.
+
+ABOUT DANAHER  
+Danaher is a leading global life sciences and diagnostics innovator, committed to accelerating the power of science and technology to improve human health. Our businesses partner closely with customers to solve many of the most important health challenges impacting patients around the world. Danaher's advanced science and technology - and proven ability to innovate - help enable faster, more accurate diagnoses and help reduce the time and cost needed to sustainably discover, develop and deliver life-changing therapies. Focused on scientific excellence, innovation and continuous improvement, our approximately 60,000 associates worldwide help ensure that Danaher is improving quality of life for billions of people today, while setting the foundation for a healthier, more sustainable tomorrow. Explore more at www.danaher.com.
+
+View original content:https://www.prnewswire.com/news-releases/danaher-schedules-first-quarter-2026-earnings-conference-call-302719984.html

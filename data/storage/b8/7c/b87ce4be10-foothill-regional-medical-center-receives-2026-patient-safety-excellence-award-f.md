@@ -1,0 +1,15 @@
+Recognition places Foothill Regional among the top 5% in the nation for patient safety
+
+TUSTIN, Calif., March 10, 2026 /PRNewswire/ -- Foothill Regional Medical Center, part of Astrana Health, Inc. (NASDAQ: ASTH), has been recognized as a 2026 Patient Safety Excellence Award™ recipient by Healthgrades, the nation's leading resource Americans use when searching for a hospital or doctor. Foothill Regional has received the Patient Safety Excellence Award™ four consecutive years (2023-2026).
+
+In addition to this patient safety recognition, Foothill Regional has earned several distinguished 2026 Healthgrades awards. These include being named one of Healthgrades America's 100 Best Hospitals for Joint Replacement in 2026, as well as a recipient of the Healthgrades Joint Replacement Excellence Award for two consecutive years (2025-2026). The hospital was also named among the top 10% in the nation for Joint Replacement for two years in a row (2025-2026) and recognized as a Five-Star Recipient for Total Knee Replacement for two consecutive years (2025-2026) and a Five‑Star Recipient for Hip Fracture Treatment for eight consecutive years (2019-2026). Foothill Regional additionally received Five-Star recognition for Treatment of Sepsis for three years in a row (2024-2026). Together, these achievements underscore the hospital's ongoing commitment to delivering compassionate, individualized care at every stage of the patient's journey.
+
+"This recognition reflects our unwavering commitment to patient safety and clinical excellence," said Araceli Lonergan, CEO of Foothill Regional Medical Center. "Our team's dedication to delivering high-quality, compassionate care is at the heart of everything we do."
+
+Foothill Regional's achievements are based on what matters most: patient outcomes. To determine the top-performing hospitals for patient safety, Healthgrades evaluated risk-adjusted complication and mortality rates for 4,500 hospitals nationwide across 13 Patient Safety Indicators (PSIs). Healthgrades' analysis revealed significant performance gaps between the nation's highest- and lowest-achieving facilities, making it increasingly important for consumers to seek care at a hospital with top safety ratings.
+
+Where you're treated matters, which is why Healthgrades is committed to providing the most scientifically accurate information about doctors and hospitals, with data insights not available anywhere else. To learn more, visit healthgrades.com.
+
+About Foothill Regional Medical Center
+
+Foothill Regional Medical Center is a general acute care hospital with 177 beds, including 42 pediatric subacute beds. Services include general and specialized surgery and robotics, orthopedics and spine program, nationally accredited weight-loss surgery program, paramedic-receiving emergency department, as well as an expanded range of quality medical programs and services. The hospital is centrally located in Orange County. As of July 2025, Foothill Regional is part of Astrana Health. To learn more, visit FoothillRegionalMedicalCenter.com or call (714) 619-7700.

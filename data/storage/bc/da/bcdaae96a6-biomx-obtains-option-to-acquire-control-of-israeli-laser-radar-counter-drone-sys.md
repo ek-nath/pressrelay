@@ -1,0 +1,29 @@
+The platform delivers ~99% accuracy in real-world deployments across defense and infrastructure; When closed, the transaction value is estimated at approximately $45 million
+
+NETANYA, Israel, March 31, 2026 (GLOBE NEWSWIRE) -- BiomX Inc. (NYSE American: PHGE) today announced that it has entered into an option agreement to acquire control of DFSL, a developer of proprietary LADAR (Laser Radar)–based detection systems for security, defense, and critical infrastructure applications. DFSL’s LADAR technology combines laser-based sensing with proprietary AI algorithms to detect and respond to both UAV and ground-based intruders.
+
+BiomX intends to exercise the option subject to the closing of the underlying agreement and obtaining shareholder approval as necessary or consideration consisting of a combination of cash, promissory note, shares of common stock and warrants. Separately, a third party has agreed to provide a credit line to facilitate operations and company expansion across different geographies.
+
+The transaction marks BiomX’s pivot into security, defense, and first-response markets. These sectors are supported by growing demand and government investment, with the global counter-drone market expected to reach more than $14 billion by 2030 while the perimeter security market is projected to exceed $130 billion over the same period.
+
+False positives remain a persistent challenge in modern security systems. Environmental factors such as wind, rain, or movement can trigger unnecessary alerts, leading to “alarm fatigue” and reduced operator effectiveness. In high-noise environments, these false alarms can overwhelm operators, undermining system reliability and slowing response times. Conventional LiDAR systems, which rely on external data processing, often struggle to filter this noise in real-world conditions.
+
+DFSL’s LADAR platform addresses this challenge by combining laser-based sensing with a proprietary AI algorithm that processes data within the sensor itself. This enables the system to analyze what it detects in real time, identify and track targets while distinguishing real threats from background activity rather than simply detecting motion. As a result, the platform significantly reduces false alarms while maintaining high detection certainty, with demonstrated accuracy of approximately 99% in real-world deployments.
+
+Founded in 1995 by Dr. Yaacov Frucht, a former senior research leader at Rafael Advanced Defense Systems, DFSL builds on defense-originated laser radar technology adapted for civilian and homeland security use.
+
+DFSL’s technology is deployed across four primary application areas: counter-UAS (drone detection and response), perimeter and border security (“virtual fencing”), wide-area 360-degree surveillance, and rail and metro safety systems. The platform has been deployed in both pilot and operational environments where reliable, low false-alarm detection is critical, including transportation infrastructure and defense-related settings. Through integration partners, DFSL systems have been deployed in military operations in Israel and Africa, as well as in major transportation systems, including the Los Angeles Metro.
+
+The technology has been supported by government development programs including the Israel Innovation Authority and European security initiatives, and is protected by a portfolio of patents covering both hardware design and signal processing methodologies. DFSL has also participated in multiple European Union–funded security programs focused on border protection and critical infrastructure, where its LADAR technology serves as a core detection layer within integrated systems designed to identify and respond to both ground and aerial threats in complex, real-world environments.
+
+“This transaction represents our entry point into the defense and security sector, where we see strong and growing demand driven by evolving global threats and increasing infrastructure protection needs,” said Michael Oster, CEO of BiomX. “DFSL brings a proven technology platform with real-world deployments, positioning us to establish an initial presence in high-demand markets such as counter-UAS and perimeter security. From this starting point, we plan to expand capabilities, increase deployment across new geographies, and build a broader footprint in defense and critical infrastructure markets over time.”
+
+The transaction is subject to regulatory approval in Israel and customary closing conditions. Consideration includes a convertible note and warrants, in each case convertible or exercisable at $12 per share. The structure is designed to align shareholder value with future growth and performance milestones. Additional information relating to the transaction will be included in the current report on Form 8-K that BiomX intends to file.
+
+Forward-Looking Statements This press release contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, including statements regarding the expected benefits of the transaction, anticipated market opportunities, and potential performance of DFSL’s technology. These statements are based on current expectations and involve risks and uncertainties that could cause actual results to differ materially.
+
+Factors that may affect future results include, among others, the Company’s ability to complete the transaction, integrate DFSL, commercialize its technology, and execute its strategy in defense and infrastructure markets. Additional information regarding these risks is included in BiomX’s filings with the U.S. Securities and Exchange Commission.
+
+BiomX undertakes no obligation to update any forward-looking statements, except as required by law.
+
+CONTACT: For more information, please contact: Yair Ohayon Yairo@biomx.com

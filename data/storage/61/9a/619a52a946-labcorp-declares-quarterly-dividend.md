@@ -1,0 +1,6 @@
+BURLINGTON, N.C., Jan. 14, 2026 /PRNewswire/ -- Labcorp Holdings Inc. (NYSE: LH), a global leader of innovative and comprehensive laboratory services, announced today that its Board of Directors has declared a cash dividend of $0.72 per share of common stock. The dividend will be payable on March 12, 2026, to stockholders of record as of the close of business on February 27, 2026.
+
+About Labcorp  
+Labcorp (NYSE: LH) is a global leader of innovative and comprehensive laboratory services that helps doctors, hospitals, pharmaceutical companies, researchers and patients make clear and confident decisions. We provide insights and advance science to improve health and improve lives through our unparalleled diagnostics and drug development laboratory capabilities. The company's nearly 70,000 employees serve clients in approximately 100 countries, provided support for more than 75% of the new drugs and therapeutic products approved in 2024 by the FDA, and perform more than 700 million tests annually for patients around the world. Learn more about us at www.labcorp.com.
+
+View original content to download multimedia:https://www.prnewswire.com/news-releases/labcorp-declares-quarterly-dividend-302660391.html

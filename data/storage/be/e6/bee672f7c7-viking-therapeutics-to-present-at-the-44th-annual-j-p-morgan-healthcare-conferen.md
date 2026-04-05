@@ -1,0 +1,17 @@
+SAN DIEGO, Jan. 5, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. ("Viking") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that its chief executive officer, Brian Lian, Ph.D., will deliver a corporate presentation at the 44th Annual J.P. Morgan Healthcare Conference. The conference will take place January 12-15, 2026, in San Francisco, California.
+
+Details are as follows:
+
+-      44th Annual J.P. Morgan Healthcare Conference
+
+
+Details: Dr. Lian will deliver a corporate presentation and participate in 1-on-1 meetings  
+Conference Dates: January 12-15, 2026  
+Presentation Timing: 2:15 – 2:55 p.m. Pacific on Monday, January 12, 2026  
+Location: San Francisco, California; webcast available
+
+A live webcast of the presentation may be accessed via a link on the Viking Therapeutics website in the Investors & Media section under Webcasts. Additionally, a replay of the webcast will be available on the Viking website following the conference.
+
+About Viking Therapeutics, Inc.
+
+Viking Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on the development of novel first-in-class or best-in-class therapies for the treatment of metabolic and endocrine disorders. Viking's research and development activities leverage its expertise in metabolism to develop innovative therapeutics designed to improve patients' lives. Viking's clinical programs include VK2735, a novel dual agonist of the glucagon-like peptide 1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) receptors for the potential treatment of various metabolic disorders. The company is evaluating its subcutaneous formulation of VK2735 in a Phase 3 obesity program that includes two Phase 3 clinical trials (VANQUISH-1 and VANQUISH-2). Data from a Phase 1 and a Phase 2 trial evaluating subcutaneous VK2735 demonstrated an encouraging safety and tolerability profile as well as positive signs of clinical benefit. Concurrently, the company is evaluating an oral formulation of VK2735 in obesity. Viking is also developing VK2809, a novel, orally available, small molecule selective thyroid hormone receptor beta agonist for the treatment of lipid and metabolic disorders. The compound successfully achieved both the primary and secondary endpoints in a Phase 2b study for the treatment of biopsy-confirmed non-alcoholic steatohepatitis (NASH) and fibrosis. In a Phase 2a trial for the treatment of non-alcoholic fatty liver disease (NAFLD) and elevated LDL-C, patients who received VK2809 demonstrated statistically significant reductions in LDL-C and liver fat content compared with patients who received placebo. The company's newest program is evaluating a series of internally developed dual amylin and calcitonin receptor agonists (or DACRAs) for the treatment of obesity and other metabolic disorders. In the rare disease space, Viking is developing VK0214, a novel, orally available, small molecule selective thyroid hormone receptor beta agonist for the potential treatment of X-linked adrenoleukodystrophy (X-ALD). In a Phase 1b clinical trial in patients with the adrenomyeloneuropathy (AMN) form of X-ALD, VK0214 was shown to be safe and well-tolerated, while driving significant reductions in plasma levels of very long-chain fatty acids (VLCFAs) and other lipids, as compared to placebo.

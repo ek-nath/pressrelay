@@ -1,0 +1,8 @@
+SECAUCUS, N.J., Feb. 25, 2026 /PRNewswire/ -- Quest Diagnostics Incorporated (NYSE: DGX), a leader in diagnostic information services, announced that Sam Samad, Executive Vice President & Chief Financial Officer, will speak on the company's strategy, performance and the latest market developments and trends during the Leerink 2026 Global Healthcare Conference in Miami on Wednesday, March 11, 2026, at 8:00 a.m. Eastern Time.
+
+The Fireside Chat and Q&A session will be webcast live during the conference on the company's investor relations page, which can be accessed at ir.QuestDiagnostics.com. In addition, the archived webcast will be available within 24 hours after the conclusion of the live event and will remain available until March 25, 2026.
+
+About Quest Diagnostics  
+Quest Diagnostics works across healthcare to create a healthier world, one life at a time. We connect people, from clinicians to consumers, with laboratory insights that illuminate a path to better health. With a focus on delivering smarter, simpler testing, we help reveal new avenues to identify and treat disease, empower healthy behaviors and improve healthcare management. Quest Diagnostics serves half the physicians and hospitals in the United States and one in three American adults each year, and our nearly 57,000 employees work together to deliver diagnostic insights that inspire actions to transform lives. www.QuestDiagnostics.com
+
+View original content to download multimedia:https://www.prnewswire.com/news-releases/quest-diagnostics-to-speak-at-the-leerink-2026-global-healthcare-conference-302697113.html

@@ -1,0 +1,291 @@
+NEW YORK, March 23, 2026 /PRNewswire/ -- AllianceBernstein Global High Income Fund, Inc. [NYSE: AWF] (the "Fund") today released its monthly portfolio update as of February 28, 2026.
+
+- AllianceBernstein Global High Income Fund, Inc.
+- Top 10 Fixed-Income Holdings Portfolio %
+- 1) U.S. Treasury Notes 2.25%, 02/15/27 1.08 %
+- 2) 1261229 BC Ltd. 10.00%, 04/15/32 0.58 %
+- 3) DaVita, Inc. 4.625%, 06/01/30 0.47 %
+- 4) Carvana Co. 9.00%, 06/01/30 - 06/01/31 0.45 %
+- 5) American Airlines/AAdvantage 5.75%, 04/20/29 0.41 %
+- 6) Advance Auto Parts, Inc. 7.00%, 08/01/30 0.40 %
+- 7) Dominican Republic Intl Bond 8.625%, 04/20/27 0.40 %
+- 8) Tenet Healthcare Corp. 5.50%, 11/15/32 0.40 %
+- 9) Millennium Escrow Corp. 6.625%, 08/01/26 0.38 %
+- 10) TransDigm, Inc. 6.00%, 01/15/33 0.38 %
+- Investment Type Portfolio %
+- Corporates - Non-Investment Grade
+- Industrial
+- Consumer Non-Cyclical 7.42 %
+- Energy 6.40 %
+- Communications - Media 5.31 %
+- Consumer Cyclical - Retailers 5.08 %
+- Capital Goods 4.96 %
+- Consumer Cyclical - Other 4.92 %
+- Basic 3.37 %
+- Services 3.15 %
+- Technology 2.90 %
+- Consumer Cyclical - Automotive 2.83 %
+- Communications - Telecommunications 2.75 %
+- Transportation - Services 1.79 %
+- Consumer Cyclical - Entertainment 0.85 %
+- Other Industrial 0.77 %
+- Transportation - Airlines 0.60 %
+- Consumer Cyclical - Restaurants 0.44 %
+- SUBTOTAL 53.54 %
+- Credit Default Swaps 13.33 %
+- Financial Institutions
+- Finance 2.60 %
+- Insurance 1.36 %
+- Financial Services 1.24 %
+- Brokerage 0.99 %
+- REITs 0.90 %
+- Banking 0.38 %
+- SUBTOTAL 7.47 %
+- Utility
+- Electric 0.97 %
+- Natural Gas 0.05 %
+- SUBTOTAL 1.02 %
+- SUBTOTAL 75.36 %
+- Corporates - Investment Grade
+- Industrial
+- Energy 1.65 %
+- Consumer Cyclical - Other 1.17 %
+- Basic 0.94 %
+- Consumer Cyclical - Automotive 0.83 %
+- Communications - Media 0.65 %
+- Consumer Cyclical - Entertainment 0.65 %
+- Consumer Non-Cyclical 0.52 %
+- Consumer Cyclical - Restaurants 0.37 %
+- Technology 0.32 %
+- Communications - Telecommunications 0.24 %
+- Transportation - Services 0.18 %
+- Consumer Cyclical - Retailers 0.15 %
+- Transportation - Airlines 0.11 %
+- Other Industrial 0.07 %
+- Transportation - Railroads 0.03 %
+- SUBTOTAL 7.88 %
+- Financial Institutions
+- Banking 3.68 %
+- REITs 0.73 %
+- Insurance 0.69 %
+- Finance 0.51 %
+- Brokerage 0.14 %
+- SUBTOTAL 5.75 %
+- Utility
+- Electric 1.11 %
+- SUBTOTAL 1.11 %
+- SUBTOTAL 14.74 %
+- Emerging Markets - Corporate Bonds
+- Industrial
+- Basic 1.36 %
+- Energy 1.06 %
+- Consumer Cyclical - Other 0.84 %
+- Consumer Non-Cyclical 0.59 %
+- Communications - Telecommunications 0.21 %
+- Capital Goods 0.16 %
+- Transportation - Services 0.10 %
+- Communications - Media 0.02 %
+- Services 0.02 %
+- SUBTOTAL 4.36 %
+- Utility
+- Electric 0.65 %
+- Other Utility 0.15 %
+- SUBTOTAL 0.80 %
+- Financial Institutions
+- Banking 0.25 %
+- REITs 0.07 %
+- Finance 0.05 %
+- SUBTOTAL 0.37 %
+- SUBTOTAL 5.53 %
+- Bank Loans
+- Industrial
+- Technology 1.42 %
+- Communications - Media 0.80 %
+- Consumer Non-Cyclical 0.46 %
+- Capital Goods 0.34 %
+- Communications - Telecommunications 0.29 %
+- Consumer Cyclical - Retailers 0.21 %
+- Transportation - Services 0.17 %
+- Consumer Cyclical - Other 0.12 %
+- Other Industrial 0.11 %
+- Transportation - Airlines 0.10 %
+- Consumer Cyclical - Automotive 0.08 %
+- Basic 0.05 %
+- SUBTOTAL 4.15 %
+- Financial Institutions
+- Insurance 0.65 %
+- Financial Services 0.27 %
+- Brokerage 0.15 %
+- Finance 0.14 %
+- Banking 0.02 %
+- SUBTOTAL 1.23 %
+- SUBTOTAL 5.38 %
+- EM Governments 4.36 %
+- Interest Rate Swaps 3.74 %
+- Interest Rate Futures 2.17 %
+- U.S. Govt & Agency Securities 1.66 %
+- Quasi-Sovereigns
+- Quasi-Sovereign Bonds 1.03 %
+- SUBTOTAL 1.03 %
+- Collateralized Mortgage Obligations
+- Non-Agency Fixed Rate 0.29 %
+- Non-Agency Floating Rate 0.25 %
+- Agency Fixed Rate 0.15 %
+- Risk Share Floating Rate 0.15 %
+- SUBTOTAL 0.84 %
+- Common Stocks 0.42 %
+- Local Governments - US Municipal Bonds 0.39 %
+- Asset-Backed Securities
+- Other ABS - Fixed Rate 0.25 %
+- Other ABS - Floating Rate 0.09 %
+- Autos - Fixed Rate 0.02 %
+- SUBTOTAL 0.36 %
+- Emerging Markets - Treasuries 0.29 %
+- Inflation-Linked Securities 0.28 %
+- Collateralized Loan Obligations
+- CLO - Floating Rate 0.20 %
+- SUBTOTAL 0.20 %
+- Commercial Mortgage-Backed Securities
+- Non-Agency Fixed Rate CMBS 0.16 %
+- SUBTOTAL 0.16 %
+- Forward Currency Exchange Contracts
+- Currency Instruments 0.08 %
+- SUBTOTAL 0.08 %
+- Preferred Stocks
+- Industrials 0.03 %
+- SUBTOTAL 0.03 %
+- Rights
+- Communication Services 0.01 %
+- SUBTOTAL 0.01 %
+- EM Governments Agencies
+- Credit Default Swaps -0.25 %
+- SUBTOTAL -0.25 %
+- Reverse Repurchase Agreements -0.80 %
+- Cash & Cash Equivalents
+- Funds and Investment Trusts 2.31 %
+- Cash 0.66 %
+- SUBTOTAL 2.97 %
+- Derivative Offsets
+- Futures Offsets -2.15 %
+- Swap Offsets -16.80 %
+- SUBTOTAL -18.95 %
+- TOTAL 100.00 %
+- Country Breakdown Portfolio %
+- United States 66.17 %
+- United Kingdom 3.48 %
+- Canada 3.05 %
+- France 2.68 %
+- Colombia 1.35 %
+- Brazil 1.30 %
+- Mexico 1.23 %
+- Italy 1.20 %
+- Spain 1.06 %
+- India 1.03 %
+- Turkey 0.89 %
+- South Africa 0.84 %
+- Germany 0.81 %
+- Luxembourg 0.76 %
+- Nigeria 0.64 %
+- Ireland 0.60 %
+- Australia 0.59 %
+- Hong Kong 0.59 %
+- Chile 0.46 %
+- Israel 0.45 %
+- Japan 0.45 %
+- Argentina 0.43 %
+- Switzerland 0.42 %
+- Dominican Republic 0.40 %
+- Finland 0.38 %
+- Peru 0.37 %
+- China 0.35 %
+- Norway 0.35 %
+- Romania 0.34 %
+- Indonesia 0.33 %
+- Netherlands 0.33 %
+- Jersey (Channel Islands) 0.32 %
+- Macau 0.32 %
+- Costa Rica 0.31 %
+- Puerto Rico 0.31 %
+- Senegal 0.30 %
+- Denmark 0.29 %
+- Ecuador 0.29 %
+- Egypt 0.27 %
+- El Salvador 0.25 %
+- Guatemala 0.22 %
+- Slovenia 0.16 %
+- Uzbekistan 0.16 %
+- Angola 0.14 %
+- Panama 0.14 %
+- Azerbaijan 0.11 %
+- Trinidad and Tobago 0.11 %
+- Zambia 0.11 %
+- Kazakhstan 0.10 %
+- Ukraine 0.10 %
+- Malaysia 0.08 %
+- Belgium 0.05 %
+- Greece 0.05 %
+- Jamaica 0.05 %
+- Morocco 0.05 %
+- Kuwait 0.04 %
+- Serbia 0.03 %
+- Cash & Cash Equivalents 2.31 %
+- Total Investments 100.00 %
+- Net Currency Exposure Breakdown Portfolio %
+- US Dollar 99.84 %
+- Colombian Peso 0.25 %
+- Canadian Dollar 0.19 %
+- Pound Sterling 0.16 %
+- Norwegian Krone 0.02 %
+- South African Rand 0.02 %
+- Brazilian Real 0.01 %
+- New Taiwan Dollar 0.01 %
+- Chinese Yuan Renminbi (Offshore) -0.01 %
+- Czech Koruna -0.01 %
+- Swedish Krona -0.01 %
+- Euro -0.47 %
+- Total Net Assets 100.00 %
+- Credit Rating Portfolio %
+- AAA 2.66 %
+- AA -1.01 %
+- A 0.87 %
+- BBB 15.17 %
+- BB 44.98 %
+- B 24.37 %
+- CCC 7.62 %
+- CC 0.32 %
+- C 0.12 %
+- Not Rated 1.51 %
+- Short Term Investments 2.31 %
+- Reverse Repurchase Agreements -0.80 %
+- N/A 1.88 %
+- Total 100.00 %
+- Bonds by Maturity Portfolio %
+- Less than 1 Year 14.12 %
+- 1 to 5 Years 64.49 %
+- 5 to 10 Years 15.68 %
+- 10 to 20 Years 3.56 %
+- 20 to 30 Years 1.00 %
+- More than 30 Years 0.72 %
+- Other 0.43 %
+- Total Net Assets 100.00 %
+- Portfolio Statistics:
+- Average Coupon: 7.15 %
+- Average Bond Price: 97.92
+- Percentage of Leverage(based on gross assets):
+- Bank Borrowing: 0.00 %
+- Investment Operations:* 13.72 %
+- Preferred Stock: 0.00 %
+- Tender Option Bonds: 0.00 %
+- VMTP Shares: 0.00 %
+- VRDP Shares: 0.00 %
+- Total Fund Leverage: 13.72 %
+- Average Maturity: 4.24 Years
+- Effective Duration: 2.97 Years
+- Total Net Assets: $984.63 Million
+- Net Asset Value: $11.42
+- Total Number of Holdings: 1,244
+- Portfolio Turnover: 68.00 %
+- * Investment Operations may include the use of certain portfolio management techniques such as credit
+- default swaps, dollar rolls, negative cash, reverse repurchase agreements and when-issued securities.
+- The foregoing portfolio characteristics are as of the date indicated and can be expected to change. The
+- Fund is a closed-end U.S.-registered management investment company advised by AllianceBernstein L. P.

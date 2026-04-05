@@ -1,0 +1,41 @@
+Company brings one of the only combined clinical and toxicological safety dataset in the hemp-derived CBD category into a new provider channel as CMS activates cannabinoid access within value-based care models
+
+CHARLOTTE, N.C., April 1, 2026 /PRNewswire/ -- cbdMD, Inc. (NYSE American: YCBD), a leader in science-driven cannabinoid products, today announced the launch of its clinical healthcare channel, positioning the Company to support physicians, health systems, and value-based care organizations as federal policy establishes structured pathways for hemp-derived cannabinoid products within Medicare programs.
+
+On March 20, 2026, the Centers for Medicare & Medicaid Services (CMS) published operational guidance activating the Substance Access Beneficiary Engagement Incentive (BEI), an existing incentive mechanism within CMS Innovation Center models, to include eligible hemp-derived cannabinoid products for the first time. Effective April 1, 2026, participating accountable care organizations and oncology practices in select models, including the Enhancing Oncology Model (EOM) and ACO REACH, may furnish eligible hemp-derived products to Medicare patients as part of physician-supervised care. The upcoming LEAD Model also incorporates the BEI framework when it is expected to launch on January 1, 2027. Together these models encompass thousands of physicians and millions of aligned Medicare beneficiaries.
+
+The BEI remains a limited, model-specific initiative, not a broad access or reimbursement program, and participating organizations independently determine supplier relationships.
+
+"Healthcare is where this category has always needed to go," said Ronan Kennedy, Chief Executive Officer of cbdMD. "This is the inflection point. CMS has established a structured, physician-supervised framework for hemp-derived cannabinoids within Medicare, and the bar to participate credibly is high requiring clinical data, institutional-grade documentation and healthcare supply infrastructure. cbdMD has spent years preparing for such framework."
+
+cbdMD is entering the clinical channel with a scientific and regulatory platform the Company believes is unmatched in the hemp-derived CBD category. To the Company's knowledge, no other hemp-derived CBD manufacturer has published both OECD-standard preclinical toxicology data and human randomized controlled trial data for its commercial product lines. That foundation includes:
+
+Published preclinical safety data: A 90-day subchronic oral toxicity study conducted to OECD 408 guidelines, the international standard used in pharmaceutical safety assessment, demonstrating safety margins significantly above expected human dosing levels
+
+Human clinical evidence: Data from an IRB-approved, randomized, double-blind, placebo-controlled trial confirming safety and tolerability in human subjects
+
+GRAS regulatory status: Self-affirmed Generally Recognized As Safe (GRAS) dossiers supporting key product categories,the same safety standard applied to conventional food and supplement ingredients reviewed by the FDA
+
+Healthcare-grade supply chain: Batch-level traceability, certificate of analysis documentation, and quality systems designed for institutional procurement and compliance review
+
+In parallel, cbdMD is developing a dedicated provider-focused product line with formulations, documentation, and labeling structured specifically for clinical environments, along with infrastructure to support multi-site health systems and value-based care organizations.
+
+"We recognize physicians and health systems evaluating this category will not accept consumer-grade marketing claims or products without published safety data," said Sibyl Swift, Ph.D., member of board of directors and scientific consultant of cbdMD. "They require OECD-standard toxicology, human clinical data, drug interaction transparency, and documentation that can withstand institutional review. That evidence base does not exist broadly in this category, cbdMD has built it. That is where we are focused."
+
+The Company is actively engaging accountable care organizations, oncology practices, and health systems as they evaluate implementation under the BEI and broader clinical integration of cannabinoid products. cbdMD believes that provider adoption in this channel will be driven by demonstrated safety, data transparency, and operational reliability; standards the Company has been building toward for years. The company is also pursuing research partnerships with healthcare organizations and academic institutions to generate real-world outcomes data on hemp CBD in physician-supervised Medicare settings.
+
+cbdMD is also monitoring the FDA's recent submission of updated regulatory considerations for hemp-derived CBD products to the White House Office of Information and Regulatory Affairs, which the Company views as part of a continued shift toward a more clearly defined, evidence-based federal framework for cannabinoid products.
+
+Healthcare organizations interested in cbdMD's clinical channel, product documentation, or supply capabilities are encouraged to contact the Company directly.
+
+About the CMS Substance Access BEI The Substance Access Beneficiary Engagement Incentive, effective April 1, 2026, allows participating organizations in CMS Innovation Center models — including ACO REACH, the Enhancing Oncology Model, and the upcoming LEAD Model — to furnish eligible hemp-derived CBD products to Medicare patients through physician-supervised consultations. CMS does not reimburse product costs, does not designate preferred or approved suppliers, and does not cover products as a Medicare benefit. Participating organizations make independent clinical and procurement decisions.
+
+About cbdMD, Inc. cbdMD, Inc. (NYSE American: YCBD) is a science-driven cannabinoid company offering a portfolio of hemp-derived CBD products under the cbdMD, Bluebird Botanicals, Paw CBD, and Herbal Oasis brands. The Company has invested in clinical research, toxicological safety studies, and GRAS regulatory dossiers, establishing what it believes is the most comprehensive published safety and clinical dataset in the U.S. hemp-derived CBD category. cbdMD products are available direct-to-consumer at cbdmd.com, through thousands of retail locations, and through the Company's newly launched clinical healthcare channel. Learn more at cbdmd.com.
+
+Forward Looking Statements
+
+This press release contains statements, estimates, forecasts, and projections regarding future performance and events that constitute "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933, and Section 21E of the Securities Exchange Act of 1934. Those statements include statements regarding expectations from evolving federal regulation, the development of cbdMD's clinical healthcare channel and platform, Medicare requirements, market acceptance of CBD clinical healthcare products and the ability of cbdMD to furnish eligible hemp-derived CBD products to Medicare patients. These statements may be identified by the use of words like "anticipate," "believe," "estimate," "expect," "intend," "may," "plan," "will," "should," and "seek," and similar expressions and include any financial projections or estimates or pro forma financial information set forth herein. Prospective investors are cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties and that actual results may differ materially from those projected in the forward-looking statements. Important factors and risks that could cause actual results to differ materially from our expectations include, but are not limited to, participating organizations in CMS Innovation Center models acceptance of eligible hemp-derived CBD products to be furnished to Medicare patients; customer, professional healthcare provider and Medicare acceptance of our product offerings; and costs and expenses to develop a clinical healthcare channel and products, as well as those risks detailed in our filings with the SEC, including our most recent Form 10-K and other filings with the SEC.
+
+Contact Information:
+
+Investors: cbdMD, Inc. Ronan Kennedy Chief Executive Officer and Chief Financial Officer IR@cbdmd.com (704) 445-3064

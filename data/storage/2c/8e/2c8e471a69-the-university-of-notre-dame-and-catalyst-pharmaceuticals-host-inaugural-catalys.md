@@ -1,0 +1,13 @@
+# The University of Notre Dame and Catalyst Pharmaceuticals Host Inaugural Catalyst Advocacy Scholars Summit (CASS)
+
+Students from The University of Notre Dame Selected to Participate in a Week-long Biopharmaceutical Learning Intensive
+
+CORAL GABLES, Fla., Jan. 05, 2026 (GLOBE NEWSWIRE) -- The University of Notre Dame and Catalyst Pharmaceuticals, Inc. (“Catalyst” or “Company”) (Nasdaq: CPRX), a commercial-stage biopharmaceutical company focused on in-licensing, developing, and commercializing novel medicines for patients living with rare and difficult-to-treat diseases, today announced their inaugural Catalyst Advocacy Scholars Summit (CASS). This one-of-a-kind program was created with The University of Notre Dame’s Patient Advocacy Minor Department to provide participating students with an immersive learning experience exploring the opportunities and challenges of delivering medicine to people living with rare diseases.
+
+“We at Catalyst are excited about this unique program that we hope will help attract the best minds to the biopharmaceutical industry and increase patient focus across scientific degree programs,” said Rich Daly, President and CEO, Catalyst. “We look forward to welcoming 12 inspiring students selected by the university to spend time with Catalyst colleagues to get to know the people and functions that make our organization successful. In addition to the students learning about the incredible work involved in Patient Advocacy and navigating the biopharmaceutical industry, Catalyst will benefit from their fresh perspective on our current programs.”
+
+The inaugural Catalyst Advocacy Scholars Summit will be held January 5 – 9, 2026, in Coral Gables, Fla.
+
+About Catalyst Pharmaceuticals, Inc.
+
+Catalyst Pharmaceuticals, Inc. (Nasdaq: CPRX), is a biopharmaceutical company committed to improving the lives of patients with rare diseases. With a proven track record of bringing life-changing treatments to the market, we focus on in-licensing, commercializing, and developing innovative therapies. Guided by our deep commitment to patient care, we prioritize accessibility, ensuring patients receive the care they need through a comprehensive suite of support services designed to provide seamless access and ongoing assistance. Catalyst maintains a well-established U.S. presence, which remains the cornerstone of our commercial strategy, while continuously evaluating strategic opportunities to expand our global footprint. Catalyst, headquartered in Coral Gables, Fla., was recognized on the Forbes 2025 list as one of America's Most Successful Mid-Cap Companies and on the 2025 Deloitte Technology Fast 500™ list as one of North America's Fastest-Growing Companies.

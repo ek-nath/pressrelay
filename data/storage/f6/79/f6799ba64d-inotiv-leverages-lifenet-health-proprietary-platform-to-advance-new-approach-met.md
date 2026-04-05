@@ -1,0 +1,14 @@
+# Inotiv Leverages LifeNet Health Proprietary Platform to Advance New Approach Methodologies in Translational Drug Discovery
+
+WEST LAFAYETTE, Ind., Jan. 13, 2026 (GLOBE NEWSWIRE) -- Inotiv, Inc. (NASDAQ: NOTV) (the “Company”, or “Inotiv”), a leading Contract Research Organization specializing in nonclinical and analytical drug discovery and development services and research models and related products and services, today announced a strategic initiative to leverage LifeNet Health’s proprietary TruVivo® within its Discovery and Translational Sciences business.
+
+LifeNet Health, a global leader in regenerative medicine, has developed the patented TruVivo® system, which uses primary human hepatocytes cultured with human-derived feeder cells to create physiologically relevant in vitro models. This technology provides a stronger foundation for predicting human responses to new therapies and addresses a critical challenge in drug development.
+
+“Translational science is about connecting basic research to patient outcomes,” said Scott Daniels, PhD, Senior Vice President of Discovery & Translational Sciences (DTS) at Inotiv. “Integrating the TruVivo® platform into our disease pharmacology offering allows us to better align preclinical models with human biology. The versatility of LifeNet Health’s platform will also enable us to extend human-relevant tissue models beyond the liver, advancing innovation for clients addressing a wide range of human diseases.”
+
+“Our mission is to Save Lives, Restore Health and Give Hope by accelerating scientific innovation that translates into meaningful human impact,” said Susan Campbell, General Manager LifeSciences at LifeNet Health, “and this collaboration underscores our shared vision of transforming preclinical research through human-relevant technologies.”
+
+By leveraging LifeNet Health’s proprietary platform, Inotiv strengthens its commitment to new approach methodologies that advance human-relevant science, improve translational predictivity, and accelerate the development of safer, more effective therapies for patients.
+
+About Inotiv  
+Inotiv, Inc. is a leading contract research organization dedicated to providing nonclinical and analytical drug discovery and development services and research models and related products and services. The Company’s products and services focus on bringing new drugs and medical devices through the discovery and preclinical phases of development, all while increasing efficiency, improving data, and reducing the cost of taking new drugs and medical devices to market. Inotiv is committed to supporting discovery and development objectives as well as helping researchers realize the full potential of their critical research and development projects, all while working together to build a healthier and safer world. Further information about Inotiv can be found here: https://www.inotiv.com/.

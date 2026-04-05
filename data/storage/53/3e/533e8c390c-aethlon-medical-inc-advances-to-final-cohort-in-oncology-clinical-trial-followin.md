@@ -1,0 +1,37 @@
+SAN DIEGO, March 24, 2026 /PRNewswire/ -- Aethlon Medical, Inc. (Nasdaq: AEMD), a clinical-stage biotechnology company developing the investigational Aethlon Hemopurifier®, an extracorporeal device for oncology and other indications, today announced that the independent Data Safety Monitoring Board (DSMB) overseeing its ongoing clinical trial AEMD-2022-06 has completed its scheduled safety review of the second cohort participant data and recommended advancing to the third and final cohort. They also stated that "no safety concerns were noted with Hemopurifier device/procedure".
+
+The trial, titled "Safety, Feasibility, and Dose-Finding Study of Aethlon Hemopurifier in Patients with Solid Tumors Who Have Stable or Progressive Disease While on a Treatment That Includes Pembrolizumab or Nivolumab", is being conducted to assess the Hemopurifier's safety, feasibility, and optimal dosing.
+
+The DSMB, comprised of independent medical experts in nephrology and oncology- reviewed data from participants enrolled in the second cohort, in which patients received two Hemopurifier treatments over a one-week period. Based on their evaluation, the DSMB found no safety concerns and confirmed that the Hemopurifier continues to demonstrate a favorable safety and tolerability profile. To date, no serious adverse events (SAEs) or Dose-Limiting Toxicities (DLTs) related to the Hemopurifier device or treatment have been reported.
+
+"The DSMB's continued positive recommendation supports the safety profile observed to date and allows us to advance into the third and final cohort of this study," said Steven LaRosa, M.D, Chief Medical Officer of Aethlon Medical. "We are encouraged by the gathering momentum of the trial and having a final data set and clinical study report to share with potential investors, partners and regulatory agencies".
+
+Enrollment for Cohort 3 is now open. In this final cohort, participants will receive three Hemopurifier treatments over a one-week period further evaluating safety, feasibility and dosing parameters at the study's three active clinical sites in Australia. This trial is designed to enroll approximately 9 to 18-patients with solid tumors who have stable or progressive disease, while receiving treatment that includes Pembrolizumab (Keytruda®) or Nivolumab (Opdivo®).
+
+The primary endpoint of this trial is the incidence of adverse events and clinically significant changes in safety laboratory tests of Hemopurifier- treated patients. In addition to safety monitoring, the study is designed to examine the number of Hemopurifier treatments needed to decrease the concentration of extracellular vesicles (EVs) and if these changes in EV concentrations improve the body's own natural ability to attack tumor cells. These findings are expected to inform the design of a future efficacy and safety, Premarket Approval (PMA), study required by regulatory authorities.
+
+Aethlon Medical, Inc. remains committed to advancing the Hemopurifier for use in oncology and will continue to provide updates as the clinical trial progresses.
+
+About the Hemopurifier®
+
+The Aethlon Hemopurifier is an investigational medical device designed to remove enveloped viruses and tumor-derived EVs from circulation. It is used extracorporeally with a blood pump and combines plasma separation, size exclusion, and affinity binding using a plant lectin resin that targets mannose-rich surfaces found on EVs and viruses. EVs released by solid tumors are believed to play a role in metastasis and the resistance to immunotherapies and chemotherapy. Removal of enveloped viruses and extracellular vesicles has been demonstrated in both vitro studies and human subjects.
+
+The Hemopurifier holds a U.S. Food and Drug Breakthrough Device for:
+
+The treatment of individuals with advanced or metastatic cancer unresponsive to or intolerant of standard-of-care therapy; and
+
+The treatment of life-threatening viruses not addressed with approved therapies.
+
+The Hemopurifier is being developed under an open Investigational Device Exemption (IDE) for both indications.
+
+About Aethlon Medical, Inc.
+
+Aethlon Medical, Inc. (Nasdaq: AEMD) is a clinical stage medical device company headquartered in San Diego, California. Aethlon is advancing the Hemopurifier, to address unmet needs in oncology and infectious disease, using a novel platform designed to selectively remove circulation pathogenic targets from biologic fluids. For more information visit www.AethlonMedical.com and follow the company on LinkedIn.
+
+Forward Looking Statements
+
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 that involve risks and uncertainties. Statements containing words such as "may," "believe," "anticipate," "expect," "intend," "plan," "project," "will," "projections," "estimate," "potentially" or similar expressions constitute forward-looking statements. Forward-looking statements in this press releaseinclude but are not limited to statements regarding advancement and completion of the Company's clinical trial; patient enrollment and timing; the safety, tolerability and dosing of the Hemopurifier; the potential biological or clinical effects of the Hemopurifier; the ability of the study to inform future trials; and the Company's development plans, regulatory pathway and potential applications of the Hemopurifier. Such forward-looking statements are subject to significant risks and uncertainties and actual results may differ materially from the results anticipated in the forward-looking statements. These forward-looking statements are based upon Aethlon's current expectations and involve assumptions that may never materialize or may prove to be incorrect. Factors that may contribute to such include, without limitation, the number of patients who receive pembrolizumab or nivolumab that will have lasting clinical responses to these agents; device deficiencies or immediate complications;the possibility of novel treatment strategies; how the Hemopurifier may reduce tumor-derived extracellular vesicles and enhance T cell activity against tumors; the efficacy of continued clinical trials; development under IDE for indications; and/or the number of patients enrolled in each cohort. The foregoing list of risks and uncertainties is illustrative but is not exhaustive. Additional factors that could cause results to differ materially from those anticipated in forward-looking statements can be found under the caption "Risk Factors" in the Company's Annual Report on Form 10-K for the year ended March 31, 2024, and in the Company's other filings with the Securities and Exchange Commission, including its quarterly Reports on Form 10-Q. All forward-looking statements contained in this press release speak only as of the date on which they were made. Except as may be required by law, the Company does not intend, nor does it undertake any duty, to update this information to reflect future events or circumstances. The findings described herein are preliminary in nature, have not been peer-reviewed, and may not be replicated in subsequent studies or clinical trials.
+
+Company Contact: Jim Frakes Chief Executive Officer and Chief Financial Officer Aethlon Medical, Inc. Jfrakes@aethlonmedical.com
+
+Investor Contact: Susan Noonan S.A. Noonan Communications, LLC susan@sanoonan.com

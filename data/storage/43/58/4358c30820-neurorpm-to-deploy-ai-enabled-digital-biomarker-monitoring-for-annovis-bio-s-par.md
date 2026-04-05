@@ -1,0 +1,14 @@
+# NeuroRPM to Deploy AI-Enabled Digital Biomarker Monitoring for Annovis Bio's Parkinson's Disease Clinical Trial
+
+WASHINGTON, D.C., March 19, 2026 (GLOBE NEWSWIRE) -- NeuroRPM, a digital health company focused on Parkinson’s disease monitoring, today announced that its FDA-cleared wearable platform will be used for digital biomarker monitoring in Annovis Bio’s ANVS-25002 open-label Parkinson’s disease clinical trial. NeuroRPM’s platform uses the Apple Watch to passively collect and analyze movement data during daily activities, providing continuous measurement of key Parkinson’s motor symptoms.
+
+The ANVS-25002 study is expected to enroll approximately 500 participants with Parkinson’s disease across multiple clinical sites. Eligible participants may choose to take part in the NeuroRPM digital monitoring program to complement scheduled study assessments with continuous real-world symptom monitoring.
+
+Parkinson’s symptoms often fluctuate throughout the day and vary across patients, making treatment response difficult to fully characterize through periodic in-clinic assessments alone. NeuroRPM addresses this gap by continuously and objectively measuring cardinal Parkinson’s motor symptoms, including bradykinesia, tremor, and dyskinesia, in real-world settings.
+
+“Parkinson’s is experienced in everyday life, so researchers need tools that show what happens between scheduled assessments,” said Atila Omer, CEO of NeuroRPM. “Using Apple Watch to gather continuous movement data during daily life, we can translate those patterns into meaningful insights for researchers evaluating how therapies perform and affect individual patients in the real world.”
+
+NeuroRPM developed the first FDA-cleared AI-enabled medical device for continuous monitoring of Parkinson’s disease symptoms. The NeuroRPM platform uses advanced algorithms and AI-enabled analysis to detect and interpret nuanced symptom patterns from wearable sensor data, helping researchers evaluate treatment response with greater granularity over time.  
+“We are living in an era where AI has moved beyond useful to essential, and disease management stands among the most transformative opportunities for its application,” commented Maria Maccecchini, Ph.D., President and CEO of Annovis. “We are proud to partner with NeuroRPM to bring into our study the AI-powered digital biomarker for monitoring Parkinson’s symptoms, adding an important layer of evidence-based measurement of disease progression throughout the trial.”
+
+“Efforts like this are important because people living with Parkinson’s disease need better therapies and better ways to understand how those therapies work in daily life,” Omer added. “Annovis is advancing an innovative therapeutic program that could make a meaningful difference for people with Parkinson’s disease, and NeuroRPM is proud to contribute objective, AI-enabled monitoring to that work.”

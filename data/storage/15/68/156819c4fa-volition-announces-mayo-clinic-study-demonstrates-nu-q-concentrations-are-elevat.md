@@ -1,0 +1,35 @@
+Peer Reviewed Clinical Study for Nu.Q® Biomarkers Published in Shock Journal
+
+HENDERSON, Nev., March 30, 2026 /PRNewswire/ -- VolitionRx Limited (NYSE AMERICAN: VNRX) ("Volition"), a multi-national epigenetics company, announces the publication of a new clinical manuscript demonstrating that nucleosome levels, as measured by Volition's Nu.Q®H3.1 and Nu.Q®H3R8 Citrulline are elevated in people that have experienced a traumatic event and are even higher in those patients that go on to have complications from the trauma.
+
+Principal Investigator and Senior Author, Myung S. Park, Professor of Surgery, Associate Medical Director of Research, Trauma Center, Director, Clinical Research Trials Unit, Center for Clinical and Translational Science, Department of Surgery, Division of Trauma, Critical Care & General Surgery, Mayo Clinic, Rochester commented:
+
+"The identification of reliable biomarkers in trauma patients is a clinical challenge and remains an unmet need in the emergency and surgical setting.
+
+"In this study we analyzed 674 trauma patients and found that levels of the H3.1 and H3R8 Citrulline nucleosomes are elevated early after traumatic injury, especially in those who developed Venous Thromboembolism ("VTE").
+
+"These findings underscore the importance of understanding the pathophysiology of nucleosomes in inducing VTE and their role as biomarkers. These biomarkers could aid in early risk identification and may inform targeted preventive strategies in trauma care.
+
+"We have continued to work with the Volition team and look forward to publishing further findings."
+
+Dr Andrew Retter, Medical Consultant, Volition commented:
+
+"This is significant, not only for clinicians, patients and their families, but also for Volition: a peer reviewed publication with the Mayo Clinic research team strongly supports our efforts to commercialize our Nu.Q® NETs product.
+
+"This study, together with previously published evidence1-4 , demonstrates that Nu.Q® NETs may enable clinicians and researchers to anticipate disease, guide treatment decisions, and monitor patients over time, across acute and chronic conditions."
+
+About Mayo Clinic Mayo Clinic is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing.
+
+About Volition
+
+Volition is a multi-national company focused on advancing the science of epigenetics. Volition is dedicated to saving lives and improving outcomes for people and animals with life-altering diseases through earlier detection, as well as disease and treatment monitoring.
+
+Through its subsidiaries, Volition is developing and commercializing simple, easy to use, cost-effective blood tests to help detect and monitor a range of diseases, including some cancers and diseases associated with NETosis, such as sepsis. Early detection and monitoring have the potential not only to prolong the life of patients, but also to improve their quality of life.
+
+Volition's research and development activities are centered in Belgium, with an innovation laboratory and office in the U.S. and an office in London.
+
+The contents found at Volition's website address are not incorporated by reference into this document and should not be considered part of this document. Such website address is included in this document as an inactive textual reference only.
+
+Statements in this press release or associated video or link may be "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, that concern matters that involve risks and uncertainties that could cause actual results to differ materially from those anticipated or projected in the forward-looking statements. Words such as "expects," "anticipates," "intends," "plans," "aims," "targets," "believes," "seeks," "estimates," "optimizing," "potential," "goal," "suggests," "could," "would," "should," "may," "will" and similar expressions identify forward-looking statements. These forward-looking statements relate to, among other topics, Volition's expectations related to revenue opportunities and growth, the effectiveness and availability of Volition's blood-based diagnostic, prognostic and disease monitoring tests, Volition's ability to develop and successfully commercialize such test platforms for early detection of cancer and other diseases as well as serving as a diagnostic, prognostic or disease monitoring tools for such diseases, Volition's expectations regarding future publications, Volition's success in securing licensing and/or distribution agreements with third parties for its products, and Volition's expectations regarding the terms of such agreements. Volition's actual results may differ materially from those indicated in these forward-looking statements due to numerous risks and uncertainties, including, without limitation, results of studies testing the efficacy of its tests. For instance, if Volition fails to develop and commercialize diagnostic, prognostic or disease monitoring products, it may be unable to execute its plan of operations. Other risks and uncertainties include Volition's failure to obtain necessary regulatory clearances or approvals to distribute and market future products; a failure by the marketplace to accept the products in Volition's development pipeline or any other diagnostic, prognostic or disease monitoring products Volition might develop; Volition's failure to secure adequate intellectual property protection; Volition will face fierce competition and Volition's intended products may become obsolete due to the highly competitive nature of the diagnostics and disease monitoring market and its rapid technological change; downturns in domestic and foreign economies; and other risks, including those identified in Volition's most recent Annual Report on Form 10-K and Quarterly Reports on Form 10-Q, as well as other documents that Volition files with the Securities and Exchange Commission. These statements are based on current expectations, estimates and projections about Volition's business based, in part, on assumptions made by management. These statements are not guarantees of future performance and involve risks, uncertainties and assumptions that are difficult to predict. Forward-looking statements are made as of the date of this release, and, except as required by law, Volition does not undertake an obligation to update its forward-looking statements to reflect future events or circumstances.
+
+Nucleosomics™, Capture-PCR™, Capture-Seq™ and Nu.Q® and their respective logos are trademarks and/or service marks of VolitionRx Limited and its subsidiaries. All other trademarks, service marks and trade names referred to in this press release or associated video or link are the property of their respective owners. Additionally, unless otherwise specified, all references to "$" refer to the legal currency of the United States of America.

@@ -1,0 +1,13 @@
+Experienced MedTech Commercial Leader Brings More Than 20 Years of Sales Leadership to Drive Continued Growth
+
+SEATTLE, Feb. 12, 2026 /PRNewswire/ -- Magnolia Medical Technologies, Inc., the inventor of the Steripath® Initial Specimen Diversion Device® platform and the ISDD market to prevent false-positive sepsis test results, announced the appointment of Sarah Huber as Senior Vice President of Sales. Sarah will lead Magnolia Medical's U.S. sales organization, overseeing commercial strategy and execution to accelerate adoption of the Steripath® platform across hospitals and healthcare systems nationwide.
+
+Huber is a seasoned sales and commercial executive with more than two decades of leadership experience in healthcare and medical device sales. She brings deep expertise in building and scaling high-performance sales organizations, expanding market presence, and successfully launching innovative medical technologies across a wide range of clinical settings.
+
+Most recently, Huber served as Vice President of Sales at Pulmonx Corporation, where she led the U.S. sales organization and played a key role in driving revenue growth, cultivating customer relationships, and increasing adoption of advanced respiratory solutions for obstructive lung disease. Throughout her career, she has held senior sales leadership roles at leading medical technology organizations, including Boston Scientific, BTG, and Conceptus.
+
+"We are thrilled to have Sarah join our senior management team and lead the commercial organization," said Jason Richey, President and Chief Executive Officer of Magnolia Medical. "She has an impeccable record of leading dynamic and fast-growing sales organizations. She has proven her ability to generate significant value by scaling both the revenue and profitability of the organizations she's joined. Her extensive background in a solution-focused, customer first sales approach makes her an ideal fit based on our continued commitment to delight our growing base of Steripath customers."
+
+Huber's background spans disposable, implantable, and capital medical technologies, with a consistent track record of exceeding growth targets and leading cross-functional teams through periods of rapid commercialization and market expansion.
+
+"I am excited to join Magnolia Medical at such a pivotal time in the company's growth," said Huber. "Magnolia Medical's clinically proven technology is transforming the accuracy of blood culture diagnostics and improving patient care. I look forward to partnering with this talented team to deepen customer relationships, expand our commercial footprint, and help more hospitals benefit from the Steripath platform."

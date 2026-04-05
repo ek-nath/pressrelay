@@ -1,0 +1,12 @@
+BANGKOK, April 01, 2026 (GLOBE NEWSWIRE) -- NewGenIVF Group Limited (NASDAQ: NIVF) (“NewGen” or the “Company”), a technology-driven, diversified growth company, today announced that it has filed its annual report on Form 20-F for the fiscal year ended December 31, 2025, with the U.S. Securities and Exchange Commission (the “SEC”).
+
+The annual report can be accessed on the Company’s investor relations website at https://investors.newgenivf.com.
+
+About NewGenIVF Group Limited  
+NewGenIVF Group is a tech-forward, diversified, multi-jurisdictional high-growth entity capitalizing on emerging opportunities across real estate development, digital asset innovation and reproductive health solutions. The Company operates through three strategic business divisions that leverage cutting-edge technology and innovative solutions to drive sustainable growth and high ROI for shareholders across multiple global markets. These include “NewGenProperty”, which was established to explore and operate lucrative real estate development projects in the UAE’s Ras Al Khaimah Emirate; “NewGenDigital”, which serves as the Company’s digital asset and DeFi solutions arm; and “NewGenSup”, which focuses on health and longevity products and solutions. NewGen’s legacy business involves providing industry-leading IVF and assisted reproductive treatment services across Asia. With operations spanning multiple jurisdictions and a commitment to innovative, technology-enabled solutions, NewGenIVF Group is uniquely positioned to capitalize on the convergence of real estate, healthcare and digital asset opportunities in the evolving global economy.
+
+To learn more, visit www.nivf.global. The information contained on, or accessible through, NewGen’s website is not incorporated by reference into this press release, and you should not consider it a part of this press release.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements. These statements are made under the "safe harbor" provisions of the U.S. Private Securities Litigation Reform Act of 1995. These forward-looking statements can be identified by terminology such as "will," "expects," "anticipates," "future," "intends," "plans," "believes," "estimates," and similar statements. Without limiting the generality of the foregoing, forward-looking statements in this press release include but are not limited to: statements regarding the Company's business strategy, growth prospects, and operations across its real estate development, digital asset, and reproductive health divisions.

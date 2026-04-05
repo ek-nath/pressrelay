@@ -1,0 +1,15 @@
+# Aligos Therapeutics Strengthens Senior Leadership Team with the Appointment of James Hassard as Executive Vice President, Chief Commercial Officer
+
+Seasoned leader with global commercialization and marketing expertise
+
+SOUTH SAN FRANCISCO, Calif., Jan. 13, 2026 (GLOBE NEWSWIRE) -- Aligos Therapeutics, Inc. (“Aligos”, Nasdaq: ALGS), a clinical stage biopharmaceutical company focused on improving patient outcomes through best-in-class therapies for liver and viral diseases, today announced the appointment of James Hassard, MBA as Executive Vice President, Chief Commercial Officer, effective immediately. Mr. Hassard will lead and build the Company’s global commercial capabilities and serve as a member of Aligos’ Senior Leadership Team. Mr. Hassard is a seasoned executive with extensive experience building commercial organizations across multiple therapeutic areas.
+
+“As we continue to progress the Phase 2 B-SUPREME study of pevifoscorvir sodium, we have begun planning for the future and how best to bring this therapy to patients. I am excited to welcome Jim to Aligos as our Chief Commercial Officer who will spearhead our commercial readiness efforts,” said Lawrence Blatt, Ph.D., MBA, Chairman, President, and Chief Executive Officer of Aligos Therapeutics. “This is an important role for Aligos as we approach late-stage development. Bringing Jim on is another step closer to our vision of delivering better outcomes for patients in need.”
+
+“I am thrilled to join Aligos as the company progresses towards late-stage development,” stated Jim Hassard, MBA, Chief Commercial Officer at Aligos. “This is an exciting time for the chronic hepatitis B virus infection field, as next-generation therapies are closer to helping patients in need of better options. I look forward to building the necessary global commercial infrastructure to position pevifoscorvir sodium for future success.”
+
+Prior to joining Aligos, Jim was Chief Commercial Officer at Crinetics Pharmaceuticals and Arrowhead Pharmaceuticals where he built the commercial capabilities and launch strategies for more than four rare disease programs. Earlier in his career, Mr. Hassard held positions of increasing responsibility at Coherus Oncology, Amgen, and Merck, launching multiple pharmaceutical products in therapeutic areas including hepatitis, oncology, and nephrology. He has global experience in the United States, Canada and Europe, including as general manager of Amgen Portugal. Mr. Hassard earned a Bachelor of Science in Pharmacology from the University of Toronto, followed by a Master’s in Business Administration from Nova Southeastern University.
+
+About Aligos
+
+Aligos Therapeutics, Inc. (NASDAQ: ALGS) is a clinical stage biotechnology company founded with the mission to improve patient outcomes by developing best-in-class therapies for the treatment of liver and viral diseases. Aligos applies its science driven approach and deep R&D expertise to advance its purpose-built pipeline of therapeutics for high unmet medical needs such as chronic hepatitis B virus (HBV) infection, obesity, metabolic dysfunction-associated steatohepatitis (MASH), and coronaviruses.

@@ -1,0 +1,41 @@
+New lifecycle-wide audit platform provides complete data coverage, advanced diagnostics, and rapid turnaround, supporting investors, operators, insurers and lenders across commissioning, underperformance, warranty expiry, and asset transactions
+
+TEL AVIV, Israel, Jan. 05, 2026 (GLOBE NEWSWIRE) -- PainReform Ltd. (Nasdaq: PRFX) today announced that its DeepSolar business unit has launched Smart TDD, an advanced solar Technical Due Diligence (“TDD”) service designed to provide faster, more accurate, and more comprehensive assessments of solar asset performance and risk. The newly enhanced service expands DeepSolar’s audit capabilities to support independent power producers (IPPs), infrastructure funds, operators, lenders, and insurers at every major lifecycle milestone of a solar asset.
+
+Solar continues to experience historic global growth, with more than $500 billion invested in 2024 and over $60 billion in solar assets changing hands annually. At the same time, tens of gigawatts of capacity are reaching warranty expiration or showing mid-life underperformance—driving urgent demand for reliable, data-driven technical assessments. Yet most traditional TDD processes still rely on partial sampling, manual inspections, and over-simplified models that often miss underlying problems, extend deal cycles, and increase financial risk.
+
+“Solar energy production technical due diligence today is often superficial, incomplete, and slow,” said Ehud Geller, Chairman of PainReform. “With Smart TDD, we believe that DeepSolar is offering the market something fundamentally different: a fast, independent, full-picture audit so investors and owners can truly understand what they are acquiring, operating, or insuring—and unlock more value.”
+
+Smart TDD is engineered to address the longstanding shortcomings of conventional TDD by combining four key elements:
+
+Complete data coverage: auditing 100% of components and operational history, not just sampling at one time point
+
+Advanced diagnostics: fusing AI-driven analytics with physics-based modeling and expert engineering review
+
+Actionable output: clearly prioritized findings organized by financial impact and severity
+
+Fast turnaround: preliminary results delivered within days of data upload, reducing deal friction
+
+With these capabilities, Smart TDD supports all major checkpoints in a solar plant’s life:
+
+Commissioning: verify build quality and confirm compliance with acceptance criteria
+
+Warranty expiry: identify hidden defects and potential claims before constructor coverage ends
+
+Underperformance: diagnose and address the sources of revenue loss
+
+Asset acquisition: provide buyers and financiers with a clear, detailed, fast, and independent picture of asset condition
+
+“The growth of solar as the world’s leading source of new energy capacity has created a massive secondary market and lifecycle maintenance challenge,” Geller added. “DeepSolar’s Smart TDD is built with the goal of meeting that need with a level of completeness, accuracy, and speed that the market has not seen before.”
+
+The launch of Smart TDD reinforces DeepSolar’s role as a trusted analytics partner for the global solar sector. As aging assets face increasing performance issues and M&A activity continues to accelerate, the demand for high-quality technical due diligence services is expected to rise sharply, and DeepSolar’s enhanced platform is designed to deliver at scale.
+
+DeepSolar develops advanced digital-asset-management technologies for utility-scale solar plants. Its AI-driven algorithms transform complex operational data into actionable insights detecting issues, forecasting production, and improving decision-making to maximize asset performance and profitability. DeepSolar is an active participant in the NVIDIA Connect program (#NVIDIAConnect), supporting continued innovation in AI-powered renewable-energy solutions.
+
+About PainReform
+
+PainReform Ltd. (Nasdaq: PRFX) is a company focused on the reformulation of established therapeutics, and a developer of AI-driven energy optimization technologies through its DeepSolar platform. The Company’s pharmaceutical programs leverage a proprietary extended-release drug-delivery system intended to provide prolonged post-surgical pain relief while minimizing the need for repeated dosing and reducing reliance on opioids. Through DeepSolar, PainReform also delivers advanced software solutions that enable both consumers and enterprises to monitor, forecast, and optimize energy consumption—particularly in solar-integrated environments. This dual business model reflects PainReform’s strategic commitment to applying precision technology across high-impact sectors including healthcare and sustainable energy. For more information, please visit www.painreform.com.
+
+Notice Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements about PainReform’s expectations, beliefs and intentions including with respect to the ability of Smart TDD to support all major checkpoints in a solar plant’s life. Forward-looking statements can be identified by the use of forward-looking words such as “believe”, “expect”, “intend”, “plan”, “may”, “should”, “could”, “might”, “seek”, “target”, “will”, “project”, “forecast”, “continue” or “anticipate” or their negatives or variations of these words or other comparable words or by the fact that these statements do not relate strictly to historical matters. These forward-looking statements are based on assumptions and assessments made in light of management’s experience and perception of historical trends, current conditions, expected future developments and other factors believed to be appropriate. Forward-looking statements in this press release are made as of the date of this press release, and we undertake no duty to update or revise any such statements, whether as a result of new information, future events or otherwise. Forward-looking statements are not guarantees of future performance and are subject to risks and uncertainties, many of which are outside of our control. Many factors could cause our actual activities or results to differ materially from the activities and results anticipated in forward- looking statements, including, but not limited to, the following: our ability to continue as a going concern, our history of significant losses, our need to raise additional capital and our ability to obtain additional capital on acceptable terms, or at all; our dependence on the success of our initial product candidate, PRF-110 OcuRing™-K, LayerBio Inc.’s lead product candidate, and the commercialization of the DeepSolar solution; the outcomes of preclinical studies, clinical trials and other research regarding PRF-110, OcuRing™-K and future product candidates; our limited experience managing clinical trials; our ability to retain key personnel and recruit additional employees; our reliance on third parties for the conduct of clinical trials, product manufacturing and development; the impact of competition and new technologies; our ability to comply with regulatory requirements relating to the development and marketing of our product candidates; our ability to establish and maintain strategic partnerships and other corporate collaborations; the implementation of our business model and strategic plans for our business and product candidates; the scope of protection we are able to establish and maintain for intellectual property rights and our ability to operate our business without infringing the intellectual property rights of others; the overall global economic environment; our ability to develop an active trading market for our ordinary shares and whether the market price of our ordinary shares is volatile; our ability to maintain our listing on the Nasdaq Capital Market; and statements as to the impact of the political and security situation in Israel on our business. More detailed information about the risks and uncertainties affecting us is contained under the heading “Risk Factors” included in the Company’s most recent Annual Report on Form 20-F and in other filings that we have made and may make with the Securities and Exchange Commission in the future.

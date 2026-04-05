@@ -1,0 +1,13 @@
+Increased adoption of clinical whole-genome sequencing is advancing diagnostics for rare diseases, which affect 15 million American children
+
+SAN DIEGO, Feb. 27, 2026 /PRNewswire/ -- Illumina, Inc. (NASDAQ: ILMN) today announced that Illumina Laboratory Services, Illumina's CLIA-certified laboratory, is providing clinical sequencing and interpretation services to the new Diagnostic Lab at Florida Institute for Pediatric Rare Diseases (IPRD) at Florida State University (FSU) College of Medicine, further driving innovation in diagnostics and treatments for rare diseases.
+
+"An estimated 30 million people across the country are living with a rare disease today and clinical whole-genome testing provides a transformative opportunity to end the diagnostic odyssey for patients," said Eric Green, MD, PhD, chief medical officer of Illumina. "Our colleagues at IPRD will now be equipped to break diagnostic barriers, and we are proud to help them accelerate making life-saving discoveries."
+
+Diagnosing rare genetic diseases is challenging—advanced genomic sequencing and interpretation are crucial for uncovering novel mutations that can be hidden in deep parts of the genome. Furthermore, results must be reliable and actionable for clinicians who are often presented with diseases they have never encountered previously. Illumina's goal is to equip more labs with the solutions and tools they need to diagnose rare diseases more consistently and help reduce the time it takes to transition from diagnosis to clinical management.
+
+"I've been running Illumina sequencers for over 10 years, but it's a new ball game when you're talking about clinical samples," said Cynthia Vied, PhD, scientific director, IPRD Diagnostic Lab at FSU College of Medicine. "We have learned how to do things much differently in the clinical lab compared to my work in the research facility, and I think it has helped both sides."
+
+"Now, all the work we do means we can impact a patient—a child—and a family going through a challenging health situation," continued Vied. "We can help them understand and hopefully help the physicians provide a treatment based on the diagnoses that we're going to provide from the lab. That, to me, is extraordinary."
+
+Building on a long-standing relationship between Illumina and FSU College of Medicine, the IPRD Diagnostic Lab utilized services from the Illumina Customer Success and Implementation team for workflow enablement. Illumina Laboratory Services enabled the IPRD Diagnostic Lab to rapidly initiate their clinical diagnostic testing through clinical genome sequencing and interpretation services.

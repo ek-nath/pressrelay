@@ -1,0 +1,14 @@
+# TuHURA Biosciences received FDA Orphan Drug Designation for IFx-2.0 for the Treatment of Stage IIB to Stage IV Cutaneous Melanoma
+
+TAMPA, Fla., Feb. 2, 2026 /PRNewswire/ -- TuHURA Biosciences, Inc. (NASDAQ:HURA) ("TuHURA" or the "Company"), a Phase 3 immuno-oncology company developing novel therapeutics to overcome resistance to cancer immunotherapy, today announced that the U.S Food and Drug Administration's (FDA) Office of Orphan Products Development has granted Orphan Drug Designation (ODD) to IFx-2.0 for the treatment of stage IIB to stage IV cutaneous melanoma.
+
+The ODD designation was based on data from the Company's previously completed Phase 1 study of IFx-2.0, results of which were published in the journal Molecular Therapeutics and entitled: "First-in-Human Stage II/IV Melanoma Clinical Trial of Immune Priming Agent IFx-Hu2.0," authored by Dr. Joseph Markowitz, Department of Cutaneous Oncology, H. Lee Moffitt Cancer Center and Research Institute. The study demonstrated IFx-Hu2.0 to be safe with no serious dose limiting toxicities in addition to demonstrating that patients refractory to checkpoint inhibitor therapy (anti-PD1) experienced clinical benefit upon subsequent anti-PD1 based treatment.
+
+Dr. James Bianco, President and Chief Executive Officer of TuHURA Biosciences, said, "Our current focus with IFx-2.0 is targeting completion of enrollment in our Phase 3 study of IFx-2.0 in combination with Keytruda® for the first-line treatment of advanced or metastatic Merkel Cell Carcinoma. We believe receiving ODD in advanced cutaneous melanoma demonstrates not only the significant need for new treatments in skin cancer but also highlights IFx-2.0 as a potential new therapeutic approach in this patient population."
+
+Orphan drug designation provides seven years of market exclusivity benefits, increased engagement and assistance from the FDA, tax credits for certain research, research grants and a waiver of the New Drug Application user fee. The FDA's Office of Orphan Products Development grants orphan status to drugs intended for the safe and effective treatment, diagnosis or prevention of rare diseases or conditions affecting fewer than 200,000 individuals in the United States.
+
+About TuHURA Biosciences, Inc.  
+TuHURA Biosciences, Inc. (Nasdaq: HURA) is a Phase 3 immuno-oncology company developing novel technologies to overcome primary and acquired resistance to cancer immunotherapy, two of the most common reasons cancer immunotherapies fail to work or stop working in the majority of patients with cancer.
+
+TuHURA's lead innate immune agonist, IFx-2.0, is designed to overcome primary resistance to checkpoint inhibitors. TuHURA has initiated a single randomized placebo-controlled Phase 3 registration trial of IFx-2.0 administered as an adjunctive therapy to Keytruda® (pembrolizumab) compared to Keytruda® plus placebo in first-line treatment for advanced or metastatic Merkel Cell Carcinoma.

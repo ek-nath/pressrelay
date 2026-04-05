@@ -1,0 +1,15 @@
+NEW YORK and HERZLIYA, Israel, March 03, 2026 (GLOBE NEWSWIRE) -- InterCure Ltd. (Nasdaq: INCR) (TASE: INCR) (“InterCure” or the “Company”) today announced that on February 25, 2026 the Company received a written notice (the “Notice”) from the Nasdaq Stock Market LLC indicating that the Company was not in compliance with Nasdaq Listing Rule 5450(a)(2), as the Company’s closing bid price for its ordinary shares, or Ordinary Shares, was below $1.00 per share for the last 30 consecutive business days.
+
+Pursuant to Nasdaq Listing Rule 5810(c)(3)(A), the Company has been granted a 180-calendar day compliance period, or until August 24, 2026, to regain compliance with the minimum bid price requirement. To regain compliance, the closing bid price of the Ordinary Shares must meet or exceed $1.00 per share for at least 10 consecutive business days during the 180-calendar day compliance period.
+
+If the Company is not in compliance by August 24, 2026, the Company expects to be eligible for an additional 180-calendar day compliance period. To qualify for this additional time, the Company will be required to submit a transfer application and meet the continued listing requirement for market value of publicly held shares and all other initial listing standards for the Nasdaq Capital Market, with the exception of the minimum bid price requirement, and to provide written notice of its intention to cure the deficiency during such period.
+
+The Company currently intends monitor the closing price of its Ordinary Shares and to consider effecting a reverse share split, subject to obtaining all required corporate and regulatory approvals, as part of its plan to regain compliance with the minimum bid price requirement, and believes that this measure, together with its ongoing business and strategic initiatives, will support the restoration of compliance within the applicable timeframe. The Company’s Ordinary Shares will continue to be listed and trade on the Nasdaq Global Market during this period, and are unaffected by the receipt of the written notice from Nasdaq.
+
+If the Company does not regain compliance within the allotted compliance period(s), including any extensions that may be granted by Nasdaq, Nasdaq will provide notice that the Company’s Ordinary Shares will be subject to delisting.
+
+This announcement is made in compliance with Nasdaq Listing Rule 5810(b), which requires prompt disclosure of receipt of a deficiency notification.
+
+About InterCure (dba Canndoc)
+
+InterCure (dba Canndoc) (Nasdaq: INCR) (TASE: INCR) is the leading, profitable, and one of the fastest growing cannabis companies outside of North America. Canndoc, a wholly owned subsidiary of InterCure, is Israel’s largest licensed cannabis producer and one of the first to offer Good Manufacturing Practices (GMP) certified and pharmaceutical-grade medical cannabis products. InterCure leverages its market leading distribution network, best in class international partnerships and a high-margin vertically integrated “seed-to-sale” model to lead the fastest growing cannabis global market outside of North America.

@@ -1,0 +1,17 @@
+# Teva to Host Conference Call to Discuss First Quarter 2026 Financial Results at 8 a.m. ET on April 29, 2026
+
+TEL AVIV, Israel and PARSIPPANY, N.J., March 19, 2026 (GLOBE NEWSWIRE) -- Teva Pharmaceutical Industries Ltd. (NYSE and TASE: TEVA) announced today that it will issue a press release on its first quarter 2026 financial results on Wednesday, April 29, 2026, at 7:00 a.m. ET. Following the release, Teva will conduct a conference call and live webcast on the same day, at 8:00 a.m. ET.
+
+In order to participate, please register in advance here to obtain a local or toll-free phone number and your personal pin.
+
+A live webcast of the call will be available on Teva's website at: https://ir.tevapharm.com/Events-and-Presentations.
+
+Following the conclusion of the call, a replay of the webcast will be available within 24 hours on Teva's website.
+
+About Teva
+
+Teva Pharmaceutical Industries Ltd. (NYSE and TASE: TEVA) is transforming into a leading innovative biopharmaceutical company, enabled by a world-class generics business. For over 120 years, Teva’s commitment to bettering health has never wavered. From innovating in the fields of neuroscience and immunology to providing complex generic medicines, biosimilars and pharmacy brands worldwide, Teva is dedicated to addressing patients’ needs, now and in the future. At Teva, We Are All In For Better Health. To learn more about how, visit www.tevapharm.com.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Document and the presentation at the conferences may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, which are based on management’s current beliefs and expectations and are subject to substantial risks and uncertainties, both known and unknown, that could cause our future results, performance or achievements to differ significantly from that expressed or implied by such forward-looking statements. You can identify these forward-looking statements by the use of words such as “should,” “expect,” “anticipate,” “estimate,” “target,” “may,” “project,” “guidance,” “intend,” “plan,” “believe” and other words and terms of similar meaning and expression in connection with any discussion of future operating or financial performance. Important factors that could cause or contribute to such differences include risks relating to: our ability to successfully compete in the marketplace; our ability to successfully execute our Pivot to Growth strategy, including to expand our innovative and biosimilar medicines pipeline and profitably commercialize the innovative medicines and biosimilar portfolio, whether organically or through business development, to sustain and focus our portfolio of generic medicines, and to execute on our organizational transformation and to achieve expected cost savings; our significant indebtedness; our business and operations in general; compliance, regulatory and litigation matters; other financial and economic risks; and other factors discussed in our Annual Report on Form 10-K for the year ended December 31, 2025, including in the section captioned “Risk Factors” and “Forward Looking Statements.” Forward-looking statements speak only as of the date on which they are made, and we assume no obligation to update or revise any forward-looking statements or other information contained herein, whether as a result of new information, future events or otherwise. You are cautioned not to put undue reliance on these forward-looking statements.

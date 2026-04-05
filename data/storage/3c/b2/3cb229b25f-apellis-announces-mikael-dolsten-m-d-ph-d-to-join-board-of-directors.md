@@ -1,0 +1,14 @@
+WALTHAM, Mass., March 02, 2026 (GLOBE NEWSWIRE) -- Apellis Pharmaceuticals, Inc. (Nasdaq: APLS) announced today that Mikael Dolsten, M.D., Ph.D., has joined the company’s board of directors as of March 1. Most recently, Dr. Dolsten served for more than 16 years as chief scientific officer and president, worldwide research, development and medical, at Pfizer, during which he presided over the regulatory approval of more than 36 medicines and vaccines.
+
+“We are thrilled to welcome Mikael to the Apellis Board of Directors,” said Cedric Francois, M.D., Ph.D., chief executive officer and co-founder, Apellis. “Mikael is a proven industry leader with deep experience developing innovative medicines. His strategic insight and expertise will be a valuable asset as we continue to advance our robust complement pipeline.”
+
+Dr. Dolsten brings extensive pharmaceutical research and development experience to the Apellis Board. Prior to Pfizer, Dr. Dolsten held senior research and leadership positions at Wyeth Pharmaceuticals, Boehringer Ingelheim, AstraZeneca, Pharmacia, and Upjohn.
+
+He currently serves on the boards of directors of public companies Agilent Technologies, Inc., and Rocket Pharmaceuticals. He is chairman or board director of several private companies including Orbis Medicines, Orogen Therapeutics, Quarry Thera, ChAi Discovery, Enveda Bio and Arbor Biotechnologies. Dr. Dolsten is also a senior advisor for financially oriented business groups such as Blackstone, GV (Google Ventures), Bain & Company, Sutter Hill Ventures, Canaan Partners and Formation Bio.
+
+“Apellis has established itself as the leading complement company, and I am excited to join its Board of Directors,” said Dr. Dolsten. “Complement therapies have tremendous potential to help patients across a wide range of serious conditions, and I look forward to bringing my R&D and broad global biopharmaceutical experience to help advance Apellis’ highly innovative pipeline.”
+
+Dr. Dolsten has published approximately 160 scientific articles and book reviews. He earned his M.D. and Ph.D. from Lund University in Sweden, where he also served as an adjunct professor.
+
+About Apellis  
+Apellis Pharmaceuticals, Inc. is a global biopharmaceutical company leading the way in complement science to develop life-changing therapies for some of the most challenging diseases patients face. We ushered in the first new class of complement medicine in 15 years and now have two C3-targeting medicines approved to treat four serious diseases. Breakthroughs for patients include the first-ever therapy for geographic atrophy, a leading cause of blindness, and the first treatment for patients 12 and older with C3G or primary IC-MPGN, two severe, rare kidney diseases. We believe we have only begun to unlock the potential of targeting C3 across many serious diseases. For more information, please visit http://apellis.com or follow us on LinkedIn and X.

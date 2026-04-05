@@ -1,0 +1,15 @@
+# Emergent BioSolutions Announces $100 Million Paydown of Term Loan Principal, a Significant Step Achieved Toward its Multi-year Transformation
+
+GAITHERSBURG, Md., Jan. 12, 2026 (GLOBE NEWSWIRE) -- Today Emergent BioSolutions, Inc. (NYSE: EBS) announced it made a voluntary prepayment of $100 million under its outstanding term loan facility in late December 2025 using cash on hand.
+
+“This significant milestone reflects strong progress in improving our overall financial/cash position, enhancing our financial flexibility and positioning Emergent for long-term stability and growth,” stated Joe Papa, president and CEO of Emergent. “We continue to maintain a strong cash position for future strategic initiatives that are aligned with our mission, drive our turnaround plan and ultimately help deliver on our transformation efforts in 2026 and beyond.”
+
+Since 2023, and now with this prepayment in effect, Emergent’s gross debt has been reduced by $275 million, to a total of $593 million (pro forma as of September 30, 2025). This represents a 32 percent decline in total debt since Emergent has undertaken its multi-year transformation plan.
+
+For more information, join Emergent’s presentation during the 44th Annual J.P. Morgan Healthcare Conference on January 14, 2026 at 5:15pm PST.
+
+About Emergent BioSolutions  
+At Emergent, our mission is to protect and save lives. For over 25 years, we have prepared those entrusted with protecting public health. We deliver protective and life-saving solutions for health threats like smallpox, mpox, botulism, Ebola, anthrax and opioid overdose emergencies. To learn more about how we help prepare communities around the world for today’s health challenges and tomorrow’s threats, visit our website and follow us on LinkedIn, X, Instagram, Apple Podcasts and Spotify.
+
+Safe Harbor Statement  
+This communication includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. We generally identify forward-looking statements by using words like “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “forecast,” “future,” “goal,” “intend,” “may,” “plan,” “position,” “possible,” “potential,” “predict,” “project,” “should,” “target,” “will,” “would,” and similar expressions or variations thereof, or the negative thereof, but these terms are not the exclusive means of identifying such statements. Forward-looking statements are based on our current intentions, beliefs and expectations regarding future events based on information that is currently available. We cannot guarantee that any forward-looking statement will be accurate. Readers should realize that if underlying assumptions prove inaccurate or unknown risks or uncertainties materialize, actual results could differ materially from our expectations. Readers are, therefore, cautioned not to place undue reliance on any forward-looking statements. Any forward-looking statement speaks only as of the date of this communication and, except as required by law, we do not undertake any obligation to update any forward-looking statement to reflect new information, events or circumstances.

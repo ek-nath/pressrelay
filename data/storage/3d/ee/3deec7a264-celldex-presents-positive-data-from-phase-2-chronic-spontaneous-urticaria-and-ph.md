@@ -1,0 +1,65 @@
+This is a paid press release. Contact the press release distributor directly with any inquiries.
+
+Celldex Presents Positive Data from Phase 2 Chronic Spontaneous Urticaria and Phase 2 Cold Urticaria and Symptomatic Dermographism Studies Demonstrating Rapid, Profound and Durable Improvements in Patient Quality of Life at AAD 2026
+
+- Improvements seen across all six DLQI Domains indicating broad, beneficial impact on quality of life - - Data further demonstrates first-in-class and best-in-disease barzolvolimab profile -
+
+HAMPTON, N.J., March 27, 2026 (GLOBE NEWSWIRE) -- Celldex (NASDAQ:CLDX) presented additional positive data from the completed Phase 2 clinical trials of barzolvolimab in chronic spontaneous urticaria (CSU) and cold urticaria (ColdU) and symptomatic dermographism (SD) demonstrating profound improvements in patient quality of life (QoL) across all measured domains: symptoms and feelings, daily activities, leisure, work and school, personal relationships and treatment. Barzolvolimab is a humanized monoclonal antibody with a completely novel mechanism of action that uniquely targets the root cause of CSU, ColdU and SD—the mast cell. The data were presented at the 2026 Americal Academy of Dermatology (AAD) Annual Meeting being held March 27 – 31, 2026 in Denver, CO.
+
+“Chronic urticarias are devastating diseases of misery that cause immense physical and psychological suffering for patients across all aspects of their daily lives,” said Diane Young, MD, Senior Vice President and Chief Medical Officer of Celldex. “Patients are either directly dealing with intensely itchy, painful burning hives and swelling associated with angioedema or living in fear of their next outbreak. These diseases take an incredible toll on patient quality of life and, sadly, but not surprisingly, recent literature1 shows increased mortality for individuals with CSU as well as increased suicidal ideations and suicide attempts. We are gratified to see barzolvolimab’s profound clinical efficacy also translate to dramatic improvements in patient quality of life—offering new hope for patients and their physicians and supporting barzolvolimab’s profile as a best-in-class, best-in-disease potential treatment option for chronic urticarias.”
+
+Summary of Presentations:
+
+Posters are available on the Celldex website. The Dermatology Life Quality Index2 (DLQI) measures impact of skin disease on quality of life, with a score of 0/1 indicating no effect of the disease on a patient’s life.
+
+Prolonged and Enhanced Quality of Life in Patients with Chronic Spontaneous Urticaria Treated with Barzolvolimab, M. Metz, et al
+
+As previously reported in the Phase 2 CSU study, up to 51% of patients on study experienced symptom free complete response (UAS7=0; no itch/no hives) at 12 weeks, which continued to deepen over 52 weeks of active therapy to up to 71% of patients. This profound clinical benefit continued even after patients were off therapy—up to 41% of patients reported complete response seven months after receiving their last dose of barzolvolimab.
+
+In the post hoc analysis presented at AAD, the impact of disease on QoL for the subset of patients who received 52 weeks of barzolvolimab therapy (150 mg Q4W or 300 mg Q8W) and completed treatment with at least well controlled disease (UAS7<6) at Week 52 and had DLQI data through Week 76 was explored. The vast majority of patients included in this analysis had substantial disease burden at baseline (68% had both severe disease and angioedema) and patients had CSU for a long time (6 years, mean). Patients reported that their CSU had a very large negative impact on their QoL (DLQI mean baseline score of 15.6).
+
+At Week 52, 94% of patients with well controlled disease at Week 52 also had a DLQI of 0/1, indicating their disease had no impact on their QoL .
+
+Barzolvolimab treatment led to prolonged, off-treatment enhanced QoL seven months after the last dose of barzolvolimab.
+
+At baseline, patients reported their CSU significantly impacted their QoL across all 6 DLQI domains (symptoms and feelings, daily activities, leisure, work and school, personal relationships, and treatment). Profound improvements were observed across all 6 domains at both Weeks 52 and 76.
+
+76% of patients with well controlled disease at Week 52 also reported that the disease had small to no impact (DLQI score ≤ 5) on their QoL at Week 76.
+
+The majority of patients with well controlled disease at Week 52 achieved DLQI domain scores of 0/1 (no impact on QoL) at Week 76.
+
+This sustained off-treatment improvement in QoL was observed despite barzolvolimab clearance and normalization of tryptase (a measure of mast cell burden), suggesting disease modification and supports barzolvolimab’s significant potential to become a transformative treatment option for patients suffering from CSU.
+
+Treatment with Barzolvolimab Improves DLQI Scores in All Domains in Patients with Chronic Inducible Urticaria,M. Metz, et al
+
+As previously reported in the Phase 2 ColdU and SD study, up to 53% of patients with ColdU and 58% with SD achieved complete response (negative provocation test) at Week 12 (primary endpoint analysis) and up to 66% of patients with ColdU and 49% with SD achieved complete response at Week 20.
+
+Barzolvolimab treatment improved the QoL of patients with ColdU and SD throughout the 20-week treatment period.
+
+Mean DLQI improved from a very large effect of disease on QoL at baseline to a small effect of disease on QoL at Week 20.
+
+Benefits on QoL were rapid and apparent by the first DLQI measurement at Week 4 (300 mg Q8W).
+
+Barzolvolimab treatment increased the rate of achieving no impact of disease on QoL (DLQI of 0/1) at Week 20 by up to 3.1-fold in patients with ColdU and 4.0-fold in patients with SD vs placebo.
+
+Barzolvolimab treatment resulted in improvements across all six DLQI domains, indicating broad, beneficial effects on QoL.
+
+References: 1Kolkhir P, Bieber K, Hawro T, et al. Mortality in adult patients with chronic spontaneous urticaria: A real-world cohort study. Journal of Allergy and Clinical Immunology, 2024; 155:1290-1298. 2Dermatology Life Quality Index (DLQI) consists of ten questions (on a scale of 0–3, total 0–30) used to measure the impact of skin disease on patient quality of life related to symptoms and feelings, daily activities, leisure, work and school, personal relationships, and treatment. DLQI 0–1 indicates no effect on a patient’s life.
+
+About Chronic Spontaneous Urticaria (CSU) CSU is an underdiagnosed disease of misery marked by spontaneous hives, unbearable itch, and unpredictable episodes of disfiguring swelling (angioedema) that causes substantial mental health burden, profound impact on quality of life and is associated with a 1.7-fold increase in all cause mortality at 5 years. Mast cell activation plays a central role in the onset and progression of CSU. While the goal of CSU treatment is the complete absence of symptoms, the vast majority of patients today, even those receiving the most advanced approved and available therapies, continue to suffer from itch, hives, swelling, sleep disruption, and unrelenting anxiety about when the next flare up will occur.
+
+In February, Celldex announced the completion of enrollment in the Company’s global Phase 3 program in CSU. The Program, which fully accrued six months ahead of guidance, consists of two trials—EMBARQ-CSU1 and EMBARQ-CSU2. 1,939 patients were enrolled—the largest program conducted in antihistamine refractory CSU, including patients with advanced therapy experienced/refractory CSU. The studies included 43 countries and over 500 sites. Topline data from the studies are expected in the fourth quarter of 2026.
+
+About Chronic Inducible Urticaria (CIndU), Cold Urticaria (ColdU), Symptomatic Dermographism (SD) CIndU is characterized by the occurrence of hives or wheals that have an attributable trigger associated with them. ColdU symptoms include itching, burning wheals/hives and angioedema when skin is exposed to cold temperatures. SD symptoms include the development of wheals in response to stroking, scratching or rubbing of the skin. For these diseases, mast cell activation leading to release of soluble mediators is thought to be the driving mechanism leading to the wheals and other symptoms. There are currently no approved therapies for chronic inducible urticarias other than antihistamines and patients attempt to manage symptoms associated with their disease through avoidance of triggers.
+
+In December 2025, Celldex initiated a global Phase 3 study in cold urticaria (ColdU) and symptomatic dermographism (SD), EMBARQ-ColdU and -SD, and enrollment is ongoing.
+
+About Barzolvolimab Barzolvolimab is a humanized monoclonal antibody with a completely novel mechanism of action that targets mast cells by binding with high specificity to a unique part of the KIT receptor and potently inhibiting its activity. The KIT receptor is abundantly expressed by mast cells and critical for their function and survival. Mast cells are drivers of inflammatory responses such as hypersensitivity and allergic reactions and, in certain inflammatory diseases, such as chronic urticarias, mast cell activation plays a central role in the onset and progression of the disease. Based on data from robust, randomized, placebo controlled Phase 2 studies, barzolvolimab has significant potential as a first-in-class and best-in-disease treatment option for patients with chronic spontaneous urticaria (CSU), cold urticaria (ColdU) and symptomatic dermographism (SD). Barzolvolimab is currently being studied in Phase 3 studies in CSU and ColdU/SD and Phase 2 studies in prurigo nodularis (PN) and atopic dermatitis (AD), with additional indications planned for the future.
+
+About Celldex Celldex is pioneering new horizons in immunology to deliver life-changing therapies. We are relentless in our pursuit of novel antibody-based treatments that engage the human immune system and directly affect critical pathways to improve the lives of patients with allergic, inflammatory and autoimmune disorders. Visit www.celldex.com.
+
+Forward Looking Statement This release contains "forward-looking statements" made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These statements are typically preceded by words such as "believes," "expects," "anticipates," "intends," "will," "may," "should," or similar expressions. These forward-looking statements reflect management's current knowledge, assumptions, judgment and expectations regarding future performance or events. Although management believes that the expectations reflected in such statements are reasonable, they give no assurance that such expectations will prove to be correct or that those goals will be achieved, and you should be aware that actual results could differ materially from those contained in the forward-looking statements. Forward-looking statements are subject to a number of risks and uncertainties, including, but not limited to, our ability to successfully complete research and further development and commercialization of Company drug candidates, including barzolvolimab (also referred to as CDX-0159) and CDX-622, in current or future indications; the uncertainties inherent in clinical testing and accruing patients for clinical trials; our limited experience in bringing programs through Phase 3 clinical trials; our ability to manage and successfully complete multiple clinical trials and the research and development efforts for our multiple products at varying stages of development; the availability, cost, delivery and quality of clinical materials produced by our own manufacturing facility or supplied by contract manufacturers, who may be our sole source of supply; the timing, cost and uncertainty of obtaining regulatory approvals; the failure of the market for the Company's programs to continue to develop; our ability to protect the Company's intellectual property; the loss of any executive officers or key personnel or consultants; competition; changes in the regulatory landscape or the imposition of regulations that affect the Company's products; our ability to continue to obtain capital to meet our long-term liquidity needs on acceptable terms, or at all, including the additional capital which will be necessary to complete the clinical trials that we have initiated or plan to initiate; and other factors listed under "Risk Factors" in our annual report on Form 10-K and quarterly reports on Form 10-Q.
+
+All forward-looking statements are expressly qualified in their entirety by this cautionary notice. You are cautioned not to place undue reliance on any forward-looking statements, which speak only as of the date of this release. We have no obligation, and expressly disclaim any obligation, to update, revise or correct any of the forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Company Contact Sarah Cavanaugh Senior Vice President, Corporate Affairs & Administration (508) 864-8337 scavanaugh@celldex.com

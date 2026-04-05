@@ -1,0 +1,14 @@
+NEWTON, Mass., Feb. 4, 2026 /PRNewswire/ -- Lumicell, Inc., a leader in developing innovative fluorescence-guided imaging technologies for cancer detection, today announced the appointment of Cheryl R. Blanchard, Ph.D., to its Board of Directors. Dr. Blanchard is an accomplished biotech and medtech CEO and board member with more than 30 years of experience building, scaling, and transforming public and private life sciences companies.
+
+Dr. Blanchard most recently served as President, CEO, and Director of Anika Therapeutics (NASDAQ: ANIK), where she led the successful implementation of a high-growth commercial strategy. During her tenure, Anika divested non-core assets, commercialized innovative regenerative orthopedic and osteoarthritis pain products, delivered double-digit commercial channel growth, and advanced multiple programs through U.S. clinical and regulatory pathways. Dr. Blanchard will remain on the Anika Board as Executive Chair.
+
+Her prior leadership roles include serving as CEO of Microchips Biotech and as Senior Vice President & Chief Scientific Officer of Zimmer.
+
+"Cheryl brings a rare combination of scientific depth, operational rigor, commercial leadership, and board experience—paired with a proven track record of transforming organizations and launching category-defining products," said Andrey J. Zarur, Ph.D., Co-Founder & Chairman of the Board of Directors of Lumicell. "Her strategic acumen and her commitment to patient-focused innovation will be tremendously valuable as Lumicell continues our mission to bring LumiSystem™ to more surgeons and patients."
+
+Dr. Blanchard is a seasoned board director with service across public, private, and private-equity-backed companies, including Vigil Neuroscience, Daré Bioscience, SeaSpine Holdings, Neuronetics, CeramTec, ISTO Technologies, and the Massachusetts Biotechnology Council. She is widely recognized as an industry leader and is a member of the National Academy of Engineering, and a Fellow of the American Institute for Medical and Biological Engineering.
+
+"Lumicell's technology has the potential to meaningfully elevate standards of care in cancer surgery," said Dr. Blanchard. "I'm honored to join the Board at this pivotal time and look forward to working with the team to support the company's next phase of growth and scale impact."
+
+About Lumicell  
+Lumicell is a privately held life sciences company revolutionizing the intraoperative detection of cancer with its real-time fluorescence imaging technology. Lumicell's proprietary technology is FDA-approved for use in the treatment of breast cancer and is also being explored for further development across a wide variety of solid tumor indications. For more information, please visit www.Lumicell.com and www.Lumisystem.com. Follow the company on Facebook, X, and LinkedIn.

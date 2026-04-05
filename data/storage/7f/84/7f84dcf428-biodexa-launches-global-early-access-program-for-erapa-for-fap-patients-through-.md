@@ -1,0 +1,41 @@
+Biodexa Launches Global Early Access Program for eRapa for FAP Patients Through Strategic Partnership with Tanner Pharma Group
+
+Biodexa Pharmaceuticals PLC (Nasdaq: BDRX), a clinical stage biopharmaceutical company developing innovative products focused on the treatment or prevention of gastrointestinal cancers is pleased to announce that it has entered into a strategic partnership with Tanner Pharma Group to make eRapa available for Familial Adenomatous Polyposis (FAP) patients via an Early Access Program and Named Patient prescribing. This initiative gives clinicians who treat FAP patients the opportunity to prescribe this investigational medicine outside of a clinical trial for the first time.
+
+The program will be open to clinicians globally, for appropriate patients and subject to local legislation and the availability of government or private funding. As part of this initiative and underscoring its long-term commitment to the therapy area, Biodexa will also be generating Real World Data to further expand the understanding of the issues faced by FAP patients in their daily lives.
+
+Commenting, Stephen Stamp, Chief Executive Officer of Biodexa said “We are committed to improving the lives of patients with FAP and are therefore proud to be able to make eRapa available to more clinicians treating FAP patients for whom there are no currently approved therapeutic options, only life-altering surgery.”
+
+About Familial Adenomatous Polyposis
+
+FAP is characterized as a proliferation of polyps in the colon and/or rectum, usually occurring in mid-teens. There is no approved therapeutic option for treating FAP patients, for whom active surveillance and surgical resection of the colon and/or rectum remain the standard of care. If untreated, FAP typically leads to cancer of the colon and/or rectum. There is a significant hereditary component to FAP with a reported incidence of one in 5,000 to 10,000 in the US and one in 11,300 to 37,600 in Europe. eRapa has received Orphan Designation in the US with plans to seek such designation in Europe. Importantly, mTOR has been shown to be over-expressed in FAP polyps – thereby underscoring the rationale for using a potent and safe mTOR inhibitor like eRapa to treat FAP.
+
+About eRapa eRapa is a proprietary oral capsule formulation of rapamycin, also known as sirolimus. Rapamycin is an mTOR (mammalian Target Of Rapamycin) inhibitor. mTOR has been shown to have a significant role in the signalling pathway that regulates cellular metabolism, growth and proliferation and is activated during tumorigenesis. Importantly, mTOR has been shown to be over-expressed in FAP polyps – thereby underscoring the rationale for using a potent and safe mTOR inhibitor like eRapa to treat FAP. Data from an open label Phase 2 trial were presented at Digestive Disease Week and InSIGHT 2024 in May and June 2024, respectively. Based on those data, Biodexa initiated a double-blind, placebo-controlled Phase 3 registrational trial which is planned to initiate 30 clinical sites across the US and Europe and to enrol 168 patients randomized 2:1, drug: placebo. The Phase 3 program is supported by a $20 million grant from the Cancer Prevention and Research Institute of Texas.
+
+About Tanner Pharma Group
+
+Tanner Pharma Group is a specialist pharmaceutical services provider based in Charlotte, USA. The company has developed a portfolio of service offerings focused on improving the global access to medicines. Tanner supports manufacturers by providing ethical, controlled and compliant access to their innovative medicines in countries where they are not commercially accessible. For more information, visit www.tannerpharma.com.
+
+The Cancer Prevention and Research Institute of Texas To date, CPRIT has awarded $2.9 billion in grants to Texas research institutions and organizations through its academic research, prevention and product development research programs. CPRIT has recruited 237 distinguished researchers, supported the establishment, expansion or relocation of 43 companies to Texas and generated over $5.7 billion in additional public and private investment. CPRIT funding has advanced scientific and clinical knowledge and provided 7.4 million life-saving cancer prevention and early detection services reaching Texans from all 254 counties. On November 5, 2019, Texas voters overwhelmingly approved a constitutional amendment to provide an additional $3 billion to CPRIT for a total $6 billion investment in cancer research and prevention. Learn more at https://cprit.texas.gov/.
+
+About Biodexa Pharmaceuticals PLC
+
+The Company’s lead development programs include eRapa, under development for Familial Adenomatous Polyposis and Non-Muscle Invasive Bladder Cancer, MTX240 under development for Gastrointestinal Stromal Tumors (GIST) and tolimidone, under development for the treatment of type 1 diabetes.
+
+eRapa is a proprietary oral capsule formulation of rapamycin, also known as sirolimus. Rapamycin is an mTOR (mammalian Target Of Rapamycin) inhibitor. mTOR has been shown to have a significant role in the signalling pathway that regulates cellular metabolism, growth and proliferation and is activated during tumorigenesis.
+
+MTX240 is a molecular glue, bringing two intracellular proteins, PDE3a and SLFN12, specifically co-expressed by GIST cancer cells, into close proximity to form a stable complex. This interaction stabilizes SLFN12, enabling it to drive RNase-mediated apoptosis in GIST cells through a mechanism independent of KIT signalling.
+
+Tolimidone is an orally delivered, potent and selective inhibitor of Lyn kinase. Lyn is a member of the Src family of protein tyrosine kinases, which is mainly expressed in hematopoietic cells, in neural tissues, liver, and adipose tissue. Tolimidone demonstrates glycaemic control via insulin sensitization in animal models of diabetes and has the potential to become a first in class blood glucose modulating agent.
+
+Biodexa’s headquarters and R&D facility is in Cardiff, UK. For more information visit www.biodexapharma.com.
+
+For more company information, please contact:
+
+Stephen Stamp, CEO Fiona Sharp, CFO Tel: +44 (0)29 20480 180 www.biodexapharma.com
+
+Forward-Looking Statements Certain statements in this announcement may constitute “forward-looking statements” within the meaning of legislation in the United Kingdom and/or United States. Such statements are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and are based on management’s belief or interpretation. All statements contained in this announcement that do not relate to matters of historical fact should be considered forward-looking statements. In certain cases, forward-looking statements can be identified by the use of words such as “plans”, “expects” or “does not anticipate”, or “believes”, or variations of such words and phrases or statements that certain actions, events or results “may”, “could”, “would”, “might” or “will be taken”, “occur” or “be achieved.” Forward-looking statements and information are subject to various known and unknown risks and uncertainties, many of which are beyond the ability of the Company to control or predict,
+
+that may cause their actual results, performance or achievements to be materially different from those expressed or implied thereby, and are developed based on assumptions about such risks, uncertainties and other factors set out herein.
+
+Reference should be made to those documents that Biodexa shall file from time to time or announcements that may be made by Biodexa in accordance with the rules and regulations promulgated by the SEC, which contain and identify other important factors that could cause actual results to differ materially from those contained in any projections or forward-looking statements. These forward-looking statements speak only as of the date of this announcement. All subsequent written and oral forward-looking statements by or concerning Biodexa are expressly qualified in their entirety by the cautionary statements above. Except as may be required under relevant laws in the United States, Biodexa does not undertake any obligation to publicly update or revise any forward-looking statements because of new information, future events or events otherwise arising.

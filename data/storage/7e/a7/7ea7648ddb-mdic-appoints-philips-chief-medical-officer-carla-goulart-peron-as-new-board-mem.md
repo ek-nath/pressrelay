@@ -1,0 +1,15 @@
+Carla Goulart Peron, MD, Chief Medical Officer at Royal Philips
+
+April 2, 2026
+
+Amsterdam, the Netherlands – Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology, today announced that Carla Goulart Peron, MD, Chief Medical Officer at Philips, has been appointed to the Board of Directors of the Medical Device Innovation Consortium (MDIC). Founded in 2012, MDIC is a unique public-private partnership that brings stakeholders across the medical device spectrum together with the US Food and Drug Administration (FDA) and other agency partners to help ensure patient access to medical device innovations.
+
+“We are delighted to welcome Carla to MDIC's Board of Directors,” said Andrew C. Fish, President and CEO of MDIC. “She brings deep experience bridging clinical evidence and innovation that will strengthen our work and we look forward to her insights and strategic guidance.”
+
+“As a leading innovator in healthcare, Philips shares MDIC’s mission to improve health and save lives by accelerating access to medical technologies,” said Carla Goulart Peron, MD, Chief Medical Officer at Philips. “MDIC creates a trusted space where government agencies and medical device manufacturers collaborate to streamline the regulatory process and inform coverage decisions – all to deliver safe and effective medical devices to patients. I am honored to be appointed to MDIC’s leadership team and contribute to their important work.”
+
+Working across medical device quality, evidence, and digital health, MDIC develops research, toolkits, and actionable frameworks that help manufacturers navigate regulatory approval, maintain the highest quality standards, and build the evidence base needed to inform coverage decisions. MDIC provides a unique nexus for FDA and medical device manufacturers to collaborate as peers alongside patients, clinicians, and other key stakeholders, providing a trusted, pre-competitive space to address fundamental scientific and technical challenges shaping the future of medical device innovation.
+
+Philips is committed to meaningful innovation and helping provide better care for more people by advancing regulatory science, strengthening quality systems and collaborating across the healthcare ecosystem. As Chief Medical Officer, Dr. Peron leads Philips’ global medical and scientific organization and oversees the company’s medical strategy. She helps ensure that Philips’ innovations are grounded in clinical evidence, scientific standards and patient safety.
+
+Across Philips’ businesses, Dr. Peron and her team provide medical leadership in areas including medical safety, medical affairs, health economics and outcomes research, clinical research and strategic clinical partnerships. Their work helps translate scientific insights into technologies that deliver measurable improvements in patient outcomes and healthcare value. Dr. Peron brings more than 15 years of leadership experience in the medical technology industry and healthcare, along with deep clinical expertise and a hands-on approach to building highly engaged multidisciplinary teams.

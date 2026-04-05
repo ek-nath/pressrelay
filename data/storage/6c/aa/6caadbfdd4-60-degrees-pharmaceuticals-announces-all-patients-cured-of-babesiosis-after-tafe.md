@@ -1,0 +1,63 @@
+All three patients enrolled in study have been cured, confirming high cure rate of tafenoquine in immunosuppressed patients, as reported by Yale in a 2024 publication
+
+Company calls for existing babesiosis treatment guidelines to be reviewed in light of the new data
+
+WASHINGTON, March 11, 2026 (GLOBE NEWSWIRE) -- 60 Degrees Pharmaceuticals, Inc. (NASDAQ: SXTP; SXTPW) (“60 Degrees” or the “Company”), a pharmaceutical company focused on developing new medicines for vector-borne disease, today announced that three of three enrolled patients have been cured of babesiosis after completing the tafenoquine regimen in the Company’s trial of relapsing babesiosis in immunosuppressed patients.
+
+The Company’s expanded use trial is an open-label, expanded access, multi-site study evaluating the safety and efficacy of the ARAKODA® regimen of tafenoquine combined with atovaquone and other antimalarials/antibiotics administered to patients with risk factors for severe disease with relapsing babesiosis who have previously failed conventional antimicrobial regimens (NCT06478641). It aims to confirm the high cure rate from the addition of tafenoquine in these patients, as reported by the Yale School of Public Health in a 2024 Clinical Infectious Diseases publication.
+
+For this study, tafenoquine treatment is continued for up to one year until two consecutive negative PCR tests for Babesia parasites are recorded and symptoms of babesiosis are resolved. Sixty to ninety days following clinical resolution and cessation of study drug administration, the study protocol calls for a follow-up visit at which two molecular tests are administered to assess parasite infection status. One test is an RT-PCR from Mayo Clinic. The second is a U.S. Food and Drug Administration (FDA)-approved RNA amplification test used for blood donation screening that is at least 1,000 times more sensitive than standard commercial RT-PCRs such as the Mayo test. A patient is considered cured if no evidence of infection (i.e., a non-reactive RNA amplification test) is detected following treatment.
+
+The Yale study reported an apparent treatment success rate of 100 percent in four patients when an atovaquone-containing standard of care regimen was combined with weekly tafenoquine administered until two sequential non-reactive conventional PCRs were noted. The fifth patient in the Yale study was administered weekly tafenoquine monotherapy, then azithromycin/atovaquone; the triple regimen was not sustained until consecutive negative PCRs were noted, and so was not successful.
+
+That same final patient in the Yale study was the third patient in the Company’s expanded access study, and a quadruple combination of atovaquone/azithromycin/proguanil and weekly tafenoquine sustained until two negative PCRs were noted was ultimately curative as demonstrated through a non-reactive RNA amplification test following treatment. Cure was achieved with a triple combination of tafenoquine, atovaquone, and an antibiotic for the first two patients enrolled in the study.
+
+Collectively, in the seven patients evaluated (the Yale study and the Company’s study, combined), the data suggest that the cure rate for relapsing babesiosis in immunosuppressed patients approaches 100 percent when weekly tafenoquine is added to a patient’s background atovaquone-containing combination regimen and sustained until two negative PCRs are noted.
+
+Given the rarity of relapsing immunosuppressed patients and the high cure rate associated with adding tafenoquine, the Company believes it is an appropriate time for widely accepted treatment guidelines to be reviewed in light of the new data.
+
+Human babesiosis is a serious and debilitating emerging tick-borne illness often found as a co-infection in patients with Lyme disease. Symptoms include fevers, chills, sweats, and fatigue. Babesiosis can be life-threatening in elderly and immunosuppressed patients, relapsing multiple times. Incidence of the disease is rising.
+
+No FDA-approved treatment or vaccine exists for babesiosis.
+
+Tafenoquine is not currently approved by the FDA for the treatment and prevention of babesiosis. Tafenoquine is approved for malaria prophylaxis in the United States under the product name ARAKODA® (tafenoquine).
+
+About ARAKODA® (tafenoquine) Tafenoquine was discovered by Walter Reed Army Institute of Research. Tafenoquine was approved for malaria prophylaxis in 2018 in the United States as ARAKODA® and in Australia as KODATEF®. Both were commercially launched in 2019 and are currently distributed through pharmaceutical wholesaler networks in each respective country. They are available at retail pharmacies as a prescription-only malaria prevention drug. According to the Centers for Disease Control and Prevention, the long terminal half-life of tafenoquine, which is approximately 16 days, offers the advantage of less frequent dosing for the prophylaxis of malaria. ARAKODA® is not suitable for everyone, and patients and prescribers should review the Important Safety Information below. Individuals at risk of contracting malaria are prescribed ARAKODA® 2 x 100 mg tablets once per day for three days (the loading phase) prior to travel to an area of the world where malaria is endemic, 2 x 100 mg tablets weekly for up to six months during travel, then 2 x 100 mg in the week following travel.
+
+ARAKODA® (tafenoquine) Important Safety Information ARAKODA® is an antimalarial indicated for the prophylaxis of malaria in patients aged 18 years and older.
+
+Contraindications ARAKODA® should not be administered to:
+
+Glucose-6-phosphate dehydrogenase (“G6PD”) deficiency or unknown G6PD status;
+
+Breastfeeding by a lactating woman when the infant is found to be G6PD deficient or if
+
+G6PD status is unknown;
+
+Patients with a history of psychotic disorders or current psychotic symptoms; or
+
+Known hypersensitivity reactions to tafenoquine, other 8-aminoquinolines, or any component of ARAKODA®.
+
+Warnings and Precautions Hemolytic Anemia: G6PD testing must be performed before prescribing ARAKODA® due to the risk of hemolytic anemia. Monitor patients for signs or symptoms of hemolysis.
+
+G6PD Deficiency in Pregnancy or Lactation: ARAKODA® may cause fetal harm when administered to a pregnant woman with a G6PD-deficient fetus. ARAKODA® is not recommended during pregnancy. A G6PD-deficient infant may be at risk for hemolytic anemia from exposure to ARAKODA® through breast milk. Check infant’s G6PD status before breastfeeding begins.
+
+Methemoglobinemia: Asymptomatic elevations in blood methemoglobin have been observed. Initiate appropriate therapy if signs or symptoms of methemoglobinemia occur.
+
+Psychiatric Effects: Serious psychotic adverse reactions have been observed in patients with a history of psychosis or schizophrenia, at doses different from the approved dose. If psychotic symptoms (hallucinations, delusions, or grossly disorganized thinking or behavior) occur, consider discontinuation of ARAKODA® therapy and evaluation by a mental health professional as soon as possible.
+
+Hypersensitivity Reactions: Serious hypersensitivity reactions have been observed with administration of ARAKODA®. If hypersensitivity reactions occur, institute appropriate therapy.
+
+Delayed Adverse Reactions: Due to the long half-life of ARAKODA® (approximately 16 days), psychiatric effects, hemolytic anemia, methemoglobinemia, and hypersensitivity reactions may be delayed in onset and/or duration.
+
+Adverse Reactions: The most common adverse reactions (incidence greater than or equal to 1 percent) were: headache, dizziness, back pain, diarrhea, nausea, vomiting, increased alanine aminotransferase (ALT), motion sickness, insomnia, depression, abnormal dreams, and anxiety.
+
+Drug Interactions Avoid co-administration with drugs that are substrates of organic cation transporter-2 or multidrug and toxin extrusion transporters.
+
+Use in Specific Populations Lactation: Advise women not to breastfeed a G6PD-deficient infant or infant with unknown G6PD status during treatment and for 3 months after the last dose of ARAKODA®. To report SUSPECTED ADVERSE REACTIONS, contact 60 Degrees Pharmaceuticals, Inc. at 1- 888-834-0225 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. The full prescribing information of ARAKODA® is located here.
+
+About 60 Degrees Pharmaceuticals, Inc. 60 Degrees Pharmaceuticals, Inc., founded in 2010, specializes in developing and commercializing new medicines for the treatment and prevention of vector-borne disease. The Company achieved U.S. Food and Drug Administration approval of its lead product, ARAKODA® (tafenoquine), for malaria prevention, in 2018. ARAKODA is commercially available in the U.S. and Australia. 60 Degrees Pharmaceuticals, Inc. also collaborates with prominent research and academic organizations in the U.S. and Australia. 60 Degrees Pharmaceuticals, Inc. is headquartered in Washington, D.C., with a subsidiary in Australia. Learn more at www.60degreespharma.com.
+
+The statements contained herein may include prospects, statements of future expectations and other forward-looking statements that are based on management’s current views and assumptions and involve known and unknown risks and uncertainties. Actual results, performance or events may differ materially from those expressed or implied in such forward-looking statements.
+
+Cautionary Note Regarding Forward-Looking Statements This press release may contain “forward-looking statements” within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward‐looking statements reflect the current view about future events. When used in this press release, the words “anticipate,” “believe,” “estimate,” “expect,” “future,” “intend,” “plan,” or the negative of these terms and similar expressions, as they relate to us or our management, identify forward‐looking statements. Forward-looking statements are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations and assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy, activities of regulators and future regulations and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict and many of which are outside of our control. Our actual results and financial condition may differ materially from those indicated in the forward-looking statements. Therefore, you should not rely on any of these forward-looking statements. Important factors that could cause our actual results and financial condition to differ materially from those indicated in the forward-looking statements include, among others, the following: there is substantial doubt as to our ability to continue on a going-concern basis; we might not be eligible for Australian government research and development tax rebates; if we are not able to successfully develop, obtain FDA approval for, and provide for the commercialization of non-malaria prevention indications for tafenoquine (ARAKODA® or other regimen) or Australian Chestnut Extract in a timely manner, we may not be able to expand our business operations; we may not be able to successfully conduct planned clinical trials or patient recruitment in our trials might be slow or negligible; and we have no manufacturing capacity which puts us at risk of lengthy and costly delays of bringing our products to market. More detailed information about the Company and the risk factors that may affect the realization of forward-looking statements is set forth in the Company’s filings with the Securities and Exchange Commission (“SEC”), including the information contained in our Annual Report on Form 10-K filed with the SEC on March 27, 2025, and our subsequent SEC filings. Investors and security holders are urged to read these documents free of charge on the SEC’s website at www.sec.gov. As a result of these matters, changes in facts, assumptions not being realized or other circumstances, the Company’s actual results may differ materially from the expected results discussed in the forward-looking statements contained in this press release. Any forward-looking statement made by us in this press release is based only on information currently available to us and speaks only as of the date on which it is made. We undertake no obligation to publicly update any forward-looking statement, whether written or oral, that may be made from time to time, whether as a result of new information, future developments or otherwise.

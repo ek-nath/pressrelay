@@ -1,0 +1,13 @@
+# Carolina Complete Health and WellCare of North Carolina Combine to Form Provider-Led Managed Care Organization
+
+The combined organization will continue to serve Medicaid, Marketplace, Medicare and Behavioral Health and Intellectual/Developmental Disabilities Tailored Plan members statewide
+
+CHARLOTTE, N.C., April 2, 2026 /PRNewswire/ -- Carolina Complete Health and WellCare of North Carolina, subsidiaries of the Centene Corporation (NYSE: CNC), today announced [receipt of regulatory approval] to close on their merger. The organization will operate under the Carolina Complete Health brand and serve more than 980,000 members across Medicaid, Medicare and Marketplace. Carolina Complete Health will also continue to support all four Behavioral Health and Intellectual/Developmental Disabilities (I/DD) Tailored Plans that serve approximately 240,000 North Carolinians with complex mental health needs, severe substance use needs, and I/DD.
+
+"This merger expands our ability to serve members in government-sponsored health insurance programs across North Carolina, and strengthens our partnerships with providers and communities," said Chris Paterson, Ph.D., chief executive officer of Carolina Complete Health and CEO of the newly combined company. "By bringing together the strengths of both organizations, we are advancing a provider-led model that prioritizes coordination, access and better health outcomes for the people we serve."
+
+Following the merger, members will continue to have access to a broad network of providers, with Carolina Complete Health maintaining a strong focus on community-based care. Current members of both Carolina Complete Health and WellCare of North Carolina will not experience changes to their benefits or providers. The combined entity will offer enhanced value-added services to support members in areas like food insecurity, maternal health, preventive health, youth development and other key areas.
+
+Carolina Complete Health was established through a unique partnership between the Centene Corporation, the North Carolina Medical Society and the North Carolina Community Health Center Association. As a provider-led health plan, local physicians determine clinical policy and guide decisions that support coordinated care and high-quality outcomes.
+
+"I am proud of what WellCare of North Carolina has built and am confident in the future of the combined organization," said Troy Hildreth, president and CEO of WellCare of North Carolina. "This merger reflects a shared commitment to our members, providers, and communities, and it extends the benefits of provider-led care to more North Carolinians statewide."

@@ -1,0 +1,21 @@
+# BriaCell Receives Positive Recommendation from Data Safety Monitoring Board (DSMB) for Phase 3 Study in Metastatic Breast Cancer
+
+-      Independent DSMB has identified no safety concerns, and recommends continuation of BriaCell’s pivotal Phase 3 study of Bria-IMT™ plus immune check point inhibitor
+
+-      Fifth consecutive positive DSMB recommendation supports the favorable safety profile observed to date
+
+-      Phase 3 study is being conducted under FDA Fast Track Designation, reflecting the significant unmet need in metastatic breast cancer
+
+PHILADELPHIA and VANCOUVER, British Columbia, Feb. 17, 2026 (GLOBE NEWSWIRE) -- BriaCell Therapeutics Corp. (Nasdaq: BCTX, BCTXW, BCTXZ, BCTXL) (TSX: BCT) (“BriaCell” or the “Company”), clinical-stage biotechnology company developing novel immunotherapies to transform cancer care, announces that the independent Data Safety Monitoring Board (DSMB) has issued its fifth consecutive positive recommendation following review of safety data from BriaCell’s pivotal Phase 3 Bria-ABC study of Bria-IMT plus immune checkpoint inhibitor (CPI) in patients with metastatic breast cancer (NCT06072612).
+
+Following its review, the DSMB raised no safety concerns and recommended that the study continue without modifications. DSMB meetings occur quarterly in accordance with the study protocol. BriaCell’s ongoing pivotal Phase 3 study is being conducted under Fast Track designation granted by the US Food and Drug Administration (FDA), reflecting the significant unmet medical need in metastatic breast cancer.
+
+“This marks the fifth consecutive DSMB review supporting the continued conduct of BriaCell’s pivotal Phase 3 Bria-ABC study,” said Dr. William V. Williams, President and Chief Executive Officer of BriaCell. “We are encouraged by the DSMB’s ongoing confirmation of the safety profile of the Bria-IMT regimen and remain focused on advancing this program for patients with limited treatment options. We look forward to providing additional clinical updates as the study progresses.”
+
+About BriaCell Therapeutics Corp.
+
+BriaCell is a clinical-stage biotechnology company that develops novel immunotherapies to transform cancer care. More information is available at https://briacell.com/.
+
+Safe Harbor
+
+This press release contains “forward-looking statements” that are subject to substantial risks and uncertainties. All statements, other than statements of historical fact, contained in this press release are forward-looking statements. Forward-looking statements contained in this press release may be identified by the use of words such as “anticipate,” “believe,” “contemplate,” “could,” “estimate,” “expect,” “intend,” “seek,” “may,” “might,” “plan,” “potential,” “predict,” “project,” “target,” “aim,” “should,” “will,” “would,” or the negative of these words or other similar expressions, although not all forward-looking statements contain these words. Forward-looking statements, including those about Bria-IMT’s safety and tolerability profile; the continued conduct and advancement of BriaCell’s pivotal Phase 3 Bria‑ABC study under FDA Fast Track designation; and Bria-IMT’s potential as a transformative immunotherapy for patients with metastatic breast cancer, are based on BriaCell’s current expectations and are subject to inherent uncertainties, risks, and assumptions that are difficult to predict. Further, certain forward-looking statements, such as those are based on assumptions as to future events that may not prove to be accurate. These and other risks and uncertainties are described more fully under the heading “Risks and Uncertainties” in the Company’s most recent Management’s Discussion and Analysis, under the heading “Risk Factors” in the Company’s most recent Annual Information Form, and under “Risks and Uncertainties” in the Company’s other filings with the Canadian securities regulatory authorities and the U.S. Securities and Exchange Commission, all of which are available under the Company's profiles on SEDAR+ at www.sedarplus.ca and on EDGAR at www.sec.gov. Forward-looking statements contained in this announcement are made as of this date, and BriaCell Therapeutics Corp. undertakes no duty to update such information except as required under applicable law.

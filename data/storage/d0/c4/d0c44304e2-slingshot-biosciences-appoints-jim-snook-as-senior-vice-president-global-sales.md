@@ -1,0 +1,13 @@
+Industry veteran brings extensive life sciences commercial leadership experience from Biotechne, Miltenyi Biotec, and Adaptive Biotechnologies
+
+EMERYVILLE, Calif., March 5, 2026 /PRNewswire/ -- Slingshot Biosciences, the pioneer of synthetic cell mimic technology for flow cytometry controls, today announced the appointment of Jim Snook as Senior Vice President, Global Sales. In this role, Snook will lead the company's rapidly growing global sales organization, including management of Business Development Vice Presidents, Inside Sales and Distribution Managers, and Field Application Scientists.
+
+Snook brings more than two decades of executive sales leadership experience in the life sciences industry to Slingshot Biosciences. Most recently, he served as Vice President, Commercial for the Protein Sciences business unit at Bio-Techne, where he led the transformation of the sales organization to capture share and enable growth.
+
+Prior to Bio-Techne, Snook led the Americas commercial team at Miltenyi Biotec, growing the organization into the market leader in cell and gene therapy manufacturing and analytical solutions.
+
+"Jim's appointment marks a pivotal moment for Slingshot Biosciences as we accelerate our global growth," said Glenn Bilawsky, Chief Executive Officer of Slingshot Biosciences. "His proven track record of building high-performing sales organizations and driving substantial revenue growth at leading life sciences companies makes him the ideal leader to take our commercial efforts to the next level. Jim's deep understanding of the flow cytometry and cell therapy markets, combined with his expertise in scaling sales operations, will be instrumental in expanding our reach and serving our customers worldwide."
+
+Snook's appointment comes as Slingshot Biosciences experiences rapid adoption of its synthetic cell mimic platform among pharmaceutical companies, biotechnology firms, clinical diagnostics laboratories, and academic research institutions. His leadership will be critical in capitalizing on the growing demand for reproducible, high-quality biomarker controls in cell-based assay development and cell therapy manufacturing.
+
+"I'm thrilled to join Slingshot Biosciences at such an exciting time in the company's growth," said Jim Snook. "The platform represents a genuine breakthrough in addressing many of the challenges in complex cell analysis from robust assay development through scalable deployment.. Slingshot has developed an enabling solution for the flow cytometry community, and our consultative team looks forward to bringing this technology to researchers, labs and manufacturers around the globe."

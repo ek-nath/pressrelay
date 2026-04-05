@@ -1,0 +1,13 @@
+# Servier and Day One Biopharmaceuticals announce acquisition to expand Servier's rare oncology portfolio
+
+-      Acquisition positions Servier as a leader in pediatric low-grade glioma and expands its pipeline with programs targeting adult and pediatric cancers with high unmet needs.
+
+-      Transaction represents total equity value of approximately $2.5 billion.
+
+SURESNES, France and BRISBANE, Calif., March 7, 2026 /PRNewswire/ -- Servier, an independent international pharmaceutical group governed by a foundation, and Day One Biopharmaceuticals, Inc. (Nasdaq: DAWN) ("Day One"), a biopharmaceutical company dedicated to developing and commercializing targeted therapies for people of all ages with life-threatening diseases, today announced that they have entered into a definitive agreement for Servier to acquire Day One for $21.50 per share in cash, representing a total equity value of approximately $2.5 billion. The transaction remains subject to customary closing conditions and is expected to close in the second quarter of 2026.
+
+This acquisition will reinforce Servier's position in oncology targeted therapies in line with its 2030 ambition to develop innovative treatments for patients with high unmet medical needs. It strengthens Servier's portfolio and expands its oncology pipeline with programs ranging from early stage to phase 3. The combination of Day One's scientific expertise with Servier's established global capabilities advances a shared commitment to delivering innovative solutions for patients worldwide.
+
+"This acquisition of Day One Biopharmaceuticals marks another decisive step in strengthening Servier's position in rare oncology," said Olivier Laureau, President of Servier. "It reflects our long-term commitment to investing in science that can make a meaningful difference for patients. This announcement is fully aligned with our 2030 ambition, and we believe that combining our expertise will accelerate innovation for people living with a rare cancer."
+
+"Servier's successful track record in rare cancers and its commitment to advancing targeted therapies makes it the ideal home for our portfolio as part of Day One's mission to bring medicines to patients of all ages with life threatening diseases" said Jeremy Bender, Ph.D., chief executive officer of Day One. "Joining Servier represents a unique opportunity to extend the reach of our science and our lead program in pediatric low–grade glioma. Importantly, Servier's dedication to the rare disease community preserves the patient–first mindset that has defined our company since the beginning and has driven our deep commitment to the communities we serve."

@@ -8,6 +8,7 @@ from pressrelay.config import settings
 from pressrelay.database import get_db_engine, create_db_and_tables, get_session_factory
 from pressrelay.tasks import feed_processing_loop
 from pressrelay.client import AsyncClientManager
+from pressrelay.metrics import start_metrics_server
 
 async def main():
     """
@@ -15,10 +16,14 @@ async def main():
     """
     parser = argparse.ArgumentParser(description="PressRelay Service")
     parser.add_argument("--dry-run", action="store_true", help="Process feeds without saving to disk or DB")
+    parser.add_argument("--metrics-port", type=int, default=8000, help="Port for Prometheus metrics exporter")
     args = parser.parse_args()
 
     if args.dry_run:
         logger.info("DRY RUN MODE ENABLED. No changes will be persisted.")
+
+    # Start metrics exporter
+    start_metrics_server(port=args.metrics_port)
 
     logger.info("Starting PressRelay Architecture V2...")
     

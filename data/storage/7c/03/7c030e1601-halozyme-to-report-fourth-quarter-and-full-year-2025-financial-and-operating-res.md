@@ -1,0 +1,13 @@
+SAN DIEGO, Feb. 10, 2026 /PRNewswire/ -- Halozyme Therapeutics, Inc. (NASDAQ: HALO) ("Halozyme") today announced it will release its fourth quarter and full year 2025 financial and operating results on Tuesday, February 17, 2026, following the close of trading.
+
+Halozyme will host a conference call on Tuesday, February 17, 2026 at 1:30pm PT/4:30pm ET to discuss the results. The conference call may be accessed live with pre-registration via this link: https://events.q4inc.com/analyst/624893800?pwd=q3lpEa6F
+
+A live webcast and replay of the conference call will also be available through the "Investors" section of Halozyme's corporate website at www.halozyme.com.
+
+About Halozyme
+
+Halozyme is a biopharmaceutical company advancing disruptive solutions to improve patient experiences and outcomes for emerging and established therapies. As the innovators of ENHANZE® drug delivery technology with the proprietary enzyme rHuPH20, Halozyme's commercially-validated solution facilitates the subcutaneous delivery of injected drugs and fluids, reducing treatment burden and improving convenience. ENHANZE® has touched more than one million patient lives through ten commercialized products across over 100 global markets and is licensed to leading pharmaceutical and biotechnology companies including Roche, Takeda, Pfizer, Janssen, AbbVie, Eli Lilly, Bristol-Myers Squibb, argenx, ViiV Healthcare, Chugai Pharmaceutical, Acumen Pharmaceuticals, Merus N.V. and Skye Bioscience.
+
+Halozyme expanded its drug delivery technology portfolio to develop partner products using Hypercon™ and Surf Bio's hyperconcentration technology. Hypercon™ is an innovative microparticle technology expected to set a new standard in hyperconcentration of drugs and biologics by reducing injection volume for the same dosage and enabling administration in at‑home and healthcare‑provider settings. The addition of Surf Bio's polymer‑based hyperconcentration technology further broadens the range of biologics that can be delivered subcutaneously, meaningfully expanding the scope of opportunities across therapeutic modalities. The Hypercon™ technology has been licensed to leading biopharmaceutical partners, including Janssen, Eli Lilly and argenx.
+
+Halozyme also develops, manufactures and commercializes drug-device combination products using advanced auto-injector technologies designed to improve convenience, reliability and tolerability, enhancing patient comfort and adherence. The Company has two proprietary commercial products, Hylenex® and XYOSTED®, partnered commercial products and ongoing development programs with Teva Pharmaceuticals and McDermott Laboratories Limited, an affiliate of Viatris Inc.

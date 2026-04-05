@@ -1,0 +1,15 @@
+Schultz brings public company healthcare finance and medical technology experience to support Nuwellis’ next phase of growth
+
+MINNEAPOLIS, Jan. 30, 2026 (GLOBE NEWSWIRE) -- Nuwellis, Inc. (Nasdaq: NUWE) a medical technology company focused on advancing precision cardiorenal care, today announced the appointment of Carisa Schultz as Chief Financial Officer, effective February 2, 2026.
+
+Ms. Schultz brings extensive healthcare and public company finance leadership experience, most recently serving as Vice President of Finance at NeueHealth (formerly Bright Health Group), a healthcare company previously listed on the New York Stock Exchange. In that role, she led enterprise finance, treasury, and corporate development activities. During her tenure at NeueHealth, she also held progressive leadership roles including Associate Vice President, Enterprise Finance and Director, Finance.
+
+Ms. Schultz brings deep healthcare and medical technology finance experience, including early career experience at Boston Scientific, alongside leadership roles across public and private healthcare organizations. Her background also includes Big Four public accounting and senior financial analysis leadership roles supporting growth, operational discipline, and strategic decision-making.
+
+“Carisa is a highly accomplished financial leader with strong public-company experience and a deep understanding of healthcare and medical technology,” said John Erb, Chief Executive Officer of Nuwellis. “Her expertise and disciplined approach will be instrumental as we continue to execute our strategy and advance our cardiorenal platform.”
+
+“I’m excited to join Nuwellis at an important juncture in its growth,” said Ms. Schultz. “The company’s focus on precision cardiorenal care represents a meaningful opportunity, and I look forward to working with the leadership team to support long-term value creation.”
+
+About Nuwellis Nuwellis, Inc. (Nasdaq: NUWE) is a medical technology company advancing precision fluid management technologies across the cardiorenal continuum. The Company develops solutions designed to support patient care through monitoring, therapy, and data-informed clinical decision-making across acute and chronic care settings. Nuwellis’ portfolio includes commercially available and development-stage technologies addressing complex cardiorenal conditions, with a focus on safety, precision, and scalability across patient populations.
+
+About the Aquadex SmartFlow® System The Aquadex SmartFlow system delivers clinically proven therapy using a simple, flexible and smart method of removing excess fluid from patients suffering from hypervolemia (fluid overload). The Aquadex SmartFlow system is indicated for temporary (up to 8 hours) or extended (longer than 8 hours in patients who require hospitalization) use in adult and pediatric patients weighing 20 kg or more whose fluid overload is unresponsive to medical management, including diuretics. All treatments must be administered by a health care provider, within an outpatient or inpatient clinical setting, under physician prescription, both having received training in extracorporeal therapies.

@@ -1,0 +1,15 @@
+- Fueled by best-in-class technology and deep expertise in genome engineering and AI, PerturbAI is uniquely positioned to redefine therapeutic discovery, making it more scalable, translatable and cost-efficient -
+
+- Dataset of 8 million brain-wide cells, generated and analyzed in collaboration with NVIDIA, Allen Institute for Brain Science and 10x Genomics, establishes the largest causal map of gene function in living tissue, showcasing the power of PerturbAI's scalable discovery engine -
+
+SAN FRANCISCO, March 17, 2026 /PRNewswire/ -- PerturbAI, an AI-native therapeutics company accelerating drug discovery through systems-level understanding of diseases, emerged from stealth today with the public release of the world's largest in vivo CRISPR atlas. The 8 million-cell, brain-wide dataset represents the largest known causal genomics resource generated directly in living tissue.
+
+Unlike traditional in vitro or single-organ systems, PerturbAI's in vivo CRISPR (Perturb-seq) platform measures gene function within intact organs, capturing real biological circuitry rather than isolated cell states. Today's release establishes a new category of biological data: organism-level, circuit-resolved, causal genomics.
+
+"The public release of this CRISPR atlas marks a foundational change for biology," said Xin Jin, Ph.D., co-founder of PerturbAI. "For the first time, we can measure gene function directly inside intact biological systems at a massive scale. This enables systems-level understanding of disease and allows us to model and simulate therapeutic interventions before committing to expensive downstream drug development."
+
+PerturbAI is utilizing its in vivo CRISPR platform and causal AI models to develop best-in-class therapeutics for complex metabolic and chronic diseases.
+
+"Given our team's deep expertise spanning CRISPR, genomics, and machine learning, we are uniquely qualified to optimize the application of vivo CRISPR and new AI models to novel therapeutic discovery, making it more scalable, translatable and cost-efficient," said Grace Zheng, Ph.D., co-founder and CEO of PerturbAI.
+
+PerturbAI collaborated with NVIDIA, the Allen Institute for Brain Science, and 10x Genomics (Nasdaq: TXG) to generate and analyze the atlas, which enables systematic evaluation of the brain genome, providing a framework to distinguish causal mechanisms from context-dependent modifiers of disease risk and progression. Specifically, the dataset maps the effects of thousands of genetic perturbations across 8 million cells spanning hundreds of bona fide neuronal cell types in the mouse brain, revealing, among other findings, that the same gene can have very different consequences depending on cell type, brain region, and biological context. An accompanying manuscript titled "Genome-scale functional mapping of the mammalian whole brain with in vivo Perturb-seq" is available in biorxiv and the dataset is accessible through PerturbAI's blog , Hugging Face and the NVIDIA AI Blueprint for Single-Cell Analysis.

@@ -1,0 +1,13 @@
+# Galapagos Publishes 2025 Annual Report and Announces Annual and Extraordinary Shareholders’ Meetings
+
+Mechelen, Belgium; March 26, 2026, 21:01 CET; regulated information — Galapagos NV (Euronext & NASDAQ: GLPG) today published its annual report for the financial year 2025 and announced that its Annual Shareholders’ Meeting (AGM) and an Extraordinary Shareholders' Meeting (EGM) will be held sequentially on Tuesday, April 28, 2026 at 14:00 CET and 15:00 CET at Schaliënhoevedreef 20T, 2800 Mechelen, Belgium.
+
+The annual report for the financial year 2025, including a review of figures and performance, is available online at https://www.glpg.com/financial-reports and can also be downloaded as PDF. The annual 2025 Form 20-F filing with the SEC is available at www.sec.gov/edgar.
+
+Galapagos has the honor to invite its shareholders, holders of subscription rights, Board members and statutory auditor to its Annual (ordinary) Shareholders’ Meeting and an Extraordinary Shareholders' Meeting that will be held sequentially on Tuesday, April 28, 2026 at 14:00 CET and 15:00 CET at Schaliënhoevedreef 20T, 2800 Mechelen, Belgium.
+
+The items on the agenda of the AGM include, amongst other items: (i) the appointment of Henry Gosebruch as executive director; (ii) the appointment of Ms. Jane Griffiths, Ms. Dawn Svoronos, Dr. Neil Johnston, Dr. Paulo Fontoura, and Mr. Gino Santini as independent non-executive directors; (iii) the appointment of Mr. Devang Bhuva as non-executive director; (iv) the re-appointment of BDO Bedrijfsrevisoren, permanently represented by Ellen Lombaerts, as the company’s statutory auditor; and (v) the confirmation and re-appointment of the statutory auditor with respect to the “assurance” of the Corporate Sustainability Reporting Directive 2022/2464/EU (CSRD) sustainability reporting.
+
+The items on the agenda of the EGM include, amongst other items: (i) the proposed change of the Company’s name to Lakefront Biotherapeutics; (ii) a proposal to authorize the repurchase of up to 10% of the company’s outstanding shares, subject to certain limitations; and (iii) the renewal of the Board’s authorization to increase share capital within the authorized capital framework.
+
+In order to be admitted to the AGM and EGM on April 28, 2026, the holders of securities issued by the company must comply with article 7:134 of the Belgian Code of Companies and Associations and article 23 of the company’s Articles of Association, and fulfil the formalities described in the convening notice. The convening notice and other documents related to the AGM and EGM, including the biographies of the proposed directors, can be consulted on our website at www.glpg.com/shareholders-meetings.

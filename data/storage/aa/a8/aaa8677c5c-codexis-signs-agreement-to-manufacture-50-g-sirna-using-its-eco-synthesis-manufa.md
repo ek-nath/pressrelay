@@ -1,0 +1,13 @@
+REDWOOD CITY, Calif., March 4, 2026 /PRNewswire/ -- Codexis, Inc. (NASDAQ: CDXS), a leading provider of enzymatic solutions for efficient and scalable therapeutics manufacturing, today announced it has entered into an agreement with an innovator pharmaceutical company to manufacture 50 grams of small interfering RNA (siRNA) using its proprietary ECO Synthesis manufacturing platform to support preclinical development of a therapeutic candidate targeting a cardiovascular indication.
+
+Under the terms of the agreement, Codexis will produce siRNA material to support its partner's preclinical program. The engagement represents an important demonstration of the platform's ability to deliver meaningful quantities of RNA material beyond early research volumes and establishes a potential pathway to further scale-up and manufacturing, subject to program advancement.
+
+ECO Synthesis is Codexis' proprietary technology is designed to enable efficient, scalable and high-fidelity production of complex siRNA therapeutics. As RNA therapeutics move beyond rare diseases into larger therapeutic indications, manufacturing demands increase significantly. Codexis believes its ECO Synthesis platform will address these evolving requirements by enabling efficient scale-up while maintaining product consistency.
+
+"We are excited about this relationship as it represents an important entry point into what could become a high-volume opportunity," said Alison Moore, President and Chief Executive Officer of Codexis. "Engagements like this illustrate our path to growth as we continue to expand partnerships and position the platform for potential commercial-scale applications."
+
+About Codexis, Inc.
+
+Codexis® is a leading provider of enzymatic solutions for efficient and scalable therapeutics manufacturing, leveraging its proprietary CodeEvolver® technology platform to discover, develop and enhance novel, high-performance enzymes. Codexis enzymes solve real-world challenges associated with nucleic acid synthesis and small molecule pharmaceuticals manufacturing. The Company is currently employing its proprietary ECO Synthesis Manufacturing Platform to enable scaled manufacturing of RNAi therapeutics through an enzymatic route. Codexis' unique enzymes can drive improvements such as higher yields, reduced energy usage and waste generation, improved efficiency in manufacturing and greater sensitivity in genomic and diagnostic applications. For more information, visit codexis.com.
+
+View original content:https://www.prnewswire.com/news-releases/codexis-signs-agreement-to-manufacture-50-g-sirna-using-its-eco-synthesis-manufacturing-platform-302704056.html

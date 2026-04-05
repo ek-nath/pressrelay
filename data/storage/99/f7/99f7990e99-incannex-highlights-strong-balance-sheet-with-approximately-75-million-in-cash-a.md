@@ -1,0 +1,51 @@
+Company well-funded to complete DReAMzz Phase 2 study while preserving capital for optimized Phase 3 program
+
+MELBOURNE, Australia and NEW YORK, March 18, 2026 (GLOBE NEWSWIRE) -- Incannex Healthcare Inc. (Nasdaq: IXHL), a clinical-stage biopharmaceutical company developing combination therapies for high-impact indications, today reported that it holds approximately $75 million in cash with no debt, following the completion of its recently announced financing led by dedicated healthcare-focused institutional investors.
+
+At current trading levels, Incannex’s market capitalization is approximately $46 million — representing a significant disconnect to the Company’s $75 million cash position and resulting in a negative enterprise value. Management believes this disconnect does not reflect the Company’s financial strength or, the continued advancement of its clinical pipeline, or the external validation demonstrated by the participation of healthcare-focused institutional investors in the recently completed financing.
+
+The participation of healthcare-focused institutional investors in this financing reflects meaningful external validation of both the Company’s clinical program and the long-term value potential of IHL-42X. Incannex now holds approximately $75 million in cash with no debt, positioning the Company with a strong balance sheet as it advances IHL-42X for obstructive sleep apnea (OSA) and PSX-001 for the treatment of generalized anxiety disorder (GAD).
+
+Capital Position Supports Near- and Long-Term Development
+
+Proceeds from the recently completed financing are expected to fund the Company’s DReAMzz Phase 2 crossover dose-optimization study for IHL-42X. The study is designed to further optimize the ratio of the two active pharmaceutical ingredients within the drug candidate, with the goal of maximizing efficacy across both objective physiological endpoints and patient-reported outcomes.
+
+Funding DReAMzz with proceeds from the recent financing allows the Company to preserve the majority of its existing capital for the next stage of development, including an optimized Phase 3 program.
+
+The Company’s board-approved share buyback program remains available and carries remaining capacity, providing management with an additional tool to deliver shareholder value when market conditions warrant.
+
+Continued Progress Advancing IHL-42X
+
+Over the past year, Incannex has made substantial progress advancing the clinical development of IHL-42X, including:
+
+Advancement into the DReAMzz Phase 2 crossover dose-optimization study, designed to further enhance efficacy ahead of Phase 3 and supported by FDA Fast Track designation
+
+Establishment of a Clinical Advisory Board comprised of leading experts in the obstructive sleep apnea field, providing guidance on clinical strategy and study design
+
+Appointment of a leading contract research organization and recruitment of clinical sites
+
+A clearly defined pathway toward an optimized Phase 3 development program
+
+While the positive Phase 2 results could have supported direct progression into Phase 3, the Company elected to undertake the DReAMzz study to further refine dosing and maximize the probability of success in late-stage development. Management believes this approach reduces execution risk, improves the probability of Phase 3 success, and represents the most capital-efficient route to a registrational outcome — with the potential to shorten the overall pathway to registration by optimizing the program ahead of Phase 3. Importantly, the Company expects to begin dosing patients in the DReAMzz study within the coming months — a near-term milestone that reflects continued forward momentum in the program.
+
+Progress Advancing PSX-001 for Generalized Anxiety Disorder
+
+In addition to IHL-42X, Incannex continues to advance PSX-001, the Company’s oral synthetic psilocybin therapy for the treatment of generalized anxiety disorder (GAD).
+
+PSX-001 has generated positive clinical outcomes supporting the therapeutic potential of the program. The Company has established a leading clinical advisory board comprised of experts in psychiatry and psychedelic-assisted therapies, providing strategic guidance on clinical development and study design. With an open IND with the FDA and a clear pathway to upcoming milestones, management believes PSX-001 represents a high-value second clinical asset within the Incannex pipeline, targeting a large and substantially underserved patient population.
+
+“Following the completion of this financing, Incannex is in a strong financial position — approximately $75 million in cash, no debt, and well-funded through our DReAMzz study and into an optimized Phase 3 program,” said Joel Latham, President and Chief Executive Officer of Incannex Healthcare. “This disciplined capital strategy allows us to advance IHL-42X from a position of financial strength while maintaining a robust balance sheet as we progress toward late-stage development and potential registration. The healthcare-focused institutional investors who participated in this financing share our conviction in the long-term value proposition of the program, and their participation reflects meaningful external validation of both the science and the strategy.”
+
+Mr. Latham added, “At current levels, we are trading at a meaningful disconnect to our cash balance alone — before attributing any value to two advancing clinical programs, FDA Fast Track designation, or the contributions of our clinical advisory boards. We believe that disconnect is unsustainable, and that continued execution will correct it.”
+
+Positioned for Value Creation
+
+With $75 million in cash, no debt, two advancing clinical programs, and a clear development pathway for both IHL-42X and PSX-001, Incannex is moving forward from a position of financial and operational strength. Management believes the Company’s current valuation presents a compelling opportunity, and remains focused on executing its development strategy to drive recognition of the underlying value of its programs.
+
+About Incannex Healthcare Inc.
+
+Incannex is leading the way in developing combination medicines that target the underlying biological pathways associated with chronic conditions, including obstructive sleep apnea, rheumatoid arthritis and generalized anxiety disorder. The Company is advancing three clinical-stage product candidates based on evidence-based innovation and supported by streamlined operations. Incannex's lead clinical program, IHL-42X, is an oral fixed-dose combination of dronabinol and acetazolamide designed to target underlying mechanisms and act synergistically in the treatment of obstructive sleep apnea. In a Phase 2 development program, IHL-675A is an oral fixed-dose combination of cannabidiol and hydroxychloroquine sulfate designed to act synergistically to alleviate inflammatory conditions, such as rheumatoid arthritis. Approved for Phase 2 clinical development, PSX-001 is an oral synthetic psilocybin treatment for the treatment of generalized anxiety disorder. Incannex's programs target disorders that have limited, inadequate, or no approved pharmaceutical treatment options. For additional information on Incannex, please visit our website at www.incannex.com.
+
+Forward-Looking Statements
+
+Certain statements in this press release may constitute "forward-looking statements" within the meaning of the United States Private Securities Litigation Reform Act of 1995, as amended to date. These statements include, but are not limited to, statements relating to the anticipated use of proceeds from the offering, the sufficiency of these proceeds to fund the DReAMzz Phase 2 study for IHL-42X, whether the Company’s current cash on hand will remain available to fund Phase 3 development and expectations regarding its use, the potential value of the Company’s drug candidates and business, including these values as compared to available cash, opportunities, the strategy, timing and future development of the Company’s drug candidates, including the anticipated timing for a Phase 3 clinical trial, the potential value of the Company’s drug candidates and results Phase 2 crossover dose trial, future use of the buyback program. When or if used in this communication, the words "may," "could," "should," "anticipate," "believe," "estimate," "expect," "intend," "plan," "predict" and similar expressions and their variants, as they relate to the Company, its operations or its management, may identify forward-looking statements. The forward-looking statements contained in this press release are based on management's current expectations and projections about future events. Nevertheless, actual results or events could differ materially from the plans, intentions, and expectations disclosed in, or implied by, the forward-looking statements. These risks and uncertainties, many of which are beyond our control, include: the risk that the offering may not close, the risk that the Company’s estimates and current projections regarding the sufficiency of the proceeds of the offering and its current cash on hand to fund the Company’s planned operations may be incorrect and the Company may use these resources faster than anticipated, the risk that the common warrants may not be exercised or may not be exercised in cash, and other risks described in the section entitled "Risk Factors" described in the prospectus supplement and in the Company's annual report on Form 10-K for the fiscal year ended June 30, 2025, filed with the SEC on September 29, 2025, and the other reports it files from time to time, including subsequently filed annual, quarterly and current reports, which can be obtained on the SEC website at www.sec.gov and are made available on the Company’s website upon their filing with the SEC. Readers are cautioned not to place undue reliance on the forward-looking statements, which speak only as of the date on which they are made and reflect management's current estimates, projections, expectations and beliefs. The Company does not plan to update any such forward-looking statements and expressly disclaims any duty to update the information contained in this press release except as required by law.

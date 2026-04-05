@@ -1,0 +1,47 @@
+NEW YORK, March 03, 2026 (GLOBE NEWSWIRE) -- Psyence Biomedical Ltd. (Nasdaq: PBM) (“Psyence BioMed” or the “Company”), a biopharmaceutical company advancing nature-derived psilocybin and ibogaine therapies for unmet mental health needs, today announced the successful export of fully GMP-compliant manufactured psilocybin product NPX-5 (1mg and 5mg capsules) to Australia. The product was manufactured at the Psyence Labs Ltd. (“PsyLabs”) GMP-controlled production facility, supporting pharmaceutical-grade psychedelic development.
+
+The shipment represents an operational achievement for both Psyence BioMed and PsyLabs, reinforcing their shared commitment to establishing a regulated global supply chain for nature-derived psychedelic therapeutics.
+
+The exported NPX-5 product will now be used in Psyence BioMed’s ongoing Phase IIb clinical trial in Australia – a double-blind, randomized, low-dose comparator-controlled, multi-center study evaluating natural psilocybin for the treatment of Adjustment Disorder in patients with cancer in a palliative care context.
+
+The trial is enrolling 87 participants across multiple Australian sites, including Melbourne and Perth. Psyence BioMed is currently the only company conducting a Phase IIb clinical trial using natural psilocybin to study Adjustment Disorder in a palliative oncology population. Patient dosing is underway, with initial participants having been dosed in late 2025, and all newly enrolled patients will be dosed with NPX-5.
+
+“This export demonstrates more than regulatory clearance – it validates the operational readiness of our vertically integrated model,” said Jody Aufrichtig, Chief Executive Officer of Psyence BioMed. “The successful manufacture and export of GMP-compliant natural psilocybin at this stage of clinical development demonstrates that we are not simply participating in this sector – we are helping define its standards. Operational discipline, supply control, and product excellence are foundational to our platform.”
+
+Clinical Significance
+
+The Phase IIb trial focuses on Adjustment Disorder, an excessive and sometimes debilitating psychological response to a significant life stressor – in this case, advanced cancer. The study aims to evaluate the efficacy, safety, and durability of a psycho-therapeutic approach utilizing nature-derived psilocybin to reduce anxiety and depressive symptoms in this vulnerable patient population.
+
+As a regulated, nature-derived formulation rather than a synthetic analogue, Psyence BioMed’s approach represents a differentiated pathway within psychedelic therapeutics – integrating pharmaceutical-grade manufacturing with clinical rigor in palliative mental health care.
+
+“Our team executed this export with efficiency and strict adherence to GMP standards because patient safety is paramount,” said Tony Budden, CEO of PsyLabs. “Every capsule supplied to this trial has been produced under rigorous quality controls to help ensure a safe, consistent, and reliable experience for patients participating in this important study.”
+
+Manufacturing & Global Supply Chain Leadership
+
+PsyLabs operates a GMP-compliant production and analytical facility capable of manufacturing pharmaceutical-grade natural psilocybin and ethically sourced ibogaine at scale. The successful export of NPX-5 capsules to Australia demonstrates:
+
+Full GMP compliance.
+
+International regulatory authorization for shipment.
+
+Operational global supply chain capability.
+
+Vertical integration across cultivation, extraction, manufacturing, and quality assurance.
+
+This development further strengthens the strategic alignment between Psyence BioMed and PsyLabs as they build a scalable, compliant, and resilient global infrastructure for nature-derived psychedelic medicines. PsyLabs holds a 49.98% equity stake in the Company and Certain members of the Company’s management are affiliates of PsyLabs and have financial interests in PsyLabs.
+
+“As the psychedelic sector matures, infrastructure and supply certainty will differentiate sustainable pharmaceutical platforms,” added Aufrichtig. “This shipment marks meaningful progress in advancing our strategy and demonstrates our ongoing efforts to operate in a disciplined and globally coordinated manner.”
+
+This communication contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements include, but are not limited to, statements regarding future financial and operating results; the progress, timing, enrollment, dosing, data readouts and regulatory status of the Company’s Phase IIb clinical trial; the manufacture, export and supply of NPX-5; the expansion of PsyLabs’ manufacturing capabilities; the development of a regulated global supply chain; the Company’s vertically integrated business model; anticipated regulatory authorizations; market opportunity and demand for psychedelic-assisted therapies; and the Company’s plans, objectives, expectations and intentions with respect to future operations, products and services. Forward-looking statements are generally identified by words such as “will,” “may,” “expects,” “anticipates,” “believes,” “intends,” “plans,” “estimates,” “projects,” “continues,” “could,” “would,” or similar expressions.
+
+Forward-looking statements in this communication are based on current assumptions and expectations, including, among others, assumptions that the Company’s clinical trial will proceed as currently anticipated; that patient enrollment, dosing and site expansion will occur on expected timelines; that required regulatory approvals, import/export authorizations and institutional consents will be maintained; that manufacturing operations will remain compliant with applicable GMP requirements; that product supply will not be disrupted; and that demand for psychedelic-assisted therapy will continue to develop. These assumptions may prove to be incorrect.
+
+There can be no assurance that the Company’s clinical trial will be completed on its current timeline or at all, that regulatory approvals will be obtained or maintained, that manufacturing scale-up or international shipment of product will continue without interruption, or that the Company’s vertically integrated strategy will result in commercial success. There can be no assurance as to when a share consolidation will be implemented, if at all.
+
+Numerous risks and uncertainties could cause actual results or performance to differ materially from those expressed or implied by forward-looking statements. These risks and uncertainties include, among others: (i) the Company’s ability to maintain compliance with Nasdaq’s continued listing standards; (ii) volatility in the Company’s share price; (iii) changes in applicable laws, regulations or regulatory interpretations in the United States, Australia or other jurisdictions; (iv) risks associated with clinical development, including delays in enrollment, dosing, data collection, analysis or regulatory review; (v) risks related to the manufacture, quality control, scale-up and continued GMP compliance of the Company’s product candidates; (vi) risks associated with international shipment, import/export controls and cross-border regulatory requirements; (vii) dependence on third-party manufacturers, suppliers, clinical sites and collaborators; (viii) competitive developments, including other companies pursuing similar indications or alternative therapeutic approaches; (ix) the uncertainty of clinical trial outcomes and the possibility that clinical results may not support regulatory approval or commercialization; and (x) general economic, capital markets and industry conditions. The foregoing list is not exhaustive.
+
+You should carefully consider these risks and the other risks and uncertainties described in the “Risk Factors” section of the Company’s final prospectus (File No. 333-298285) filed with the Securities and Exchange Commission (the “SEC”) on November 3, 2025, as amended, and in other documents filed by Psyence BioMed from time to time with the SEC.
+
+Actual results and future events could differ materially from those anticipated in forward-looking statements. Nothing in this communication should be regarded as a representation that any forward-looking statement will be achieved. Forward-looking statements speak only as of the date they are made, and except as required by applicable law, Psyence BioMed undertakes no obligation to update or revise them.
+
+The Company does not make any medical, treatment or health benefit claims regarding its investigational product candidates. The U.S. Food and Drug Administration, Health Canada and other regulatory authorities have not approved psilocybin, psilocybin analogues or other psychedelic compounds for the treatment of Adjustment Disorder or other indications described herein. Any references to quality, consistency, efficacy or safety relate to investigational products that are currently being evaluated in clinical trials. The safety and efficacy of such product candidates have not been established, and there can be no assurance that ongoing or future clinical trials will demonstrate sufficient safety or efficacy to obtain regulatory approval. If the Company is unable to obtain required regulatory approvals or successfully commercialize its product candidates, its business, financial condition and results of operations may be materially adversely affected.

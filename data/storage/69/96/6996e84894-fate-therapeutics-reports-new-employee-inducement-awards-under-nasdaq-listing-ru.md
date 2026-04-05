@@ -1,0 +1,9 @@
+SAN DIEGO, March 04, 2026 (GLOBE NEWSWIRE) -- Fate Therapeutics, Inc. (NASDAQ: FATE), a clinical-stage biopharmaceutical company dedicated to bringing a first-in-class pipeline of induced pluripotent stem cell (iPSC)-derived cellular immunotherapies to patients with cancer and autoimmune diseases, today announced that on March 2, 2026, the Company granted restricted stock units (RSUs) representing 50,700 shares of its common stock to three newly-hired non-executive employees. The grants were approved by the Compensation Committee of the Company’s Board of Directors and granted under the Company’s Amended and Restated Inducement Equity Plan as an inducement material to the new employees entering into employment with the Company in accordance with Nasdaq Listing Rule 5635(c)(4). The RSUs will vest over four years, with 25% of the shares underlying each RSU award vesting on each anniversary of the grant date, subject to the employees being continuously employed by the Company through each vesting date.
+
+About Fate Therapeutics, Inc.  
+Fate Therapeutics is a clinical-stage biopharmaceutical company dedicated to bringing a pipeline of induced pluripotent stem cell (iPSC)-derived cellular immunotherapies to patients. Using its proprietary iPSC product platform, the Company has established a leadership position in creating multiplexed-engineered master iPSC lines and in the manufacture and clinical development of off-the-shelf, iPSC-derived cell products. The Company’s pipeline includes iPSC-derived T-cell and natural killer (NK) cell product candidates, which are selectively designed, incorporate novel synthetic controls of cell function, and are intended to deliver multiple therapeutic mechanisms to patients. Fate Therapeutics is headquartered in San Diego, CA. For more information, please visit www.fatetherapeutics.com.
+
+Contact:  
+Ryan Douglas  
+Fate Therapeutics, Inc.  
+IR@fatetherapeutics.com

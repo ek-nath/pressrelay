@@ -1,0 +1,8 @@
+BURLINGTON, N.C., March 31, 2026 /PRNewswire/ -- Labcorp Holdings Inc. (NYSE: LH), a global leader of innovative and comprehensive laboratory services, will release its financial results for the first quarter of 2026 before the market opens on Thursday, April 30, 2026. The company will host a webcast beginning at 9:00 a.m. ET that day to discuss the results. The earnings press release and accompanying financial information will be posted on the "News & Events" section of the Labcorp Investor Relations website at https://ir.labcorp.com. A link to the earnings webcast will also be available on the investor relations website.
+
+A replay of the webcast will be available on the "News & Events" section of the investor relations website approximately two hours after the conclusion of the live event and will be available for one year.
+
+About Labcorp  
+Labcorp (NYSE: LH) is a global leader of innovative and comprehensive laboratory services that helps doctors, hospitals, pharmaceutical companies, researchers, and patients make clear and confident decisions. We provide insights and advance science to improve health and improve lives through our unparalleled diagnostics and drug development laboratory capabilities. The company's nearly 71,000 employees serve clients in approximately 100 countries, provided support for more than 85% of the new drugs and therapeutic products approved by the FDA in 2025, and performed more than 750 million tests for patients around the world. Learn more at https://www.labcorp.com/.
+
+View original content to download multimedia:https://www.prnewswire.com/news-releases/labcorp-to-announce-first-quarter-financial-results-on-april-30-2026-302730362.html

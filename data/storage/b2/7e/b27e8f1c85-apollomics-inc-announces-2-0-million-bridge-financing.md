@@ -1,0 +1,15 @@
+FOSTER CITY, Calif., April 01, 2026 (GLOBE NEWSWIRE) -- Apollomics Inc. (Nasdaq: APLM) (“Apollomics” or the “Company”), today announced that it has entered into a $2.0 million unsecured Convertible Promissory Note (the “Note”) with Mr. Hung-Wen (Howard) Chen, the Company’s Chairman and Chief Executive Officer, on March 30, 2026.
+
+The $2.0 million in proceeds from the Note are intended to provide the Company with necessary working capital to support clinical development programs and general corporate operations.
+
+The Note is an unsecured obligation of the Company and carries a 0% interest rate. Under the terms of the agreement, the principal amount will automatically convert into equity securities of the Company upon the closing of a subsequent equity financing with aggregate gross proceeds of at least $10.0 million. The conversion price will be calculated at a 20% discount to the lowest per-share price issued to investors in such financing.
+
+The terms of the related-party transaction were reviewed and approved by the Company’s independent Audit Committee and the Board of Directors, with Mr. Chen abstaining from the vote. The transaction followed a comprehensive evaluation of the Company’s financing alternatives and a benchmarking analysis against current market terms for similar bridge financing transactions in the biotechnology sector.
+
+About Apollomics Inc.
+
+Apollomics Inc. is an innovative clinical-stage biopharmaceutical company focused on the discovery and development of oncology therapies with the potential to be combined with other treatment options to harness the immune system and target specific molecular pathways to inhibit cancer. Apollomics’ lead program is vebreltinib (APL-101), a potent, selective c-Met inhibitor for the treatment of non-small cell lung cancer and other advanced tumors with c-Met alterations, which is currently in a Phase 2 multicohort clinical trial in the United States and over 10 other countries. For more information, please visit www.apollomicsinc.com.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This press release includes statements that constitute “forward-looking statements” within the meaning of the federal securities laws, including Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). All statements, other than statements of present or historical fact included in this press release, regarding Apollomics’ strategy, prospects, plans, objectives, including with respect to the anticipated use of proceeds from the Note, the potential conversion of the Note into equity securities, and the Company's future financing plans, are forward-looking statements. When used in this press release, the words “could,” “should,” “will,” “may,” “believe,” “anticipate,” “intend,” “estimate,” “expect,” “seek,” “project,” the negative of such terms and other similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such identifying words.

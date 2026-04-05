@@ -1,0 +1,16 @@
+ROCKVILLE, Md. and SUZHOU, China, Feb. 23, 2026 (GLOBE NEWSWIRE) -- Ascentage Pharma Group International (NASDAQ: AAPG; HKEX: 6855) (“Ascentage Pharma” or the “Company”), a global, commercial stage, integrated biopharmaceutical company engaged in the discovery, development and commercialization of novel, differentiated therapies to address unmet medical needs in cancer, announced today that the Company's management is scheduled to participate in three upcoming investor conferences.
+
+-      Oppenheimer 36th Annual Healthcare Life Sciences Conference: Presentation at 9:20 am EST on February 25th
+
+-      TD Cowen 46th Annual Health Care Conference: Fireside chat at 9:50 am EST on March 4th
+
+-      Jefferies Biotech on the Beach Summit: One-on-one meetings on March 10th & 11th
+
+The webcasts for the presentation and fireside chat will be accessed by visiting the Events page in the Investor Relations section of Ascentage’s website.
+
+About Ascentage Pharma  
+Ascentage Pharma Group International (NASDAQ: AAPG; HKEX: 6855) (“Ascentage Pharma” or the “Company”) is a global, commercial stage, integrated biopharmaceutical company engaged in the discovery, development and commercialization of novel, differentiated therapies to address unmet medical needs in cancer. The Company has built a rich pipeline of innovative drug products and candidates that includes inhibitors targeting key proteins in the apoptotic pathway, such as Bcl-2 and MDM2-p53, as well as next-generation kinase inhibitors.
+
+The lead asset, Olverembatinib, is the first novel third-generation BCR-ABL1 inhibitor approved in China for the treatment of patients with CML in chronic phase (CML-CP) with T315I mutations, CML in accelerated phase (CML-AP) with T315I mutations, and CML-CP that is resistant or intolerant to first and second-generation TKIs. All indications are covered by the China National Reimbursement Drug List (NRDL). The Company is currently conducting an FDA-cleared, global registrational Phase III trial, or POLARIS-2, of Olverembatinib for CML, as well as global registrational Phase III trials for patients with newly diagnosed Ph+ ALL and SDH-deficient GIST patients.
+
+The Company’s second approved product, Lisaftoclax, is a novel Bcl-2 inhibitor for the treatment of various hematologic malignancies. Lisaftoclax is being commercialized in China following National Medical Products Administration (NMPA) approval for the treatment of adult patients with chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) who have previously received at least one systemic therapy including BTK inhibitors. The Company is currently conducting four global registrational Phase III trials: the FDA-cleared GLORA study of Lisaftoclax in combination with BTK inhibitors in patients with CLL/SLL previously treated with BTK inhibitors for more than 12 months with suboptimal response; the GLORA-2 study in patients with newly diagnosed CLL/SLL; the GLORA-3 study in newly diagnosed, elderly and unfit patients with acute myeloid leukemia (AML); and the GLORA-4 study in patients with newly diagnosed higher-risk myelodysplastic syndrome (HR MDS), a study that was simultaneously cleared by the U.S. FDA, the EMA of the EU, and China CDE.

@@ -1,0 +1,43 @@
+Aligned with FDA on dual-trial design Phase 3 program that aims to demonstrate robust efficacy and long-term safety and that allows for flexible dosing
+
+Phase 3 program initiation remains on track for Q2 2026
+
+BPL-003 was previously granted Breakthrough Therapy designation by the FDA for treatment-resistant depression
+
+Virtual Investor Day scheduled on March 6, 2026, to provide further detail on the BPL-003 Phase 3 clinical strategy
+
+NEW YORK, March 03, 2026 (GLOBE NEWSWIRE) -- AtaiBeckley Inc. (NASDAQ: ATAI) (“AtaiBeckley” or “Company”), a clinical-stage biotechnology company on a mission to transform patient outcomes by developing rapid-acting, durable and convenient mental health treatments, today announced a successful End‑of‑Phase 2 (EOP2) meeting with the U.S. Food and Drug Administration (FDA) regarding the development of BPL‑003, the Company’s proprietary intranasal formulation of mebufotenin benzoate, for treatment‑resistant depression (TRD).
+
+Minutes from the meeting show that the FDA indicated support for AtaiBeckley’s proposed BPL-003 pivotal program and the compound’s advancement into Phase 3 studies in adults with TRD. The FDA also provided constructive feedback on the overall design and key components of the proposed program, including the overall size of the safety database for this chronic indication.
+
+“Receiving clear guidance from the FDA at this stage is a major milestone for AtaiBeckley and for the BPL‑003 program,” said Srinivas Rao, M.D., Ph.D., Co-Founder and Chief Executive Officer at AtaiBeckley. “This feedback builds on our compelling Phase 2b data as well as the Breakthrough Therapy Designation granted to BPL-003 in October 2025 and firmly positions us to advance a robust Phase 3 clinical program designed to maximize the probability of regulatory and commercial success. With this development, we maintain our conviction that BPL-003 has the potential to offer a rapid, durable and convenient treatment option for the millions of people living with treatment-resistant depression.”
+
+Phase 3 Program Design The Phase 3 program is designed to include two pivotal studies, ReConnection 1 and ReConnection 2, conducted in parallel. Both will include a 12-week, randomized, double-blind, placebo-controlled core study followed by a 52-week open-label extension (OLE) in which participants may receive individualized retreatment with BPL-003, subject to pre-specified eligibility criteria.
+
+ReConnection 1: The core study will enroll approximately 350 participants and will evaluate a single-dose of BPL-003 across three treatment arms - 8 mg, 4 mg, and placebo (randomized 2:1:2). This trial is designed to replicate and extend the treatment response observed in the Phase 2b study and to further characterize the dose–response relationship for BPL-003.
+
+ReConnection 2: The core study will enroll approximately 300 participants and will evaluate BPL-003 administered on Day 1 and Day 15 across two arms - 8 mg BPL-003 and placebo (randomized 1:1). This trial is designed to investigate a two-dose induction model of BPL-003 as a potential treatment option to increase magnitude and durability of initial response.
+
+The primary endpoint in both pivotal trials will be the change from baseline in the MADRS (Montgomery-Åsberg Depression Rating Scale) total score at Week 4 (Day 29) of the response in the 8 mg BPL-003 treatment arm compared to placebo.
+
+In the OLE, participants may receive 8 mg BPL-003 at 8‑ or 12‑week intervals, subject to certain conditions for re-treatment eligibility, with the goal of maintaining remission and assessing long‑term safety, durability of effects, and treatment patterns.
+
+“The Phase 3 program is intentionally designed to reflect how BPL‑003 could be delivered in real‑world interventional psychiatry settings - with a short, approximately 2‑hour in‑clinic, experience and the potential for only a handful of treatments per year,” said Kevin Craig, M.D., Chief Medical Officer at AtaiBeckley. “This treatment model directly addresses some of the most significant barriers facing patients and providers today. If approved, BPL‑003 could fit seamlessly within existing interventional psychiatry workflows while offering compelling practice economics that support broad, sustainable uptake.”
+
+Investor Day The Company will host a Virtual Investor Day on March 6, 2026 to provide further detail on the BPL‑003 Phase 3 clinical strategy. The event will feature presentations and live Q&A sessions with members of the Company’s executive leadership team and several external key opinion leaders. Registration Link: https://app.webinar.net/7e5Jn1zYlXj. A copy of the presentation materials to be used by the Company during the Investor Day will be available at the commencement of the event on the investor section of the AtaiBeckley website, under Presentations. A replay will be made available following the event on the investor section of the AtaiBeckley website, under Events.
+
+About BPL-003 BPL-003 is a patent-protected, proprietary intranasal formulation of mebufotenin benzoate, administered via a nasal spray device used in a previously approved drug product. BPL-003 is designed to deliver rapid and durable antidepressant effects from a single dose with a short psychedelic duration and is being investigated as a potential therapy for treatment-resistant depression (TRD). BPL-003 has been granted Breakthrough Therapy designation by the U.S. Food and Drug Administration and is covered by granted US, UK and European composition-of-matter patents, with multiple further claims pending in various jurisdictions. BPL-003 is an investigational product and has not been approved by the FDA.
+
+About AtaiBeckley Inc. AtaiBeckley is a clinical-stage biotechnology company on a mission to transform patient outcomes by developing rapid-acting, durable and convenient mental health treatments. AtaiBeckley’s pipeline of novel therapies includes BPL-003 (mebufotenin benzoate nasal spray) for treatment-resistant depression (TRD), VLS-01 (DMT buccal film) for TRD and EMP-01 ((R)-MDMA HCI) for social anxiety disorder. BPL-003 is in Phase 3 planning, VLS-01 and EMP-01 are in Phase 2 clinical development. The Company is also advancing a drug discovery program to identify novel, non-hallucinogenic 5-HT2AR agonists for opioid use disorder and TRD. These programs aim to create breakthroughs in mental health through transformative interventional psychiatry therapies that can integrate seamlessly into healthcare systems.
+
+For the latest updates and to learn more about the AtaiBeckley mission, visit www.ataibeckley.com or follow the Company on LinkedIn and on X.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. The words “believe,” “may,” “will,” “estimate,” “continue,” “anticipate,” “intend,” “expect,” “anticipate,” “initiate,” “could,” “would,” “project,” “plan,” “potentially,” “preliminary,” “likely,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these words. Forward-looking statements include express or implied statements relating to, among other things: our business strategy and plans; expectations regarding the outcome of regulatory discussions regarding the development of BPL‑003; expectations regarding the advancement into Phase 3 studies in adults with TRD and related milestones; expectations regarding the design of the Phase 3 program; and the potential benefits of BPL-003 for patients with TRD.
+
+Forward-looking statements are neither promises nor guarantees, but involve known and unknown risks and uncertainties that could cause actual results to differ materially from those projected, including, without limitation, the important factors described in the section titled “Risk Factors” in our most recent Annual Report on Form 10-K or Quarterly Reports on Form 10-Q filed with the Securities and Exchange Commission (“SEC”), as such factors may be updated from time to time in our other filings with the SEC. AtaiBeckley disclaims any obligation to update or revise any forward-looking statements contained in this press release, other than to the extent required by applicable law.
+
+Contact Information: Investors: Jason Awe, PhD VP, Investor Relations IR@ataibeckley.com
+
+Media: Charlotte Chorley Associate Director, Communications PR@ataibeckley.com

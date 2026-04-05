@@ -1,0 +1,13 @@
+WATERTOWN, Mass, March 16, 2026 (GLOBE NEWSWIRE) -- EyePoint, Inc. (Nasdaq: EYPT), a company committed to developing and commercializing therapeutics to help improve the lives of patients with serious retinal diseases, today announced that the Company granted non-statutory stock options to new employees as inducement awards outside the Company’s 2023 Long-Term Incentive Plan in accordance with NASDAQ Listing Rule 5635(c)(4).
+
+The Company granted stock options to purchase up to an aggregate of 20,000 shares of EyePoint common stock to six new employees. The stock options were granted on March 13, 2026. The grants were approved by the Compensation Committee and made as an inducement material to each employee entering into employment with EyePoint in accordance with NASDAQ Listing Rule 5635(c)(4). The option awards have an exercise price of $13.20 per share, the closing price of EyePoint’s common stock on March 13, 2026. The options have a ten-year term and vest over four years, with 25% of the original number of shares vesting on the first anniversary of the applicable employee’s date of grant and the remainder vesting in equal monthly installments over the following three years. Vesting of the options is subject to the employee’s continued service with EyePoint through the applicable vesting dates.
+
+About EyePoint
+
+EyePoint, Inc. (Nasdaq: EYPT) is a clinical-stage biopharmaceutical company committed to developing and commercializing innovative therapeutics to improve the lives of patients with serious retinal diseases. The Company’s lead product candidate, DURAVYU™, is an innovative investigational sustained delivery treatment for serious retinal diseases combining vorolanib, a selective and patent-protected tyrosine kinase inhibitor, in next-generation bioerodible Durasert E™ technology. Supported by robust safety and efficacy data across multiple clinical trials and indications, DURAVYU is currently being evaluated in Phase 3 pivotal trials for wet age-related macular degeneration (wet AMD) and diabetic macular edema (DME). Topline data is expected for wet AMD beginning in mid-2026.
+
+The Company is committed to partnering with the retina community to improve patient lives while creating long-term value, with four approved drugs over three decades and tens of thousands of eyes treated with EyePoint innovation.
+
+EyePoint is headquartered in Watertown, Massachusetts, with a commercial manufacturing facility in Northbridge, Massachusetts.
+
+Vorolanib is licensed to EyePoint exclusively by Equinox Sciences, a Betta Pharmaceuticals affiliate, for the localized treatment of all ophthalmic diseases outside of China, Macao, Hong Kong and Taiwan.

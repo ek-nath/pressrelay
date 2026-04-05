@@ -1,0 +1,11 @@
+WALTHAM, Mass., Jan. 05, 2026 (GLOBE NEWSWIRE) -- Upstream Bio, Inc. (Nasdaq: UPB), a clinical-stage company developing treatments for inflammatory diseases, with an initial focus on severe respiratory disorders, today announced that Rand Sutherland, MD, Chief Executive Officer of Upstream Bio, will be presenting at the 44th Annual J.P. Morgan Healthcare Conference on Monday, January 12, 2026, at 2:15 p.m. PT.
+
+A live webcast of the presentation will be available under the Events tab on the Investors section of Upstream Bio’s website on the day of the event. A replay will be available on the Company's website following the presentation.
+
+About Upstream Bio  
+Upstream Bio is a clinical-stage biotechnology company developing treatments for inflammatory diseases, with an initial focus on severe respiratory disorders. Upstream Bio is developing verekitug, the only known antagonist currently in clinical development that targets the receptor for thymic stromal lymphopoietin (TSLP), a cytokine which is a clinically validated driver of inflammatory response positioned upstream of multiple signaling cascades that affect a variety of immune mediated diseases. Upstream Bio has advanced this highly potent monoclonal antibody into separate Phase 2 trials for the treatment of chronic rhinosinusitis with nasal polyps (CRSwNP), severe asthma and chronic obstructive pulmonary disease (COPD). Upstream Bio’s team is committed to maximizing verekitug’s unique attributes to address the substantial unmet needs for patients underserved by today’s standard of care. To learn more, please visit www.upstreambio.com.
+
+Investor and Media Contact:  
+Meggan Buckwell  
+Director, Corporate Communications and Investor Relations  
+ir@upstreambio.com

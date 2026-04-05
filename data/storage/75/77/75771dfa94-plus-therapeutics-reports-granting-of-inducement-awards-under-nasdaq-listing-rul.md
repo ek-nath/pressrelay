@@ -1,0 +1,15 @@
+HOUSTON, March 31, 2026 (GLOBE NEWSWIRE) -- Plus Therapeutics, Inc. (Nasdaq: PSTV) (the “Company”), a healthcare company developing and commercializing precision diagnostics and radiopharmaceuticals for central nervous system (CNS) cancers, today announced that it has granted inducement awards to two new employees who recently joined the Company.
+
+The awards were granted on March 26, 2026 under the Company’s 2015 New Employee Incentive Plan, as amended, which provides for the granting of equity awards to new employees as an inducement to join the Company. The inducement awards consist in the aggregate of options to purchase 300,000 shares of Company common stock and 300,000 restricted stock units (“RSUs”).
+
+The options have a 10-year term and an exercise price equal to $0.243, the fair market value of the Company’s common stock on the date of grant. The options vest over a four-year period, with 25% of the shares subject to the options vesting on the first anniversary of the vesting commencement date of March 26, 2026, and 1/36th vesting on each monthly anniversary thereafter, subject to the employee’s continued service with the Company through each applicable vesting date.
+
+Each RSU represents a contingent right to receive one share of the Company’s common stock and there is no exercise price associated with the RSUs granted thereunder. The RSUs vest over a three-year period, with 1/3 vesting on the first anniversary of the grant date, and the remaining RSUs vesting ratably over the next 8 quarters, subject to the employee’s continued service with the Company through each applicable vesting date.
+
+The awards were approved by the Compensation Committee of the Company’s board of directors, as required by Nasdaq Rule 5635(c)(4), and were granted as an inducement material to the new employees entering into employment with the Company in accordance with Nasdaq Rule 5635(c)(4).
+
+About CNSide Diagnostics, LLC  
+CNSide Diagnostics, LLC is a wholly owned subsidiary of Plus Therapeutics, Inc. that develops and commercializes proprietary laboratory-developed tests, such as the CNSide® Tumor Cell Enumeration assay, designed to identify tumor cells that have metastasized to the central nervous system in patients with carcinomas and melanomas. The CNSide® CSF Assay Platform enables quantitative analysis of the cerebrospinal fluid that informs and improves the management of patients with leptomeningeal metastases.
+
+About Plus Therapeutics  
+Headquartered in Houston, Texas, Plus Therapeutics, Inc. is a clinical-stage pharmaceutical company developing targeted radiotherapeutics for difficult-to-treat cancers of the central nervous system with the potential to enhance clinical outcomes. Combining image-guided local beta radiation and targeted drug delivery approaches, the Company is advancing a pipeline of product candidates with lead programs in leptomeningeal metastases (LM) and recurrent glioblastoma (GBM). The Company has built a supply chain through strategic partnerships that enable the development, manufacturing, and future potential commercialization of its products.
