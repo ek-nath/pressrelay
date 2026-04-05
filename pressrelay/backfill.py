@@ -5,6 +5,7 @@ from typing import List, Set
 
 import yfinance as yf
 from sqlalchemy import select
+from tenacity import retry, wait_exponential, stop_after_attempt, retry_if_exception_type
 
 from pressrelay.logger import logger
 from pressrelay.config import settings
@@ -13,6 +14,25 @@ from pressrelay.client import AsyncClientManager
 from pressrelay.tasks import process_and_save_article
 
 TRUSTED_PROVIDERS = {"GlobeNewswire", "BusinessWire", "PR Newswire", "PRNewswire"}
+
+# Yahoo Finance specific rate limit error can manifest as various exceptions
+# including its own YFRateLimitError or generic connection errors.
+try:
+    from yfinance.exceptions import YFRateLimitError
+except ImportError:
+    # Fallback for older versions
+    class YFRateLimitError(Exception): pass
+
+@retry(
+    wait=wait_exponential(multiplier=1, min=4, max=60),
+    stop=stop_after_attempt(5),
+    retry=retry_if_exception_type((Exception,)), # yfinance raises broad exceptions sometimes
+    before_sleep=lambda retry_state: logger.warning(f"Rate limited or error. Retrying in {retry_state.next_action.sleep} seconds... (Attempt {retry_state.attempt_number})")
+)
+def fetch_news_with_retry(ticker_symbol: str):
+    """Synchronous wrapper for yfinance news fetching with exponential backoff."""
+    ticker = yf.Ticker(ticker_symbol)
+    return ticker.get_news(tab="press releases")
 
 async def backfill_ticker(
     ticker_symbol: str,
@@ -27,9 +47,9 @@ async def backfill_ticker(
     logger.info(f"{'[DRY RUN] ' if dry_run else ''}Backfilling ticker: {ticker_symbol}")
     
     try:
-        # yfinance is synchronous, but we only call it once per ticker
-        ticker = yf.Ticker(ticker_symbol)
-        news_items = ticker.get_news(tab="press releases")
+        # Use the retry-decorated function
+        loop = asyncio.get_running_loop()
+        news_items = await loop.run_in_executor(None, fetch_news_with_retry, ticker_symbol)
         
         if not news_items:
             logger.debug(f"No press releases found for {ticker_symbol}")
@@ -40,11 +60,9 @@ async def backfill_ticker(
             content = item.get("content", {})
             provider = content.get("provider", {}).get("displayName")
             
-            # 1. Filter by Provider
             if provider not in TRUSTED_PROVIDERS:
                 continue
                 
-            # 2. Filter by Date
             pub_date_str = content.get("pubDate")
             if not pub_date_str:
                 continue
@@ -54,7 +72,6 @@ async def backfill_ticker(
             if pub_date.replace(tzinfo=None) < start_date:
                 continue
 
-            # 3. Prepare for saving
             article_url = content.get("clickThroughUrl", {}).get("url")
             if not article_url:
                 continue
@@ -86,7 +103,7 @@ async def backfill_ticker(
             logger.success(f"{'[DRY RUN] Would have backfilled' if dry_run else 'Backfilled'} {processed_count} articles for {ticker_symbol}")
 
     except Exception as e:
-        logger.error(f"Error backfilling ticker {ticker_symbol}: {e}")
+        logger.error(f"Failed to backfill ticker {ticker_symbol} after retries: {e}")
 
 async def main():
     parser = argparse.ArgumentParser(description="Backfill historical news articles.")
@@ -100,7 +117,6 @@ async def main():
     engine = await get_db_engine(config.database_url)
     session_factory = get_session_factory(engine)
     
-    # Initialize Watchlist for detection
     async with session_factory() as session:
         res = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
         active_tickers = set(res.scalars().all())
@@ -114,7 +130,8 @@ async def main():
     
     client = AsyncClientManager.get_client()
     
-    chunk_size = 5
+    # Increased chunk sleep to be more conservative alongside backoff
+    chunk_size = 3
     for i in range(0, len(tickers_to_process), chunk_size):
         chunk = tickers_to_process[i:i+chunk_size]
         tasks = [
@@ -122,7 +139,7 @@ async def main():
             for t in chunk
         ]
         await asyncio.gather(*tasks)
-        await asyncio.sleep(1)
+        await asyncio.sleep(2)
 
     await AsyncClientManager.close_client()
 
