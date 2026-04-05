@@ -79,7 +79,8 @@ async def backfill_ticker(
                 app_config,
                 session_factory,
                 keyword_processor,
-                dry_run=dry_run
+                dry_run=dry_run,
+                primary_ticker=ticker_symbol
             )
             if success:
                 processed_count += 1

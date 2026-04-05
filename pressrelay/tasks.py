@@ -35,7 +35,8 @@ async def process_and_save_article(
     app_config: AppConfig,
     session_factory: Callable[[], AsyncSession],
     keyword_processor: Optional[KeywordProcessor] = None,
-    dry_run: bool = False
+    dry_run: bool = False,
+    primary_ticker: Optional[str] = None
 ) -> bool:
     """Processes a single article entry: fetches, converts, and saves with V2 logic."""
     article_url = entry.get('link')
@@ -49,7 +50,17 @@ async def process_and_save_article(
         existing_article = result.scalars().first()
         
         if existing_article and existing_article.status == ArticleStatus.SUCCESS:
-            return True  # Already processed successfully
+            # Even if it exists, if we have a primary_ticker that isn't in the list, we might want to update?
+            # For now, let's just ensure the primary_ticker is recorded if available.
+            if primary_ticker:
+                meta = dict(existing_article.metadata_json)
+                tickers = meta.get('detected_tickers', [])
+                if primary_ticker not in tickers:
+                    tickers.append(primary_ticker)
+                    meta['detected_tickers'] = list(set(tickers))
+                    existing_article.metadata_json = meta
+                    await session.commit()
+            return True
 
         logger.info(f"{'[DRY RUN] ' if dry_run else ''}Processing article: '{entry.get('title', 'No Title')}'")
 
@@ -77,12 +88,18 @@ async def process_and_save_article(
         detected_tickers = []
         if keyword_processor and markdown_content:
             detected_tickers = keyword_processor.extract_keywords(markdown_content)
-            # Dedup
-            detected_tickers = list(set(detected_tickers))
+            
+        if primary_ticker:
+            detected_tickers.append(primary_ticker)
+            
+        # Dedup
+        detected_tickers = list(set(detected_tickers))
             
         if metadata is None:
             metadata = {}
         metadata['detected_tickers'] = detected_tickers
+        if primary_ticker:
+            metadata['primary_ticker'] = primary_ticker
 
         if dry_run:
             logger.info(f"[DRY RUN] Would save article: {entry.get('title')} (Tickers: {', '.join(detected_tickers)})")
