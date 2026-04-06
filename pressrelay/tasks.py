@@ -6,7 +6,7 @@ import feedparser
 from datetime import datetime
 from time import mktime
 from typing import Optional, Callable, List, Tuple, Dict, Any, Set
-import httpx
+from curl_cffi.requests import AsyncSession as AsyncSessionCffi
 import aiofiles
 from flashtext import KeywordProcessor
 
@@ -40,21 +40,17 @@ def detect_tickers_deterministic(
     """
     detected = set()
     
-    # 1. Pattern: (EXCHANGE: TICKER) or (TICKER) in first 1000 chars
-    # Matches: (Nasdaq: MDAI), (NASDAQ:MDAI), (NYSE: AEON), (SNDX)
     combined_text = f"{title} {content[:1000]}"
     paren_matches = re.findall(r'\((?:[A-Za-z\s]+: ?)?([A-Z]{1,5})\)', combined_text)
     for m in paren_matches:
         if m in watchlist:
             detected.add(m)
             
-    # 2. Pattern: $TICKER
     dollar_matches = re.findall(r'\$([A-Z]{1,5})\b', content)
     for m in dollar_matches:
         if m in watchlist:
             detected.add(m)
             
-    # 3. Pattern: EXCHANGE:TICKER (without parens)
     exchange_matches = re.findall(r'(?:NASDAQ|NYSE|OTC|TSX): ?([A-Z]{1,5})\b', combined_text, re.IGNORECASE)
     for m in exchange_matches:
         if m.upper() in watchlist:
@@ -65,7 +61,7 @@ def detect_tickers_deterministic(
 async def process_and_save_article(
     entry: dict, 
     feed_cfg: FeedConfig, 
-    client: httpx.AsyncClient, 
+    client: AsyncSessionCffi, 
     app_config: AppConfig,
     session: AsyncSession,
     keyword_processor: Optional[KeywordProcessor] = None,
@@ -85,7 +81,15 @@ async def process_and_save_article(
     existing_article = result.scalars().first()
     
     if existing_article and existing_article.status == ArticleStatus.SUCCESS:
-        return True  # Already processed successfully
+        if primary_ticker:
+            meta = dict(existing_article.metadata_json)
+            tickers = meta.get('detected_tickers', [])
+            if primary_ticker not in tickers:
+                tickers.append(primary_ticker)
+                meta['detected_tickers'] = list(set(tickers))
+                existing_article.metadata_json = meta
+                await session.commit()
+        return True
 
     logger.info(f"{'[DRY RUN] ' if dry_run else ''}Processing article: '{entry.get('title', 'No Title')}'")
 
@@ -95,7 +99,6 @@ async def process_and_save_article(
     if not markdown_content:
         if not dry_run:
             ARTICLES_PROCESSED.labels(status="failed", source=feed_cfg.name or "unknown").inc()
-            # Create a failed record if it doesn't exist
             if not existing_article:
                 failed_article = Article(
                     title=entry.get('title', 'Unknown'),
@@ -110,19 +113,17 @@ async def process_and_save_article(
     # 3. Determine metadata, hashes, and tickers
     content_hash = get_content_hash(markdown_content)
     
-    # New Deterministic Detection
     title = entry.get('title', '')
     if watchlist_set:
         detected_tickers = detect_tickers_deterministic(title, markdown_content, watchlist_set)
     else:
         detected_tickers = []
-        
+            
     if primary_ticker:
         detected_tickers.append(primary_ticker)
-        
-    # Dedup
+            
     detected_tickers = list(set(detected_tickers))
-        
+            
     if metadata is None:
         metadata = {}
     metadata['detected_tickers'] = detected_tickers
@@ -178,7 +179,6 @@ async def process_and_save_article(
         
     await session.commit()
     
-    # Record Success Metrics
     ARTICLES_PROCESSED.labels(status="success", source=feed_cfg.name or "unknown").inc()
     PROCESSING_LATENCY.observe(time.time() - start_time)
     for ticker in detected_tickers:
@@ -213,8 +213,7 @@ async def update_feed_health(
         if error:
             feed.error_count = (feed.error_count or 0) + 1
         else:
-            feed.error_count = 0 # Reset on success
-
+            feed.error_count = 0 
             
         FEED_ERROR_COUNT.labels(feed_name=feed_cfg.name or feed_cfg.url).set(feed.error_count)
 
@@ -229,15 +228,13 @@ async def feed_processing_loop(
     feed_cfg: FeedConfig, 
     app_config: AppConfig,
     session_factory: Callable[[], AsyncSession],
-    client: httpx.AsyncClient,
+    client: AsyncSessionCffi,
     dry_run: bool = False
 ):
     """Infinite loop for fetching and processing a single RSS feed."""
     
-    # Limit concurrency to avoid DB pool overflow and network congestion
     semaphore = asyncio.BoundedSemaphore(10)
 
-    # Initialize Watchlist Set for deterministic detection
     async with session_factory() as session:
         result = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
         active_tickers = set(result.scalars().all())

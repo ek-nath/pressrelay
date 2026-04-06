@@ -1,7 +1,7 @@
 import asyncio
 from typing import Union, Tuple, Dict, Any
 
-import httpx
+from curl_cffi.requests import AsyncSession
 import trafilatura
 from html_to_markdown import convert
 
@@ -9,11 +9,11 @@ from pressrelay.logger import logger
 
 async def fetch_and_convert_to_markdown(
     url: str, 
-    client: httpx.AsyncClient
+    client: AsyncSession
 ) -> Tuple[Optional[str], Optional[Dict[str, Any]]]:
     """
     Fetches the main content from a URL asynchronously and converts it to Markdown.
-    Returns: (markdown_content, metadata_dict)
+    Uses curl-cffi for browser impersonation to bypass bot detection.
     """
     logger.debug(f"Processing URL: {url}")
     try:
@@ -22,11 +22,8 @@ async def fetch_and_convert_to_markdown(
         response.raise_for_status()
         downloaded_html = response.text
 
-    except httpx.HTTPStatusError as e:
-        logger.warning(f"HTTP error {e.response.status_code} for URL: {e.request.url}")
-        return None, None
-    except httpx.RequestError as e:
-        logger.warning(f"Network error for URL {e.request.url}: {e.__class__.__name__}")
+    except Exception as e:
+        logger.warning(f"Fetch error for URL {url}: {e}")
         return None, None
 
     # 2. Extract main content

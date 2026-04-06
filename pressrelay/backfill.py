@@ -6,6 +6,7 @@ from typing import List, Set
 import yfinance as yf
 from sqlalchemy import select
 from tenacity import retry, wait_exponential, stop_after_attempt, retry_if_exception_type
+from curl_cffi.requests import AsyncSession as AsyncSessionCffi
 
 from pressrelay.logger import logger
 from pressrelay.config import settings
@@ -16,17 +17,15 @@ from pressrelay.tasks import process_and_save_article
 TRUSTED_PROVIDERS = {"GlobeNewswire", "BusinessWire", "PR Newswire", "PRNewswire"}
 
 # Yahoo Finance specific rate limit error can manifest as various exceptions
-# including its own YFRateLimitError or generic connection errors.
 try:
     from yfinance.exceptions import YFRateLimitError
 except ImportError:
-    # Fallback for older versions
     class YFRateLimitError(Exception): pass
 
 @retry(
     wait=wait_exponential(multiplier=1, min=4, max=60),
     stop=stop_after_attempt(5),
-    retry=retry_if_exception_type((Exception,)), # yfinance raises broad exceptions sometimes
+    retry=retry_if_exception_type((Exception,)),
     before_sleep=lambda retry_state: logger.warning(f"Rate limited or error. Retrying in {retry_state.next_action.sleep} seconds... (Attempt {retry_state.attempt_number})")
 )
 def fetch_news_with_retry(ticker_symbol: str):
@@ -39,7 +38,7 @@ async def backfill_ticker(
     start_date: datetime,
     app_config,
     session_factory,
-    client,
+    client: AsyncSessionCffi,
     dry_run: bool = False,
     watchlist_set: Set[str] = None
 ):
@@ -47,7 +46,6 @@ async def backfill_ticker(
     logger.info(f"{'[DRY RUN] ' if dry_run else ''}Backfilling ticker: {ticker_symbol}")
     
     try:
-        # Use the retry-decorated function
         loop = asyncio.get_running_loop()
         news_items = await loop.run_in_executor(None, fetch_news_with_retry, ticker_symbol)
         
@@ -131,7 +129,6 @@ async def main():
     
     client = AsyncClientManager.get_client()
     
-    # Increased chunk sleep to be more conservative alongside backoff
     chunk_size = 3
     for i in range(0, len(tickers_to_process), chunk_size):
         chunk = tickers_to_process[i:i+chunk_size]

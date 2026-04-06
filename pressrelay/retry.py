@@ -14,8 +14,8 @@ async def retry_failed_articles(dry_run: bool = False):
     
     # 1. Initialize Watchlist
     async with session_factory() as session:
-        res = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
-        active_tickers = set(res.scalars().all())
+        result = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
+        active_tickers = set(result.scalars().all())
 
     # 2. Get Failed Articles
     async with session_factory() as session:
