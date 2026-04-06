@@ -14,6 +14,9 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select
 
 from pressrelay.logger import logger
+from pressrelay.database import Article, ArticleStatus, Feed, Watchlist
+from pressrelay.processing import fetch_and_convert_to_markdown
+from pressrelay.config import AppConfig, FeedConfig
 import time
 from pressrelay.metrics import ARTICLES_PROCESSED, FEED_FETCH_TOTAL, PROCESSING_LATENCY, ACTIVE_TICKERS, TICKERS_DETECTED, FEED_ERROR_COUNT
 
