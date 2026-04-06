@@ -20,6 +20,48 @@ from pressrelay.config import AppConfig, FeedConfig
 import time
 from pressrelay.metrics import ARTICLES_PROCESSED, FEED_FETCH_TOTAL, PROCESSING_LATENCY, ACTIVE_TICKERS, TICKERS_DETECTED, FEED_ERROR_COUNT
 
+def slugify(text: str) -> str:
+    """Convert a string to a URL-friendly slug."""
+    text = text.lower()
+    text = re.sub(r'[\s\W-]+', '-', text)
+    return text.strip('-')
+
+def get_content_hash(content: str) -> str:
+    """Generate a SHA256 hash of the content."""
+    return hashlib.sha256(content.encode('utf-8')).hexdigest()
+
+def detect_tickers_deterministic(
+    title: str, 
+    content: str, 
+    watchlist: Set[str]
+) -> List[str]:
+    """
+    Highly deterministic ticker detection using PR industry patterns.
+    """
+    detected = set()
+    
+    # 1. Pattern: (EXCHANGE: TICKER) or (TICKER) in first 1000 chars
+    # Matches: (Nasdaq: MDAI), (NASDAQ:MDAI), (NYSE: AEON), (SNDX)
+    combined_text = f"{title} {content[:1000]}"
+    paren_matches = re.findall(r'\((?:[A-Za-z\s]+: ?)?([A-Z]{1,5})\)', combined_text)
+    for m in paren_matches:
+        if m in watchlist:
+            detected.add(m)
+            
+    # 2. Pattern: $TICKER
+    dollar_matches = re.findall(r'\$([A-Z]{1,5})\b', content)
+    for m in dollar_matches:
+        if m in watchlist:
+            detected.add(m)
+            
+    # 3. Pattern: EXCHANGE:TICKER (without parens)
+    exchange_matches = re.findall(r'(?:NASDAQ|NYSE|OTC|TSX): ?([A-Z]{1,5})\b', combined_text, re.IGNORECASE)
+    for m in exchange_matches:
+        if m.upper() in watchlist:
+            detected.add(m.upper())
+
+    return list(detected)
+
 async def process_and_save_article(
     entry: dict, 
     feed_cfg: FeedConfig, 
