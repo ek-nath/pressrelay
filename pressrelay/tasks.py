@@ -166,9 +166,10 @@ async def update_feed_health(
         
         feed.last_fetch_at = datetime.utcnow()
         if error:
-            feed.error_count += 1
+            feed.error_count = (feed.error_count or 0) + 1
         else:
-            feed.error_count = 0 
+            feed.error_count = 0 # Reset on success
+
             
         FEED_ERROR_COUNT.labels(feed_name=feed_cfg.name or feed_cfg.url).set(feed.error_count)
 
