@@ -67,7 +67,7 @@ async def process_and_save_article(
     feed_cfg: FeedConfig, 
     client: httpx.AsyncClient, 
     app_config: AppConfig,
-    session_factory: Callable[[], AsyncSession],
+    session: AsyncSession,
     keyword_processor: Optional[KeywordProcessor] = None,
     dry_run: bool = False,
     primary_ticker: Optional[str] = None,
@@ -79,113 +79,116 @@ async def process_and_save_article(
     if not article_url:
         return False
 
-    async with session_factory() as session:
-        # 1. Check if article already exists in the DB
-        stmt = select(Article).where(Article.url == article_url)
-        result = await session.execute(stmt)
-        existing_article = result.scalars().first()
-        
-        if existing_article and existing_article.status == ArticleStatus.SUCCESS:
-            return True  # Already processed successfully
+    # 1. Check if article already exists in the DB
+    stmt = select(Article).where(Article.url == article_url)
+    result = await session.execute(stmt)
+    existing_article = result.scalars().first()
+    
+    if existing_article and existing_article.status == ArticleStatus.SUCCESS:
+        return True  # Already processed successfully
 
-        logger.info(f"{'[DRY RUN] ' if dry_run else ''}Processing article: '{entry.get('title', 'No Title')}'")
+    logger.info(f"{'[DRY RUN] ' if dry_run else ''}Processing article: '{entry.get('title', 'No Title')}'")
 
-        # 2. Fetch and convert the article content
-        markdown_content, metadata = await fetch_and_convert_to_markdown(article_url, client)
-        
-        if not markdown_content:
-            if not dry_run:
-                ARTICLES_PROCESSED.labels(status="failed", source=feed_cfg.name or "unknown").inc()
-                # Create a failed record if it doesn't exist
-                if not existing_article:
-                    failed_article = Article(
-                        title=entry.get('title', 'Unknown'),
-                        url=article_url,
-                        source_feed=feed_cfg.url,
-                        status=ArticleStatus.FAILED
-                    )
-                    session.add(failed_article)
-                    await session.commit()
-            return False
-
-        # 3. Determine metadata, hashes, and tickers
-        content_hash = get_content_hash(markdown_content)
-        
-        # New Deterministic Detection
-        title = entry.get('title', '')
-        if watchlist_set:
-            detected_tickers = detect_tickers_deterministic(title, markdown_content, watchlist_set)
-        else:
-            detected_tickers = []
-            
-        if primary_ticker:
-            detected_tickers.append(primary_ticker)
-            
-        # Dedup
-        detected_tickers = list(set(detected_tickers))
-            
-        if metadata is None:
-            metadata = {}
-        metadata['detected_tickers'] = detected_tickers
-        if primary_ticker:
-            metadata['primary_ticker'] = primary_ticker
-
-        if dry_run:
-            logger.info(f"[DRY RUN] Would save article: {entry.get('title')} (Tickers: {', '.join(detected_tickers)})")
-            return True
-
-        # 4. Save markdown file
-        h = content_hash
-        hash_dir = app_config.storage_path / h[0:2] / h[2:4]
-        hash_dir.mkdir(parents=True, exist_ok=True)
-        
-        article_slug = slugify(entry.get('title', 'article'))
-        filename = f"{h[:10]}-{article_slug[:80]}.md"
-        file_path = hash_dir / filename
-
-        try:
-            async with aiofiles.open(file_path, "w", encoding="utf-8") as f:
-                await f.write(markdown_content)
-        except IOError as e:
-            logger.error(f"Error saving markdown file {file_path}: {e}")
+    # 2. Fetch and convert the article content
+    markdown_content, metadata = await fetch_and_convert_to_markdown(article_url, client)
+    
+    if not markdown_content:
+        if not dry_run:
             ARTICLES_PROCESSED.labels(status="failed", source=feed_cfg.name or "unknown").inc()
-            return False
+            # Create a failed record if it doesn't exist
+            if not existing_article:
+                failed_article = Article(
+                    title=entry.get('title', 'Unknown'),
+                    url=article_url,
+                    source_feed=feed_cfg.url,
+                    status=ArticleStatus.FAILED
+                )
+                session.add(failed_article)
+                await session.commit()
+        return False
 
-        # 5. Update or Create Article record
-        if existing_article:
-            existing_article.status = ArticleStatus.SUCCESS
-            existing_article.content_hash = content_hash
-            existing_article.published_at = datetime.utcnow()
-            existing_article.markdown_path = str(file_path)
-            existing_article.processed_at = datetime.utcnow()
-            existing_article.metadata_json = metadata
-        else:
-            new_article = Article(
-                title=entry.get('title', 'Unknown'),
-                url=article_url,
-                source_feed=feed_cfg.url,
-                status=ArticleStatus.SUCCESS,
-                content_hash=content_hash,
-                published_at=datetime.utcnow(),
-                markdown_path=str(file_path),
-                processed_at=datetime.utcnow(),
-                metadata_json=metadata
-            )
-            session.add(new_article)
-            
-        await session.commit()
+    # 3. Determine metadata, hashes, and tickers
+    content_hash = get_content_hash(markdown_content)
+    
+    # New Deterministic Detection
+    title = entry.get('title', '')
+    if watchlist_set:
+        detected_tickers = detect_tickers_deterministic(title, markdown_content, watchlist_set)
+    else:
+        detected_tickers = []
         
-        # Record Success Metrics
-        ARTICLES_PROCESSED.labels(status="success", source=feed_cfg.name or "unknown").inc()
-        PROCESSING_LATENCY.observe(time.time() - start_time)
-        for ticker in detected_tickers:
-            TICKERS_DETECTED.labels(ticker=ticker).inc()
+    if primary_ticker:
+        detected_tickers.append(primary_ticker)
+        
+    # Dedup
+    detected_tickers = list(set(detected_tickers))
+        
+    if metadata is None:
+        metadata = {}
+    metadata['detected_tickers'] = detected_tickers
+    if primary_ticker:
+        metadata['primary_ticker'] = primary_ticker
 
-        if detected_tickers:
-            logger.success(f"Successfully saved article: {entry.get('title')} (Tickers: {', '.join(detected_tickers)})")
-        else:
-            logger.success(f"Successfully saved article: {entry.get('title')}")
+    if dry_run:
+        logger.info(f"[DRY RUN] Would save article: {entry.get('title')} (Tickers: {', '.join(detected_tickers)})")
         return True
+
+    published_at = datetime.utcnow()
+    if hasattr(entry, 'published_parsed') and entry.published_parsed:
+        published_at = datetime.fromtimestamp(mktime(entry.published_parsed))
+
+    # 4. Save markdown file
+    h = content_hash
+    hash_dir = app_config.storage_path / h[0:2] / h[2:4]
+    hash_dir.mkdir(parents=True, exist_ok=True)
+    
+    article_slug = slugify(entry.get('title', 'article'))
+    filename = f"{h[:10]}-{article_slug[:80]}.md"
+    file_path = hash_dir / filename
+
+    try:
+        async with aiofiles.open(file_path, "w", encoding="utf-8") as f:
+            await f.write(markdown_content)
+    except IOError as e:
+        logger.error(f"Error saving markdown file {file_path}: {e}")
+        ARTICLES_PROCESSED.labels(status="failed", source=feed_cfg.name or "unknown").inc()
+        return False
+
+    # 5. Update or Create Article record
+    if existing_article:
+        existing_article.status = ArticleStatus.SUCCESS
+        existing_article.content_hash = content_hash
+        existing_article.published_at = published_at
+        existing_article.markdown_path = str(file_path)
+        existing_article.processed_at = datetime.utcnow()
+        existing_article.metadata_json = metadata
+    else:
+        new_article = Article(
+            title=entry.get('title', 'Unknown'),
+            url=article_url,
+            source_feed=feed_cfg.url,
+            status=ArticleStatus.SUCCESS,
+            content_hash=content_hash,
+            published_at=published_at,
+            markdown_path=str(file_path),
+            processed_at=datetime.utcnow(),
+            metadata_json=metadata
+        )
+        session.add(new_article)
+        
+    await session.commit()
+    
+    # Record Success Metrics
+    ARTICLES_PROCESSED.labels(status="success", source=feed_cfg.name or "unknown").inc()
+    PROCESSING_LATENCY.observe(time.time() - start_time)
+    for ticker in detected_tickers:
+        TICKERS_DETECTED.labels(ticker=ticker).inc()
+
+    if detected_tickers:
+        logger.success(f"Successfully saved article: {entry.get('title')} (Tickers: {', '.join(detected_tickers)})")
+    else:
+        logger.success(f"Successfully saved article: {entry.get('title')}")
+    return True
 
 async def update_feed_health(
     feed_cfg: FeedConfig, 
@@ -231,6 +234,9 @@ async def feed_processing_loop(
 ):
     """Infinite loop for fetching and processing a single RSS feed."""
     
+    # Limit concurrency to avoid DB pool overflow and network congestion
+    semaphore = asyncio.BoundedSemaphore(10)
+
     # Initialize Watchlist Set for deterministic detection
     async with session_factory() as session:
         result = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
@@ -261,13 +267,18 @@ async def feed_processing_loop(
                 lambda: feedparser.parse(feed_cfg.url, etag=etag, modified=last_modified)
             )
             
-            if feed_data.status == 304:
+            if getattr(feed_data, 'status', None) == 304:
                 logger.info(f"Feed '{feed_cfg.name or feed_cfg.url}' unchanged (304 Not Modified).")
             else:
-                tasks = [
-                    process_and_save_article(entry, feed_cfg, client, app_config, session_factory, None, dry_run=dry_run, watchlist_set=active_tickers)
-                    for entry in feed_data.entries
-                ]
+                async def sem_process(entry):
+                    async with semaphore:
+                        async with session_factory() as session:
+                            return await process_and_save_article(
+                                entry, feed_cfg, client, app_config, session, None, 
+                                dry_run=dry_run, watchlist_set=active_tickers
+                            )
+
+                tasks = [sem_process(entry) for entry in feed_data.entries]
                 await asyncio.gather(*tasks)
 
             if not dry_run:
@@ -276,7 +287,7 @@ async def feed_processing_loop(
                 await update_feed_health(feed_cfg, session_factory, error=False, etag=new_etag, last_modified=new_modified)
 
         except Exception as e:
-            logger.error(f"Error processing feed {feed_cfg.url}: {e}")
+            logger.error(f"Error processing feed {feed_cfg.url}: {e}", exc_info=True)
             if not dry_run:
                 await update_feed_health(feed_cfg, session_factory, error=True)
 

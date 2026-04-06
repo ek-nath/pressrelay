@@ -85,17 +85,18 @@ async def backfill_ticker(
             from pressrelay.config import FeedConfig
             mock_feed_cfg = FeedConfig(url=f"backfill://{provider}", name=provider)
 
-            success = await process_and_save_article(
-                mock_entry,
-                mock_feed_cfg,
-                client,
-                app_config,
-                session_factory,
-                None,
-                dry_run=dry_run,
-                primary_ticker=ticker_symbol,
-                watchlist_set=watchlist_set
-            )
+            async with session_factory() as session:
+                success = await process_and_save_article(
+                    mock_entry,
+                    mock_feed_cfg,
+                    client,
+                    app_config,
+                    session,
+                    None,
+                    dry_run=dry_run,
+                    primary_ticker=ticker_symbol,
+                    watchlist_set=watchlist_set
+                )
             if success:
                 processed_count += 1
             

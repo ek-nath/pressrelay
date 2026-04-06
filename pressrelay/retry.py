@@ -40,16 +40,17 @@ async def retry_failed_articles(dry_run: bool = False):
             }
             mock_feed_cfg = FeedConfig(url=art.source_feed, name="Retry")
             
-            success = await process_and_save_article(
-                mock_entry,
-                mock_feed_cfg,
-                client,
-                config,
-                session_factory,
-                None,
-                dry_run=dry_run,
-                watchlist_set=active_tickers
-            )
+            async with session_factory() as session:
+                success = await process_and_save_article(
+                    mock_entry,
+                    mock_feed_cfg,
+                    client,
+                    config,
+                    session,
+                    None,
+                    dry_run=dry_run,
+                    watchlist_set=active_tickers
+                )
             if success:
                 success_count += 1
                 
