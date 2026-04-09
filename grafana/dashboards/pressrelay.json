@@ -104,13 +104,30 @@
     },
     {
       "datasource": "Prometheus",
-      "gridPos": { "h": 8, "w": 8, "x": 0, "y": 4 },
+      "fieldConfig": {
+        "defaults": {
+          "color": { "mode": "palette-classic" },
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              { "color": "blue", "value": null }
+            ]
+          }
+        }
+      },
+      "gridPos": { "h": 10, "w": 8, "x": 0, "y": 4 },
       "id": 3,
       "options": {
-        "displayLabels": ["value"],
-        "legend": { "displayMode": "list", "placement": "bottom", "showLegend": true },
+        "displayMode": "basic",
         "orientation": "horizontal",
-        "reduceOptions": { "calcs": ["sum"], "fields": "", "values": false }
+        "reduceOptions": {
+          "calcs": ["lastNotNull"],
+          "fields": "",
+          "values": false
+        },
+        "showUnfilled": true,
+        "text": {}
       },
       "targets": [
         {
@@ -121,7 +138,7 @@
         }
       ],
       "title": "Top 10 Detected Tickers",
-      "type": "barchart"
+      "type": "bargauge"
     },
     {
       "datasource": "Prometheus",
@@ -137,7 +154,7 @@
           }
         }
       },
-      "gridPos": { "h": 6, "w": 24, "x": 0, "y": 12 },
+      "gridPos": { "h": 6, "w": 24, "x": 0, "y": 14 },
       "id": 4,
       "options": {
         "reduceOptions": { "calcs": ["lastNotNull"], "fields": "", "values": false },
@@ -164,5 +181,5 @@
   "timezone": "",
   "title": "PressRelay Overview",
   "uid": "pressrelay_v2",
-  "version": 1
+  "version": 2
 }
