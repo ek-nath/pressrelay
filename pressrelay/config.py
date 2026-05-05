@@ -13,6 +13,7 @@ class AppConfig(BaseModel):
     database_url: str = Field(default="sqlite+aiosqlite:///data/pressrelay_v2.db")
     storage_path: Path = Field(default=Path("data/storage"))
     feeds: List[FeedConfig] = Field(default_factory=list)
+    webhook_urls: List[HttpUrl] = Field(default_factory=list)
 
     @classmethod
     def from_yaml(cls, path: str | Path) -> "AppConfig":

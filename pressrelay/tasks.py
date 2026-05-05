@@ -19,6 +19,20 @@ from pressrelay.processing import fetch_and_convert_to_markdown
 from pressrelay.config import AppConfig, FeedConfig
 import time
 from pressrelay.metrics import ARTICLES_PROCESSED, FEED_FETCH_TOTAL, PROCESSING_LATENCY, ACTIVE_TICKERS, TICKERS_DETECTED, FEED_ERROR_COUNT
+import httpx
+
+async def send_webhooks(webhook_urls: List[str], payload: Dict[str, Any]):
+    """Sends async webhooks to configured endpoints."""
+    async with httpx.AsyncClient() as client:
+        tasks = []
+        for url in webhook_urls:
+            tasks.append(client.post(str(url), json=payload, timeout=5.0))
+        results = await asyncio.gather(*tasks, return_exceptions=True)
+        for url, res in zip(webhook_urls, results):
+            if isinstance(res, Exception):
+                logger.error(f"Webhook failed for {url}: {res}")
+            elif res.status_code >= 400:
+                logger.error(f"Webhook {url} returned status {res.status_code}")
 
 def slugify(text: str) -> str:
     """Convert a string to a URL-friendly slug."""
@@ -156,6 +170,7 @@ async def process_and_save_article(
         return False
 
     # 5. Update or Create Article record
+    article_id = None
     if existing_article:
         existing_article.status = ArticleStatus.SUCCESS
         existing_article.content_hash = content_hash
@@ -163,6 +178,7 @@ async def process_and_save_article(
         existing_article.markdown_path = str(file_path)
         existing_article.processed_at = datetime.utcnow()
         existing_article.metadata_json = metadata
+        article_id = existing_article.id
     else:
         new_article = Article(
             title=entry.get('title', 'Unknown'),
@@ -176,9 +192,23 @@ async def process_and_save_article(
             metadata_json=metadata
         )
         session.add(new_article)
+        await session.flush() # Get the ID before commit
+        article_id = new_article.id
         
     await session.commit()
     
+    # 6. Trigger Webhooks
+    if app_config.webhook_urls:
+        webhook_payload = {
+            "article_id": article_id,
+            "ticker": detected_tickers[0] if detected_tickers else None,
+            "all_tickers": detected_tickers,
+            "title": title,
+            "published_at": published_at.isoformat(),
+            "markdown_path": str(file_path)
+        }
+        asyncio.create_task(send_webhooks(app_config.webhook_urls, webhook_payload))
+
     ARTICLES_PROCESSED.labels(status="success", source=feed_cfg.name or "unknown").inc()
     PROCESSING_LATENCY.observe(time.time() - start_time)
     for ticker in detected_tickers:
