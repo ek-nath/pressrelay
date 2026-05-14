@@ -11,6 +11,7 @@ from curl_cffi.requests import AsyncSession as AsyncSessionCffi
 from pressrelay.logger import logger
 from pressrelay.config import settings
 from pressrelay.database import get_db_engine, get_session_factory, Watchlist, Article, ArticleStatus
+from pressrelay.universe import get_ticker_universe
 from pressrelay.client import AsyncClientManager
 from pressrelay.tasks import process_and_save_article
 
@@ -116,14 +117,13 @@ async def main():
     engine = await get_db_engine(config.database_url)
     session_factory = get_session_factory(engine)
     
-    async with session_factory() as session:
-        res = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
-        active_tickers = set(res.scalars().all())
+    # Load tickers from dynamic universe
+    active_tickers = get_ticker_universe(config.ticker_universe_csv)
             
-        if args.ticker:
-            tickers_to_process = [args.ticker.upper()]
-        else:
-            tickers_to_process = list(active_tickers)
+    if args.ticker:
+        tickers_to_process = [args.ticker.upper()]
+    else:
+        tickers_to_process = list(active_tickers)
 
     logger.info(f"Starting {'[DRY RUN] ' if args.dry_run else ''}backfill from {args.start_date} for {len(tickers_to_process)} tickers.")
     

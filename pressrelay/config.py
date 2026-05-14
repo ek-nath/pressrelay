@@ -12,6 +12,7 @@ class FeedConfig(BaseModel):
 class AppConfig(BaseModel):
     database_url: str = Field(default="sqlite+aiosqlite:///data/pressrelay_v2.db")
     storage_path: Path = Field(default=Path("data/storage"))
+    ticker_universe_csv: Optional[Path] = Field(default=None)
     feeds: List[FeedConfig] = Field(default_factory=list)
     webhook_urls: List[HttpUrl] = Field(default_factory=list)
 

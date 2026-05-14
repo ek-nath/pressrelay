@@ -15,6 +15,7 @@ from sqlalchemy import select
 
 from pressrelay.logger import logger
 from pressrelay.database import Article, ArticleStatus, Feed, Watchlist
+from pressrelay.universe import get_ticker_universe
 from pressrelay.processing import fetch_and_convert_to_markdown
 from pressrelay.config import AppConfig, FeedConfig
 import time
@@ -264,15 +265,12 @@ async def feed_processing_loop(
     """Infinite loop for fetching and processing a single RSS feed."""
     
     semaphore = asyncio.BoundedSemaphore(10)
-
-    async with session_factory() as session:
-        result = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
-        active_tickers = set(result.scalars().all())
-        ACTIVE_TICKERS.set(len(active_tickers))
-    
-    logger.info(f"Deterministic detection initialized with {len(active_tickers)} tickers for {feed_cfg.url}")
     
     while True:
+        # Load active tickers dynamically (e.g. from screener CSV or fallback)
+        active_tickers = get_ticker_universe(app_config.ticker_universe_csv)
+        ACTIVE_TICKERS.set(len(active_tickers))
+
         logger.info(f"Fetching feed: {feed_cfg.name or feed_cfg.url}")
         fetch_error = False
         etag = None

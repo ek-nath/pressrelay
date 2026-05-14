@@ -2,6 +2,7 @@ import asyncio
 import argparse
 from sqlalchemy import select
 from pressrelay.database import get_db_engine, get_session_factory, Article, ArticleStatus, Watchlist
+from pressrelay.universe import get_ticker_universe
 from pressrelay.config import settings, FeedConfig
 from pressrelay.logger import logger
 from pressrelay.client import AsyncClientManager
@@ -12,10 +13,8 @@ async def retry_failed_articles(dry_run: bool = False):
     engine = await get_db_engine(config.database_url)
     session_factory = get_session_factory(engine)
     
-    # 1. Initialize Watchlist
-    async with session_factory() as session:
-        result = await session.execute(select(Watchlist.ticker).where(Watchlist.is_active == 1))
-        active_tickers = set(result.scalars().all())
+    # 1. Initialize Watchlist (Dynamic)
+    active_tickers = get_ticker_universe(config.ticker_universe_csv)
 
     # 2. Get Failed Articles
     async with session_factory() as session:

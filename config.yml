@@ -1,5 +1,6 @@
 database_url: "sqlite+aiosqlite:///data/pressrelay_v2.db"
 storage_path: "data/storage"
+ticker_universe_csv: "/Users/ek/Projects/healthcare-alpha/healthcare_screener_results.csv"
 webhook_urls: ["http://localhost:8080/webhook"]
 
 feeds:
