@@ -4,7 +4,6 @@ import re
 import hashlib
 import feedparser
 from datetime import datetime
-from time import mktime
 from typing import Optional, Callable, List, Tuple, Dict, Any, Set
 from curl_cffi.requests import AsyncSession as AsyncSessionCffi
 import aiofiles
@@ -73,6 +72,19 @@ def detect_tickers_deterministic(
 
     return list(detected)
 
+async def _merge_detected_tickers(article: Article, tickers_to_add: List[str], session: AsyncSession) -> None:
+    """Merges newly detected tickers into an existing Article's metadata_json if any are new."""
+    if not tickers_to_add:
+        return
+    meta = dict(article.metadata_json or {})
+    existing = set(meta.get('detected_tickers', []))
+    merged = existing | set(tickers_to_add)
+    if merged != existing:
+        meta['detected_tickers'] = list(merged)
+        article.metadata_json = meta
+        await session.commit()
+
+
 async def process_and_save_article(
     entry: dict, 
     feed_cfg: FeedConfig, 
@@ -97,13 +109,7 @@ async def process_and_save_article(
     
     if existing_article and existing_article.status == ArticleStatus.SUCCESS:
         if primary_ticker:
-            meta = dict(existing_article.metadata_json)
-            tickers = meta.get('detected_tickers', [])
-            if primary_ticker not in tickers:
-                tickers.append(primary_ticker)
-                meta['detected_tickers'] = list(set(tickers))
-                existing_article.metadata_json = meta
-                await session.commit()
+            await _merge_detected_tickers(existing_article, [primary_ticker], session)
         return True
 
     logger.info(f"{'[DRY RUN] ' if dry_run else ''}Processing article: '{entry.get('title', 'No Title')}'")
@@ -149,9 +155,22 @@ async def process_and_save_article(
         logger.info(f"[DRY RUN] Would save article: {entry.get('title')} (Tickers: {', '.join(detected_tickers)})")
         return True
 
+    # 3b. Cross-source content_hash deduplication (e.g., Yahoo backfill vs RSS wire)
+    hash_stmt = select(Article).where(
+        Article.content_hash == content_hash,
+        Article.status == ArticleStatus.SUCCESS,
+    )
+    hash_result = await session.execute(hash_stmt)
+    duplicate_article = hash_result.scalars().first()
+    if duplicate_article:
+        await _merge_detected_tickers(duplicate_article, detected_tickers, session)
+        logger.debug(f"Skipping duplicate content_hash {content_hash[:10]} (matches article {duplicate_article.id})")
+        return True
+
     published_at = datetime.utcnow()
-    if hasattr(entry, 'published_parsed') and entry.published_parsed:
-        published_at = datetime.fromtimestamp(mktime(entry.published_parsed))
+    published_parsed = entry.get('published_parsed')
+    if published_parsed:
+        published_at = datetime(*published_parsed[:6])
 
     # 4. Save markdown file
     h = content_hash

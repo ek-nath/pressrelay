@@ -1,14 +1,51 @@
 import asyncio
-from typing import Union, Tuple, Dict, Any
+from typing import Optional, Tuple, Dict, Any
 
 from curl_cffi.requests import AsyncSession
 import trafilatura
+from lxml import etree
 from html_to_markdown import convert
 
 from pressrelay.logger import logger
 
+
+def _extract_and_convert(downloaded_html: str, url: str) -> Tuple[Optional[str], Optional[Dict[str, Any]]]:
+    """Synchronously extracts main content + metadata in one pass and converts to Markdown."""
+    doc = trafilatura.bare_extraction(
+        downloaded_html,
+        with_metadata=True,
+        include_comments=False,
+        include_tables=True,
+    )
+    if not doc or doc.body is None:
+        logger.warning(f"Failed to extract main content from {url}")
+        return None, None
+
+    main_content_html = etree.tostring(doc.body, encoding="unicode")
+    if not main_content_html:
+        logger.warning(f"Failed to serialize main content from {url}")
+        return None, None
+
+    try:
+        result = convert(main_content_html)
+        if isinstance(result, dict):
+            markdown_content = result.get('content')
+            metadata = result.get('metadata', {})
+            metadata['trafilatura'] = {
+                "author": doc.author,
+                "date": doc.date,
+                "sitename": doc.sitename,
+                "description": doc.description,
+            }
+            return markdown_content, metadata
+        return str(result), {}
+    except Exception as e:
+        logger.error(f"Error converting HTML to Markdown for {url}: {e}")
+        return None, None
+
+
 async def fetch_and_convert_to_markdown(
-    url: str, 
+    url: str,
     client: AsyncSession
 ) -> Tuple[Optional[str], Optional[Dict[str, Any]]]:
     """
@@ -26,38 +63,6 @@ async def fetch_and_convert_to_markdown(
         logger.warning(f"Fetch error for URL {url}: {e}")
         return None, None
 
-    # 2. Extract main content
-    logger.debug("Extracting main content...")
-    main_content_html = trafilatura.extract(
-        downloaded_html, 
-        include_comments=False, 
-        include_tables=True, 
-        output_format="html"
-    )
-    if not main_content_html:
-        logger.warning(f"Failed to extract main content from {url}")
-        return None, None
-
-    # 3. Convert to Markdown and Capture Metadata
-    logger.debug("Converting HTML to Markdown...")
-    try:
-        result = convert(main_content_html)
-        if isinstance(result, dict):
-            markdown_content = result.get('content')
-            metadata = result.get('metadata', {})
-            # Add some trafilatura metadata if missing
-            trafil_metadata = trafilatura.extract_metadata(downloaded_html)
-            if trafil_metadata:
-                metadata['trafilatura'] = {
-                    "author": trafil_metadata.author,
-                    "date": trafil_metadata.date,
-                    "sitename": trafil_metadata.sitename,
-                    "description": trafil_metadata.description
-                }
-            return markdown_content, metadata
-        else:
-            return str(result), {}
-            
-    except Exception as e:
-        logger.error(f"Error converting HTML to Markdown for {url}: {e}")
-        return None, None
+    logger.debug("Extracting main content and converting HTML to Markdown...")
+    loop = asyncio.get_running_loop()
+    return await loop.run_in_executor(None, _extract_and_convert, downloaded_html, url)

@@ -1,6 +1,6 @@
 import asyncio
 import argparse
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import List, Set
 
 import yfinance as yf
@@ -67,7 +67,11 @@ async def backfill_ticker(
                 continue
                 
             pub_date = datetime.fromisoformat(pub_date_str.replace("Z", "+00:00"))
-            
+            if pub_date.tzinfo is None:
+                pub_date = pub_date.replace(tzinfo=timezone.utc)
+            else:
+                pub_date = pub_date.astimezone(timezone.utc)
+
             if pub_date.replace(tzinfo=None) < start_date:
                 continue
 
@@ -78,7 +82,7 @@ async def backfill_ticker(
             mock_entry = {
                 "link": article_url,
                 "title": content.get("title", "No Title"),
-                "published_parsed": pub_date.timetuple()
+                "published_parsed": pub_date.utctimetuple()
             }
             
             from pressrelay.config import FeedConfig
