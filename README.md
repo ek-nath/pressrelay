@@ -59,7 +59,11 @@ uv run python -m pressrelay.retry [--dry-run]
 
 *   **Language:** Python 3.14+
 *   **Package Manager:** `uv`
-*   **Scraping:** `trafilatura`, `feedparser`, `yfinance`
+*   **Scraping:** `trafilatura`, `feedparser`, `yfinance`, `curl-cffi`
 *   **Conversion:** `html-to-markdown`
 *   **Database:** `SQLAlchemy` (Async), `SQLite`
-*   **Logic:** `Pydantic` (Settings), `FlashText` (Ticker detection)
+*   **Logic:** `Pydantic` (Settings)
+
+## Architecture & Data Invariants
+
+For module-level architecture, database schema, Markdown storage format, UTC timestamp rules, and deduplication invariants, see [AGENTS.md](AGENTS.md).
